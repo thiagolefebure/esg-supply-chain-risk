@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Data outputs (keep raw simulated data, ignore regenerated artifacts if you want)
+# outputs/
+
+# OS
+.DS_Store

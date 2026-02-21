@@ -1,0 +1,19 @@
+# Tableau Calculated Fields (copy/paste)
+
+## Spend (CHF millions)
+SUM([annual_spend_chf]) / 1000000
+
+## Days since last ESG update
+DATEDIFF('day', DATE([last_update]), TODAY())
+
+## Missing any ESG pillar?
+IF ISNULL([env_score]) OR ISNULL([social_score]) OR ISNULL([governance_score]) THEN 1 ELSE 0 END
+
+## % completeness
+AVG([esg_completeness])
+
+## High-risk spend exposure
+IF [risk_class] = 'High Risk' THEN [annual_spend_chf] ELSE 0 END
+
+## Medium+High risk spend exposure
+IF [risk_class] IN ('High Risk','Medium Risk') THEN [annual_spend_chf] ELSE 0 END

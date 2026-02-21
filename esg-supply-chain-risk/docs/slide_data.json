@@ -1,0 +1,20 @@
+{
+  "risk_counts": {
+    "Medium Risk": 668,
+    "Low Risk": 204,
+    "High Risk": 128
+  },
+  "spend_by_risk": {
+    "High Risk": 46548323.21,
+    "Low Risk": 71774785.67,
+    "Medium Risk": 250609914.79
+  },
+  "top_category_mh_spend": {
+    "Components": 88231389.0,
+    "Metals & Minerals": 86721863.17999999,
+    "Tools & Machinery": 28238321.7,
+    "Logistics": 20481153.48,
+    "Packaging": 19967856.3,
+    "IT Services": 16771916.46
+  }
+}

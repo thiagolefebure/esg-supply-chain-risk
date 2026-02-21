@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,category,country,region,annual_spend_chf,risk_score,risk_class,recommended_action,esg_completeness,data_source,last_update
+S0001,Eclipse Supply,Metals & Minerals,Malaysia,Asia,452847.07,45.8488,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-12
+S0002,Lumen Partners,Packaging,Indonesia,Asia,145712.18,56.2736,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-11-13
+S0003,Atlas Logistics,Components,South Africa,Africa,296895.25,44.903999999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-19
+S0004,Aurora Industries,Components,Spain,Europe,252364.28,30.529600000000002,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2025-05-27
+S0005,Meridian Services,Packaging,Taiwan,Asia,921146.05,52.2152,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-21
+S0006,Cascade Supply,Components,Indonesia,Asia,661592.54,88.7441,High Risk,Immediate corrective action + 30-day follow-up,1.0,Internal Assessment,2025-03-14
+S0007,Meridian Systems,Components,Tunisia,Africa,209056.31,54.6028,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-04
+S0008,Meridian Systems,Metals & Minerals,Malaysia,Asia,469764.35,60.8144,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-03
+S0009,Atlas Group,Logistics,South Korea,Asia,167887.75,47.96640000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-21
+S0010,Meridian Systems,Metals & Minerals,Mexico,Americas,50364.92,82.81240000000001,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Internal Assessment,2025-01-12
+S0011,Vega Group,Metals & Minerals,India,Asia,159243.93,64.9688,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-09
+S0012,Lumen Materials,Components,Morocco,Africa,299261.28,57.38759999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-10-16
+S0013,Eclipse Industries,IT Services,United Arab Emirates,Middle East,525717.36,46.296,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-01-05
+S0014,Nimbus Materials,Facility,Japan,Asia,115480.85,34.606,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-05-27
+S0015,Helios Systems,Metals & Minerals,India,Asia,196896.26,100.0,High Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-10-24
+S0016,Meridian Partners,Chemicals,Brazil,Americas,177857.52,55.3316,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-08-13
+S0017,Novatek Industries,Logistics,Switzerland,Europe,100658.52,45.795199999999994,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-24
+S0018,Zenith Materials,Tools & Machinery,Canada,Americas,184299.87,54.876000000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-26
+S0019,Meridian Partners,IT Services,Spain,Europe,104654.46,63.2184,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-28
+S0020,Eclipse Manufacturing,Facility,Singapore,Asia,69830.86,49.0016,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-05-03
+S0021,Argent Systems,Components,Italy,Europe,691413.47,29.351599999999998,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2025-04-09
+S0022,Novatek Partners,Components,France,Europe,140224.94,49.7992,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-29
+S0023,Helios Supply,Facility,Spain,Europe,47807.23,47.3004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-09
+S0024,Helios Industries,Packaging,Japan,Asia,190515.53,57.062000000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-20
+S0025,Orion Logistics,Facility,Tunisia,Africa,249759.65,47.8044,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-09-07
+S0026,Eclipse Industries,Components,India,Asia,266937.3,68.6916,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-09
+S0027,Alpine Materials,Tools & Machinery,Germany,Europe,277456.6,45.3556,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-08-11
+S0028,Argent Partners,Metals & Minerals,Tunisia,Africa,450258.9,46.9548,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-05
+S0029,Argent Services,Facility,Japan,Asia,112587.84,49.519999999999996,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-08-20
+S0030,Cascade Materials,Metals & Minerals,France,Europe,1334622.14,43.8484,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-03-14
+S0031,Vega Industries,Logistics,Germany,Europe,179287.91,36.416000000000004,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-11-10
+S0032,Atlas Components,Metals & Minerals,Philippines,Asia,223657.83,60.547200000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-01-19
+S0033,Cobalt Holdings,Components,Mexico,Americas,177087.78,43.9736,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-10-26
+S0034,Meridian Components,Consulting,Indonesia,Asia,265492.28,75.4552,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-03-18
+S0035,Eclipse Industries,Components,Morocco,Africa,816887.76,69.51599999999999,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-17
+S0036,Helios Partners,Chemicals,Japan,Asia,342841.7,50.556400000000004,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-01-21
+S0037,Cobalt Logistics,Components,Spain,Europe,155525.41,39.5508,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2024-01-23
+S0038,Orion Systems,Tools & Machinery,New Zealand,Oceania,279592.22,44.0132,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-18
+S0039,Argent Materials,Metals & Minerals,Mexico,Americas,244047.45,52.4472,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-03-25
+S0040,Meridian Industries,Metals & Minerals,Thailand,Asia,308639.8,56.994800000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-10-10
+S0041,Vega Materials,Components,New Zealand,Oceania,583009.69,49.410000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-08
+S0042,Atlas Group,Tools & Machinery,Canada,Americas,688772.61,70.11510000000001,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2024-04-22
+S0043,Alpine Manufacturing,IT Services,United Arab Emirates,Middle East,184755.74,46.080600000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-11-17
+S0044,Lumen Components,Components,Canada,Americas,138909.6,50.6064,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-22
+S0045,Cascade Partners,Components,Tunisia,Africa,473203.7,63.967600000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-02-27
+S0046,Helios Holdings,Tools & Machinery,Turkey,Europe/Asia,2003038.66,52.09,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-04-02
+S0047,Novatek Logistics,Components,South Africa,Africa,326301.18,89.10480000000001,High Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2025-03-29
+S0048,Lumen Components,Facility,France,Europe,205006.66,39.019200000000005,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-01-29
+S0049,Meridian Logistics,Packaging,Morocco,Africa,141985.92,60.8232,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-24
+S0050,Nimbus Systems,Components,Vietnam,Asia,476463.99,68.6783,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2025-08-02
+S0051,Nimbus Holdings,Tools & Machinery,Taiwan,Asia,159395.46,36.339600000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-12-18
+S0052,Zenith Materials,IT Services,Philippines,Asia,108944.56,54.856,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-09-30
+S0053,Lumen Logistics,Metals & Minerals,Japan,Asia,744731.52,43.8592,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-01-08
+S0054,Cobalt Group,Chemicals,Canada,Americas,211715.97,36.970400000000005,Low Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-09-23
+S0055,Alpine Supply,IT Services,New Zealand,Oceania,175898.44,32.3112,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-02-22
+S0056,Cascade Supply,Packaging,Singapore,Asia,565191.35,27.576800000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-10-13
+S0057,Cobalt Holdings,Metals & Minerals,India,Asia,204191.77,88.4833,High Risk,Immediate corrective action + 30-day follow-up,1.0,Internal Assessment,2024-01-14
+S0058,Cobalt Manufacturing,Facility,Saudi Arabia,Middle East,125225.36,58.4364,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-06-11
+S0059,Cobalt Supply,Facility,Mexico,Americas,175321.6,53.4992,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-08-10
+S0060,Argent Materials,Components,South Korea,Asia,441221.18,60.7547,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-11-29
+S0061,Nimbus Holdings,Components,South Korea,Asia,115400.13,36.288,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-06-24
+S0062,Nimbus Group,Metals & Minerals,South Korea,Asia,217384.33,48.912,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-07-15
+S0063,Alpine Group,Facility,Thailand,Asia,143053.14,44.7896,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-03-05
+S0064,Eclipse Industries,IT Services,Turkey,Europe/Asia,191132.42,75.3004,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-10-24
+S0065,Aurora Group,Logistics,Tunisia,Africa,169994.5,57.7536,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-08-13
+S0066,Aurora Supply,Components,Turkey,Europe/Asia,337358.23,59.9748,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-08-06
+S0067,Lumen Industries,Metals & Minerals,China,Asia,123431.8,69.2336,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-06
+S0068,Helios Holdings,Metals & Minerals,Singapore,Asia,350545.66,37.2244,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-08-03
+S0069,Zenith Materials,Packaging,United States,Americas,170789.0,47.474000000000004,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Internal Assessment,2024-08-22
+S0070,Argent Components,Metals & Minerals,Brazil,Americas,2569061.08,66.11249999999998,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-04-12
+S0071,Zenith Supply,Logistics,Germany,Europe,118609.55,36.61,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-03-30
+S0072,Atlas Industries,Consulting,United Arab Emirates,Middle East,176084.44,58.2656,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-24
+S0073,Orion Group,Packaging,Australia,Oceania,406060.83,38.418400000000005,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-06-25
+S0074,Nimbus Holdings,Facility,United Kingdom,Europe,193061.39,42.74679999999999,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-09
+S0075,Vega Holdings,Components,Mexico,Americas,1759774.86,37.632400000000004,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2024-07-17
+S0076,Atlas Logistics,Components,Japan,Asia,186648.07,49.3352,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-07
+S0077,Nimbus Manufacturing,Logistics,New Zealand,Oceania,62633.28,40.4932,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-01
+S0078,Novatek Group,Facility,Thailand,Asia,87942.89,56.620400000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-07-20
+S0079,Eclipse Services,Components,South Korea,Asia,88027.78,46.306799999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-08-18
+S0080,Eclipse Materials,Facility,Morocco,Africa,171931.32,51.869600000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-16
+S0081,Helios Components,Components,United States,Americas,171599.4,42.9316,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-11-12
+S0082,Eclipse Logistics,Components,Brazil,Americas,1237253.9,61.22880000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-04
+S0083,Cobalt Manufacturing,Consulting,South Korea,Asia,73930.33,52.318000000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-04-06
+S0084,Helios Holdings,Components,Turkey,Europe/Asia,442772.68,58.7417,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-05-01
+S0085,Eclipse Group,IT Services,Malaysia,Asia,312017.26,66.28200000000001,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2025-07-24
+S0086,Vega Group,Logistics,Philippines,Asia,51678.11,60.3056,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-09-19
+S0087,Aurora Systems,Logistics,Brazil,Americas,71970.89,55.800000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-06-01
+S0088,Aurora Industries,Metals & Minerals,Germany,Europe,415054.22,52.2788,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-02-08
+S0089,Zenith Systems,Components,Canada,Americas,705292.03,35.165600000000005,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2024-06-03
+S0090,Cascade Materials,IT Services,Indonesia,Asia,197733.49,98.92490000000001,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2025-10-04
+S0091,Cobalt Logistics,Metals & Minerals,Germany,Europe,462079.25,58.05159999999999,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-04-09
+S0092,Argent Services,Packaging,South Korea,Asia,206403.39,35.2308,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2024-08-18
+S0093,Zenith Systems,Components,Philippines,Asia,332515.32,55.0504,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-10-11
+S0094,Orion Holdings,Components,Saudi Arabia,Middle East,431171.12,69.1568,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-12
+S0095,Cascade Materials,IT Services,South Africa,Africa,205758.41,53.092800000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-11
+S0096,Helios Services,Packaging,Turkey,Europe/Asia,91905.75,59.177600000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-01-15
+S0097,Eclipse Manufacturing,Components,Mexico,Americas,1035395.52,73.1448,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2025-01-22
+S0098,Aurora Partners,Metals & Minerals,South Africa,Africa,523097.79,55.352000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-04
+S0099,Novatek Materials,Tools & Machinery,Spain,Europe,164178.91,45.357600000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-07-19
+S0100,Helios Systems,Logistics,Brazil,Americas,305488.58,68.2936,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Third-party Rating,2025-12-13
+S0101,Cobalt Components,Metals & Minerals,Saudi Arabia,Middle East,503015.04,60.8264,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-01-13
+S0102,Aurora Group,Logistics,India,Asia,362300.18,67.5468,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-13
+S0103,Lumen Manufacturing,Tools & Machinery,Turkey,Europe/Asia,294238.77,62.5696,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-09-10
+S0104,Atlas Components,Metals & Minerals,Australia,Oceania,195921.32,27.722399999999997,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-11-30
+S0105,Meridian Group,Components,South Korea,Asia,538627.56,45.7864,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-06-29
+S0106,Vega Services,Consulting,Tunisia,Africa,181752.77,69.22480000000002,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-30
+S0107,Cascade Systems,Metals & Minerals,Australia,Oceania,307533.7,43.152,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-22
+S0108,Atlas Systems,Metals & Minerals,Spain,Europe,973609.61,42.000800000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-07-24
+S0109,Vega Supply,Logistics,Australia,Oceania,174512.38,53.208200000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-10
+S0110,Lumen Supply,IT Services,Canada,Americas,85262.9,48.3692,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-09-08
+S0111,Nimbus Materials,Metals & Minerals,India,Asia,152016.35,61.45040000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-31
+S0112,Vega Systems,Logistics,Canada,Americas,239420.8,49.3988,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-11-30
+S0113,Meridian Manufacturing,Packaging,Canada,Americas,136111.51,32.8172,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-02-25
+S0114,Nimbus Logistics,Components,New Zealand,Oceania,633907.14,55.037600000000005,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-12-01
+S0115,Vega Logistics,Chemicals,India,Asia,237658.51,64.966,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-06
+S0116,Argent Industries,Components,South Korea,Asia,219566.69,48.2108,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-06-25
+S0117,Novatek Systems,Facility,Philippines,Asia,112425.91,64.284,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-02-23
+S0118,Meridian Systems,IT Services,United States,Americas,41175.69,46.388,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-05-18
+S0119,Atlas Group,Metals & Minerals,Malaysia,Asia,361209.51,67.1716,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-14
+S0120,Orion Logistics,Components,United Kingdom,Europe,179755.17,43.896,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-04-12
+S0121,Helios Materials,Consulting,Saudi Arabia,Middle East,52163.13,68.2886,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-12-30
+S0122,Atlas Supply,Consulting,Singapore,Asia,156445.21,72.69800000000001,High Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-06-15
+S0123,Nimbus Systems,Components,United Arab Emirates,Middle East,375128.66,50.55159999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-06-16
+S0124,Novatek Systems,Metals & Minerals,Morocco,Africa,143498.68,63.5308,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-01-22
+S0125,Alpine Logistics,IT Services,Germany,Europe,387101.03,28.6156,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2024-10-17
+S0126,Argent Partners,Metals & Minerals,China,Asia,831926.19,77.394,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-07-04
+S0127,Aurora Industries,Logistics,South Africa,Africa,334206.02,63.8928,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-15
+S0128,Eclipse Systems,Components,South Korea,Asia,864139.72,31.7832,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-06-24
+S0129,Novatek Systems,Metals & Minerals,Morocco,Africa,865012.42,67.8557,Medium Risk,Request signature/commitment before continuation,0.3333333333333333,Internal Assessment,2025-11-24
+S0130,Helios Partners,Logistics,Malaysia,Asia,3549031.09,58.8892,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-02-27
+S0131,Aurora Materials,Logistics,United States,Americas,296761.03,39.5912,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-10-14
+S0132,Zenith Components,Logistics,Spain,Europe,232953.48,40.15,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-13
+S0133,Cobalt Manufacturing,Components,Indonesia,Asia,192952.09,69.7592,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-08-30
+S0134,Meridian Systems,Components,Singapore,Asia,296262.89,32.49000000000001,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-02-21
+S0135,Helios Manufacturing,Components,Vietnam,Asia,1938965.78,88.9401,High Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-08-30
+S0136,Lumen Holdings,Tools & Machinery,South Korea,Asia,80390.01,22.1484,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-04-22
+S0137,Zenith Supply,Facility,Thailand,Asia,111575.25,57.428000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-03
+S0138,Nimbus Services,IT Services,Australia,Oceania,330592.42,56.7972,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-09
+S0139,Orion Systems,Packaging,Saudi Arabia,Middle East,91835.76,57.691900000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-06-25
+S0140,Eclipse Industries,Metals & Minerals,China,Asia,524193.74,80.7637,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-08-09
+S0141,Nimbus Industries,Consulting,Indonesia,Asia,168797.91,95.33239999999999,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2024-09-27
+S0142,Helios Services,IT Services,Brazil,Americas,96637.27,42.147,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-04-27
+S0143,Zenith Holdings,Logistics,Australia,Oceania,32205.29,39.436400000000006,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2025-07-23
+S0144,Aurora Logistics,IT Services,Philippines,Asia,188935.97,38.699200000000005,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-01-31
+S0145,Alpine Supply,Components,Turkey,Europe/Asia,189935.68,52.8956,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-07-08
+S0146,Vega Holdings,Logistics,Taiwan,Asia,148480.79,35.7796,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-01-06
+S0147,Nimbus Manufacturing,Tools & Machinery,Germany,Europe,536299.03,34.6712,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-06-05
+S0148,Lumen Holdings,Packaging,Philippines,Asia,325332.87,35.702,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-05-22
+S0149,Novatek Materials,Logistics,China,Asia,111306.59,69.0977,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-05-22
+S0150,Argent Components,Components,Singapore,Asia,212308.14,46.513600000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-15
+S0151,Cobalt Supply,Logistics,Vietnam,Asia,50451.81,62.7396,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-22
+S0152,Atlas Materials,Components,Australia,Oceania,746198.49,43.687200000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-04-29
+S0153,Nimbus Holdings,Consulting,United Arab Emirates,Middle East,888886.61,43.4716,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-09-04
+S0154,Eclipse Systems,Logistics,Tunisia,Africa,371748.27,45.070800000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-06-20
+S0155,Orion Components,Logistics,Italy,Europe,448439.44,41.6288,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-02-07
+S0156,Zenith Systems,Metals & Minerals,Italy,Europe,203276.38,21.402800000000003,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-09-21
+S0157,Vega Services,Packaging,China,Asia,232130.63,76.783,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-04-06
+S0158,Vega Industries,Consulting,Australia,Oceania,302460.89,38.2376,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-09-28
+S0159,Cascade Supply,Logistics,Morocco,Africa,12173.13,47.40800000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-02-21
+S0160,Meridian Holdings,Logistics,Philippines,Asia,71717.49,59.918400000000005,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-07-28
+S0161,Cascade Services,Components,Malaysia,Asia,1123396.76,96.92720000000001,High Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2025-06-18
+S0162,Vega Materials,Metals & Minerals,South Korea,Asia,96937.85,49.064,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-07-26
+S0163,Lumen Services,Components,Morocco,Africa,1134242.96,58.4778,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-02-11
+S0164,Vega Materials,Components,Germany,Europe,113523.78,35.894800000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-04-13
+S0165,Orion Holdings,Metals & Minerals,Turkey,Europe/Asia,222067.16,48.1372,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-07-02
+S0166,Cascade Systems,Tools & Machinery,South Korea,Asia,518212.23,41.674800000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-07-20
+S0167,Atlas Manufacturing,Metals & Minerals,Vietnam,Asia,321830.44,72.3328,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-05-10
+S0168,Cascade Partners,Components,United States,Americas,263078.17,31.160600000000002,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2025-05-29
+S0169,Argent Holdings,IT Services,France,Europe,492029.78,53.3292,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-05-29
+S0170,Vega Logistics,Tools & Machinery,United Arab Emirates,Middle East,113061.37,77.586,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-07-28
+S0171,Cascade Components,Facility,Singapore,Asia,144144.55,38.9928,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-02-25
+S0172,Nimbus Materials,IT Services,Morocco,Africa,260577.02,44.4825,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-08
+S0173,Meridian Supply,Components,Saudi Arabia,Middle East,609708.07,54.1536,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-01-12
+S0174,Orion Group,Chemicals,South Korea,Asia,84062.97,48.746,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-03-21
+S0175,Eclipse Services,Consulting,Germany,Europe,101570.48,35.007200000000005,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-11-22
+S0176,Atlas Materials,Components,Canada,Americas,706542.78,34.506400000000006,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-03-04
+S0177,Vega Industries,Metals & Minerals,Spain,Europe,477994.42,46.141600000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-03-01
+S0178,Helios Logistics,Metals & Minerals,New Zealand,Oceania,457850.04,45.251200000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-11-30
+S0179,Meridian Manufacturing,Components,Canada,Americas,184473.55,27.221200000000003,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-12-14
+S0180,Atlas Components,Logistics,Philippines,Asia,88374.28,67.03059999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-06-30
+S0181,Eclipse Partners,Packaging,Indonesia,Asia,136047.56,79.4179,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-06-12
+S0182,Atlas Supply,Metals & Minerals,Thailand,Asia,334302.09,62.20320000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-03-23
+S0183,Atlas Partners,Components,Morocco,Africa,471472.63,48.6452,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-05-25
+S0184,Zenith Materials,Chemicals,Turkey,Europe/Asia,138447.42,48.4344,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-11
+S0185,Atlas Logistics,Facility,Germany,Europe,204751.06,61.8232,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-02-15
+S0186,Cascade Industries,Components,Vietnam,Asia,583468.73,85.5428,High Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-03-18
+S0187,Nimbus Services,IT Services,Australia,Oceania,462491.31,47.7076,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-11-11
+S0188,Helios Group,Packaging,United Kingdom,Europe,264820.28,45.4872,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-26
+S0189,Cobalt Holdings,Consulting,Philippines,Asia,210940.86,41.3952,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-09-27
+S0190,Nimbus Logistics,Packaging,South Korea,Asia,124662.66,38.9756,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-01-27
+S0191,Lumen Materials,Consulting,Malaysia,Asia,54975.37,85.37770000000002,High Risk,Prioritize for audit and mitigation plan,1.0,Internal Assessment,2025-07-28
+S0192,Atlas Services,Metals & Minerals,Switzerland,Europe,1623099.66,31.891600000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-06-30
+S0193,Helios Holdings,Consulting,Tunisia,Africa,411057.63,32.2372,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-11-14
+S0194,Cobalt Partners,Logistics,Spain,Europe,306609.48,46.5848,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-16
+S0195,Argent Manufacturing,Tools & Machinery,Tunisia,Africa,354569.6,55.714400000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-07
+S0196,Lumen Services,Metals & Minerals,United States,Americas,148469.52,39.8184,Low Risk,Approved; monitor annually,0.3333333333333333,Supplier Questionnaire,2024-10-26
+S0197,Meridian Systems,Components,Japan,Asia,781173.96,35.4488,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-02-21
+S0198,Alpine Services,Chemicals,United Kingdom,Europe,144690.77,35.76199999999999,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2025-10-05
+S0199,Nimbus Manufacturing,Logistics,Thailand,Asia,362343.81,44.8768,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-08-14
+S0200,Cobalt Systems,Packaging,Vietnam,Asia,103675.42,72.5394,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-01-25
+S0201,Nimbus Partners,Components,Vietnam,Asia,370241.84,83.602,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2024-08-12
+S0202,Atlas Partners,Metals & Minerals,Australia,Oceania,238685.68,40.98230000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-04
+S0203,Vega Partners,Components,New Zealand,Oceania,245641.08,55.4164,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-05-21
+S0204,Vega Services,Logistics,Germany,Europe,313527.88,26.427599999999998,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-09-03
+S0205,Aurora Systems,Tools & Machinery,Saudi Arabia,Middle East,179870.7,47.1228,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-04-27
+S0206,Aurora Manufacturing,Facility,United States,Americas,52787.46,38.757600000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-05-21
+S0207,Cobalt Manufacturing,Chemicals,Canada,Americas,77864.52,41.804,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-10
+S0208,Nimbus Materials,Components,United States,Americas,482966.84,41.5252,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-15
+S0209,Helios Industries,Components,Singapore,Asia,711111.88,28.5288,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-06-28
+S0210,Meridian Holdings,Consulting,Brazil,Americas,121726.29,83.6464,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-06-19
+S0211,Alpine Supply,Components,Taiwan,Asia,299877.08,29.073600000000003,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-01-29
+S0212,Meridian Systems,Logistics,Tunisia,Africa,83976.32,61.542,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-05
+S0213,Zenith Group,Packaging,Japan,Asia,210696.68,53.580799999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-01-23
+S0214,Cobalt Partners,Metals & Minerals,Morocco,Africa,184734.07,73.4985,High Risk,Immediate corrective action + 30-day follow-up,0.6666666666666666,Internal Assessment,2024-03-26
+S0215,Atlas Partners,Chemicals,Mexico,Americas,126813.52,72.3907,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-10-13
+S0216,Atlas Manufacturing,Facility,Morocco,Africa,224441.28,38.1944,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-01-05
+S0217,Vega Logistics,Packaging,Vietnam,Asia,165504.73,66.3309,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-04-03
+S0218,Atlas Services,Components,Indonesia,Asia,307432.97,73.75880000000001,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2024-01-08
+S0219,Vega Manufacturing,Metals & Minerals,Japan,Asia,365150.73,22.731200000000005,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-09-07
+S0220,Orion Partners,Consulting,Mexico,Americas,206051.15,64.83040000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-07-31
+S0221,Argent Supply,Facility,Malaysia,Asia,774541.9,65.7607,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-10
+S0222,Meridian Manufacturing,Metals & Minerals,United States,Americas,193799.48,31.8228,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-01-30
+S0223,Cobalt Partners,Chemicals,Australia,Oceania,797568.83,49.7376,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-12
+S0224,Argent Systems,Components,Tunisia,Africa,300085.39,63.06360000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-12
+S0225,Aurora Logistics,Chemicals,Malaysia,Asia,29758.9,70.592,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-06-11
+S0226,Aurora Logistics,Components,South Korea,Asia,199852.41,45.5116,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-07
+S0227,Orion Logistics,Logistics,Italy,Europe,342288.22,47.39040000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-08-10
+S0228,Novatek Partners,Components,France,Europe,1365286.84,38.5392,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2024-02-18
+S0229,Lumen Partners,Tools & Machinery,Mexico,Americas,148331.76,42.5936,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-09
+S0230,Alpine Partners,IT Services,Canada,Americas,241237.05,36.1464,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-05-04
+S0231,Atlas Logistics,Packaging,United Kingdom,Europe,58866.89,55.1604,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-11
+S0232,Alpine Materials,Metals & Minerals,Malaysia,Asia,1317314.09,67.016,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-07-07
+S0233,Meridian Logistics,Tools & Machinery,South Africa,Africa,1471824.12,60.235600000000005,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-04-06
+S0234,Lumen Partners,Metals & Minerals,New Zealand,Oceania,246007.39,54.5032,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-06-06
+S0235,Orion Manufacturing,Packaging,Vietnam,Asia,42989.58,84.0356,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-06-05
+S0236,Orion Holdings,Components,Malaysia,Asia,1057644.96,45.095200000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-05
+S0237,Orion Manufacturing,IT Services,Australia,Oceania,148504.14,24.168400000000002,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-08-04
+S0238,Vega Holdings,Tools & Machinery,Turkey,Europe/Asia,963868.75,45.57,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-11
+S0239,Lumen Partners,Components,Switzerland,Europe,359565.75,41.288000000000004,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2024-05-19
+S0240,Novatek Components,Tools & Machinery,New Zealand,Oceania,316008.03,49.00880000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-03-10
+S0241,Zenith Partners,Packaging,Spain,Europe,181670.75,47.4612,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-07-09
+S0242,Cobalt Partners,IT Services,United Arab Emirates,Middle East,267876.13,43.6948,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-11-11
+S0243,Eclipse Materials,Components,South Korea,Asia,256250.55,56.9268,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-08-23
+S0244,Eclipse Manufacturing,Components,United Kingdom,Europe,540369.49,28.747999999999998,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-12-28
+S0245,Aurora Industries,Metals & Minerals,United Arab Emirates,Middle East,104942.31,48.3756,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-19
+S0246,Eclipse Industries,Components,Tunisia,Africa,995100.3,53.226400000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-08-11
+S0247,Argent Systems,Metals & Minerals,New Zealand,Oceania,804998.77,53.1616,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-07-26
+S0248,Lumen Partners,Components,South Africa,Africa,333860.37,58.851,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-04-22
+S0249,Novatek Industries,IT Services,Spain,Europe,846273.9,46.577299999999994,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2025-02-15
+S0250,Novatek Manufacturing,Metals & Minerals,Singapore,Asia,1458224.32,36.8616,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-03-04
+S0251,Vega Industries,Metals & Minerals,Morocco,Africa,960070.26,49.0192,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-31
+S0252,Argent Industries,Components,Canada,Americas,1070206.96,45.1118,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-03-11
+S0253,Novatek Holdings,Packaging,Tunisia,Africa,379549.23,61.90800000000001,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2025-03-09
+S0254,Eclipse Components,Logistics,Turkey,Europe/Asia,33876.93,67.7296,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-05-07
+S0255,Nimbus Partners,Components,South Africa,Africa,461822.33,51.012,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-05-23
+S0256,Nimbus Materials,Metals & Minerals,China,Asia,635705.81,61.8156,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-24
+S0257,Zenith Manufacturing,Components,Brazil,Americas,1119990.62,44.372800000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-11-28
+S0258,Lumen Supply,Logistics,France,Europe,35071.21,42.91879999999999,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-03
+S0259,Vega Industries,Chemicals,India,Asia,41659.89,62.170199999999994,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-12-02
+S0260,Meridian Services,Metals & Minerals,Australia,Oceania,291122.75,34.7976,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-10-20
+S0261,Cobalt Components,Consulting,Brazil,Americas,49813.93,86.7556,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-03-01
+S0262,Eclipse Systems,IT Services,South Korea,Asia,242488.02,42.7428,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-07
+S0263,Zenith Services,Components,Morocco,Africa,768149.45,50.367,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-10-05
+S0264,Meridian Holdings,Components,United States,Americas,168814.12,30.619600000000002,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-06-03
+S0265,Eclipse Systems,Facility,Indonesia,Asia,154794.97,60.8678,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-12-28
+S0266,Argent Services,Components,Japan,Asia,653470.25,42.2012,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-05
+S0267,Eclipse Industries,Metals & Minerals,United Kingdom,Europe,234275.08,52.739999999999995,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-02-21
+S0268,Novatek Supply,Chemicals,Saudi Arabia,Middle East,56101.56,77.8259,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-12-08
+S0269,Meridian Manufacturing,Metals & Minerals,South Korea,Asia,328677.75,46.992000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-12-11
+S0270,Aurora Industries,Packaging,Japan,Asia,71097.41,40.571200000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-05
+S0271,Orion Components,Chemicals,Vietnam,Asia,666144.02,73.41750000000002,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-07-06
+S0272,Cobalt Holdings,IT Services,United States,Americas,167411.62,41.2036,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-15
+S0273,Zenith Industries,Consulting,Canada,Americas,92987.43,45.7104,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-23
+S0274,Cascade Group,Packaging,Germany,Europe,193142.58,58.3706,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2025-02-15
+S0275,Novatek Holdings,Chemicals,Malaysia,Asia,238027.43,50.661,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-15
+S0276,Orion Services,Components,China,Asia,195028.07,83.80160000000001,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2024-12-22
+S0277,Orion Holdings,Consulting,Switzerland,Europe,106467.93,33.980000000000004,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2024-02-11
+S0278,Zenith Supply,Logistics,Canada,Americas,87275.62,57.95,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-06-13
+S0279,Vega Holdings,Facility,Vietnam,Asia,48428.66,55.7736,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2024-08-17
+S0280,Eclipse Group,Consulting,Tunisia,Africa,485774.31,56.4272,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-12-23
+S0281,Helios Supply,Components,South Africa,Africa,567901.31,36.756,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-06-25
+S0282,Alpine Logistics,Metals & Minerals,Mexico,Americas,390404.46,82.86439999999999,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-09-03
+S0283,Nimbus Supply,Components,India,Asia,323231.25,57.5538,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-11-27
+S0284,Nimbus Group,Metals & Minerals,Switzerland,Europe,166712.33,34.345200000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-05-23
+S0285,Nimbus Materials,Metals & Minerals,Singapore,Asia,203332.42,43.0244,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-06-16
+S0286,Zenith Supply,Components,Spain,Europe,114766.44,39.595800000000004,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2025-04-28
+S0287,Aurora Industries,Components,Morocco,Africa,213458.79,59.912,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-06-08
+S0288,Cascade Systems,Components,Tunisia,Africa,128117.11,65.122,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-27
+S0289,Atlas Logistics,Metals & Minerals,Philippines,Asia,2209273.52,68.0368,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-25
+S0290,Nimbus Services,IT Services,Taiwan,Asia,329493.47,46.36449999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-09-08
+S0291,Argent Manufacturing,Tools & Machinery,Italy,Europe,609476.48,41.727199999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-06-08
+S0292,Lumen Manufacturing,Components,South Korea,Asia,152803.96,47.6318,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Internal Assessment,2024-07-11
+S0293,Vega Manufacturing,IT Services,Spain,Europe,70983.52,36.297599999999996,Low Risk,Approved; monitor annually,0.3333333333333333,Supplier Questionnaire,2024-11-30
+S0294,Atlas Partners,Packaging,Indonesia,Asia,223626.54,63.958299999999994,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-20
+S0295,Alpine Holdings,IT Services,Philippines,Asia,341445.05,57.516000000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-07
+S0296,Aurora Components,IT Services,Malaysia,Asia,749778.65,51.5296,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-04-22
+S0297,Lumen Holdings,Facility,Vietnam,Asia,53164.49,79.0312,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2025-08-27
+S0298,Helios Materials,Logistics,South Korea,Asia,255346.16,44.876,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-01-07
+S0299,Argent Manufacturing,Components,Morocco,Africa,212764.95,40.565200000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-02-06
+S0300,Zenith Materials,Metals & Minerals,Turkey,Europe/Asia,242500.02,48.405699999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-15
+S0301,Nimbus Systems,Components,Taiwan,Asia,372232.77,36.2248,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2024-06-22
+S0302,Nimbus Group,Components,United Kingdom,Europe,156557.45,48.874,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-24
+S0303,Cascade Partners,Facility,Switzerland,Europe,134435.74,40.2748,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-07-02
+S0304,Atlas Holdings,Components,United Kingdom,Europe,173235.36,52.14959999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-06-21
+S0305,Argent Logistics,IT Services,Tunisia,Africa,102598.95,48.7228,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-18
+S0306,Orion Partners,Logistics,Philippines,Asia,253164.32,54.077200000000005,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2024-06-20
+S0307,Lumen Materials,Packaging,Tunisia,Africa,176216.01,51.1184,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-11-12
+S0308,Alpine Manufacturing,Metals & Minerals,Thailand,Asia,653153.24,59.1796,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-10
+S0309,Argent Manufacturing,Components,Spain,Europe,210735.35,43.4062,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-07-24
+S0310,Aurora Materials,Metals & Minerals,China,Asia,565200.77,45.87650000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-03-30
+S0311,Zenith Partners,Packaging,Singapore,Asia,37625.87,46.9044,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-09-07
+S0312,Nimbus Supply,Consulting,Saudi Arabia,Middle East,169137.62,57.2104,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-08
+S0313,Cascade Supply,Chemicals,Taiwan,Asia,230580.43,55.9044,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-06-29
+S0314,Cascade Holdings,Tools & Machinery,India,Asia,94773.14,79.6028,High Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-07-02
+S0315,Eclipse Logistics,Packaging,Malaysia,Asia,82126.18,47.6552,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-20
+S0316,Meridian Systems,Logistics,Philippines,Asia,169044.78,60.0286,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2025-05-19
+S0317,Orion Materials,Metals & Minerals,Saudi Arabia,Middle East,520585.12,82.0432,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-11-09
+S0318,Lumen Logistics,Metals & Minerals,Canada,Americas,225695.92,27.3184,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-07-29
+S0319,Aurora Services,Packaging,Malaysia,Asia,248660.39,62.1508,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-30
+S0320,Cobalt Systems,Consulting,India,Asia,515686.81,58.784,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-20
+S0321,Cobalt Logistics,IT Services,Japan,Asia,219506.86,57.75,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-22
+S0322,Lumen Industries,Chemicals,Turkey,Europe/Asia,138353.0,43.685199999999995,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-10-17
+S0323,Alpine Group,Metals & Minerals,France,Europe,409566.73,51.624,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-02-25
+S0324,Helios Systems,Consulting,United States,Americas,104404.97,66.464,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-16
+S0325,Argent Components,Components,Morocco,Africa,613989.32,55.84519999999999,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-01-23
+S0326,Lumen Manufacturing,IT Services,South Africa,Africa,122141.96,61.8288,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-15
+S0327,Novatek Group,Metals & Minerals,Switzerland,Europe,469085.1,44.0908,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-06-14
+S0328,Zenith Materials,Facility,Germany,Europe,117066.62,32.662000000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-02-25
+S0329,Argent Components,Consulting,Malaysia,Asia,223141.57,55.24640000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-09-13
+S0330,Orion Supply,Facility,Malaysia,Asia,75540.9,67.2556,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-08-27
+S0331,Novatek Partners,Facility,Indonesia,Asia,326733.38,80.05340000000001,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-10-05
+S0332,Aurora Components,IT Services,Philippines,Asia,106581.18,54.3324,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-07
+S0333,Novatek Manufacturing,IT Services,Vietnam,Asia,31872.55,84.84030000000001,High Risk,Immediate corrective action + 30-day follow-up,1.0,Internal Assessment,2025-01-23
+S0334,Meridian Services,Metals & Minerals,Tunisia,Africa,159849.55,69.2892,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-24
+S0335,Zenith Supply,Components,Spain,Europe,308869.19,44.9552,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-06-05
+S0336,Aurora Systems,Logistics,Switzerland,Europe,622282.75,58.9016,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-03-25
+S0337,Aurora Supply,Logistics,South Korea,Asia,316008.52,56.69310000000001,Medium Risk,Immediate corrective action + 30-day follow-up,0.6666666666666666,Internal Assessment,2024-09-15
+S0338,Zenith Systems,Metals & Minerals,Brazil,Americas,63498.39,69.15299999999999,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-31
+S0339,Meridian Group,IT Services,Japan,Asia,49867.81,43.564,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-03-18
+S0340,Argent Materials,Packaging,Italy,Europe,345408.93,54.6528,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-05-08
+S0341,Atlas Materials,Metals & Minerals,South Korea,Asia,594028.66,41.5439,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-04-24
+S0342,Aurora Partners,Chemicals,Taiwan,Asia,1601670.84,55.2204,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-03
+S0343,Cascade Holdings,Components,Germany,Europe,161165.28,45.6824,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-30
+S0344,Eclipse Industries,Components,United Kingdom,Europe,181422.14,29.3796,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-11-13
+S0345,Cascade Industries,Chemicals,France,Europe,172344.9,36.370400000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-07-03
+S0346,Atlas Logistics,Chemicals,Thailand,Asia,94405.55,48.3284,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-11-08
+S0347,Alpine Group,Metals & Minerals,Saudi Arabia,Middle East,821173.19,59.0088,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-29
+S0348,Atlas Components,Tools & Machinery,Germany,Europe,202384.64,42.4896,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-10-03
+S0349,Zenith Components,Logistics,Brazil,Americas,131150.4,51.726,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-10
+S0350,Atlas Systems,Tools & Machinery,Taiwan,Asia,139097.09,32.034400000000005,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-08-25
+S0351,Aurora Supply,IT Services,Saudi Arabia,Middle East,298221.24,55.0888,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Internal Assessment,2025-05-04
+S0352,Helios Industries,Logistics,United States,Americas,77828.87,39.2312,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-07-13
+S0353,Helios Partners,Tools & Machinery,Canada,Americas,498423.44,32.6652,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-11-16
+S0354,Aurora Logistics,IT Services,Spain,Europe,730465.04,38.009600000000006,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-06-11
+S0355,Helios Components,Components,Australia,Oceania,73347.39,50.4504,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-04
+S0356,Eclipse Services,Facility,Spain,Europe,538657.63,30.012,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-10-17
+S0357,Cascade Holdings,Components,Singapore,Asia,447947.92,36.180400000000006,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-04-29
+S0358,Alpine Systems,Components,France,Europe,123691.67,48.5804,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-25
+S0359,Novatek Supply,Components,Brazil,Americas,254025.59,62.7273,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-21
+S0360,Novatek Group,Metals & Minerals,India,Asia,543916.89,67.21000000000001,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2025-07-28
+S0361,Helios Components,IT Services,Morocco,Africa,56209.3,73.9748,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-12-11
+S0362,Cobalt Industries,IT Services,New Zealand,Oceania,201724.01,40.54560000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-06-01
+S0363,Atlas Components,Tools & Machinery,United Kingdom,Europe,1280814.37,34.551199999999994,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-02-06
+S0364,Cobalt Group,Components,United Kingdom,Europe,237871.25,35.952000000000005,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-08-11
+S0365,Eclipse Components,Logistics,New Zealand,Oceania,73741.14,47.2324,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-03
+S0366,Zenith Manufacturing,Consulting,Malaysia,Asia,147173.94,52.0232,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-07
+S0367,Meridian Logistics,Tools & Machinery,Morocco,Africa,374384.0,69.2716,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-01-21
+S0368,Novatek Systems,Chemicals,France,Europe,390566.38,36.80420000000001,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-08-10
+S0369,Cascade Group,Components,Canada,Americas,429138.82,51.3078,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2024-09-20
+S0370,Atlas Holdings,Tools & Machinery,Morocco,Africa,165407.86,60.81680000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-11
+S0371,Zenith Manufacturing,Facility,Switzerland,Europe,72425.7,58.164,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-04-13
+S0372,Alpine Services,Components,Thailand,Asia,95279.7,47.25320000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-15
+S0373,Alpine Materials,Components,Philippines,Asia,127578.69,58.531600000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-05-05
+S0374,Argent Systems,Facility,Indonesia,Asia,57753.37,64.2196,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-08-24
+S0375,Lumen Manufacturing,Logistics,Tunisia,Africa,132233.81,65.9316,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Internal Assessment,2025-05-05
+S0376,Lumen Holdings,Components,Malaysia,Asia,91438.7,59.8564,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-25
+S0377,Vega Group,Metals & Minerals,Saudi Arabia,Middle East,41396.35,48.708,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-12-07
+S0378,Novatek Systems,Consulting,Australia,Oceania,101293.87,66.8664,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-11-08
+S0379,Lumen Supply,Metals & Minerals,Indonesia,Asia,1571627.46,65.5056,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-13
+S0380,Helios Services,Facility,Saudi Arabia,Middle East,545106.64,49.6456,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-02-10
+S0381,Nimbus Manufacturing,Chemicals,Mexico,Americas,111565.83,58.87760000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-09-23
+S0382,Lumen Components,Components,New Zealand,Oceania,147744.05,32.306000000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-05-08
+S0383,Atlas Materials,Packaging,United Kingdom,Europe,1084000.49,24.941999999999997,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-11-09
+S0384,Vega Manufacturing,Components,New Zealand,Oceania,319117.03,34.8372,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-06-14
+S0385,Novatek Components,Metals & Minerals,South Korea,Asia,272704.0,43.598400000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-06-08
+S0386,Alpine Group,IT Services,South Africa,Africa,123252.79,41.837599999999995,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-02-02
+S0387,Lumen Holdings,Logistics,Indonesia,Asia,158545.58,60.388,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-08-30
+S0388,Aurora Group,Components,China,Asia,231820.24,69.5812,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-02-29
+S0389,Atlas Materials,Packaging,China,Asia,112814.4,80.5192,High Risk,Prioritize for audit and mitigation plan,1.0,Internal Assessment,2024-08-04
+S0390,Argent Systems,Metals & Minerals,India,Asia,1192606.43,51.238,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-02-06
+S0391,Cascade Group,Metals & Minerals,Italy,Europe,970265.98,52.7368,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-02-20
+S0392,Aurora Supply,Logistics,Saudi Arabia,Middle East,20140.84,71.3732,High Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-09-05
+S0393,Vega Materials,Tools & Machinery,Tunisia,Africa,98708.77,53.04,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-08-02
+S0394,Alpine Group,Consulting,Italy,Europe,139769.55,26.610400000000002,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-10-19
+S0395,Meridian Supply,Consulting,Germany,Europe,550480.24,26.461599999999997,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-08-03
+S0396,Zenith Holdings,Components,Germany,Europe,990238.83,49.9879,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-04-07
+S0397,Helios Supply,Logistics,Indonesia,Asia,289913.43,81.0712,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2025-04-30
+S0398,Lumen Manufacturing,Facility,Indonesia,Asia,89701.55,70.23750000000001,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-04-08
+S0399,Alpine Group,IT Services,Indonesia,Asia,106978.57,58.9,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-06-16
+S0400,Atlas Logistics,Tools & Machinery,New Zealand,Oceania,450195.89,44.936,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-01-01
+S0401,Argent Manufacturing,Components,Brazil,Americas,295432.91,40.577200000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-30
+S0402,Cascade Group,Chemicals,Singapore,Asia,120589.0,24.0628,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-03-03
+S0403,Argent Partners,Packaging,Taiwan,Asia,121933.01,40.5536,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-06-24
+S0404,Cascade Industries,Metals & Minerals,Tunisia,Africa,1231084.32,68.94,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-03-11
+S0405,Nimbus Systems,Metals & Minerals,Canada,Americas,575467.69,40.970000000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-08-26
+S0406,Eclipse Services,IT Services,Italy,Europe,127053.41,47.7,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2025-05-05
+S0407,Orion Holdings,Metals & Minerals,Morocco,Africa,395080.51,60.1724,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-03
+S0408,Alpine Systems,Consulting,Singapore,Asia,50847.7,55.9348,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2025-05-26
+S0409,Aurora Systems,Packaging,Switzerland,Europe,107132.49,29.561900000000005,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2025-03-27
+S0410,Cascade Holdings,Packaging,Mexico,Americas,376701.13,56.940799999999996,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-03-26
+S0411,Vega Holdings,Logistics,Tunisia,Africa,74959.28,66.6641,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Internal Assessment,2025-03-03
+S0412,Aurora Systems,Components,Brazil,Americas,581441.31,75.7692,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-02-11
+S0413,Cascade Holdings,Consulting,South Korea,Asia,26158.71,46.8684,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-04-10
+S0414,Nimbus Group,IT Services,Tunisia,Africa,537479.64,54.8952,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-07-03
+S0415,Lumen Partners,Facility,Tunisia,Africa,168395.11,48.8116,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-23
+S0416,Meridian Partners,Chemicals,Malaysia,Asia,145586.54,63.6612,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-05-18
+S0417,Lumen Services,Components,United Kingdom,Europe,392322.5,33.4456,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-01-16
+S0418,Aurora Holdings,Metals & Minerals,Malaysia,Asia,403809.6,54.27940000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-07-13
+S0419,Cobalt Components,Packaging,Brazil,Americas,208197.29,49.8755,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Internal Assessment,2025-07-06
+S0420,Novatek Services,Metals & Minerals,Vietnam,Asia,77482.22,70.1897,High Risk,Prioritize for audit and mitigation plan,0.3333333333333333,Supplier Questionnaire,2025-11-13
+S0421,Helios Manufacturing,Consulting,South Africa,Africa,253768.33,56.59720000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-02
+S0422,Orion Holdings,IT Services,Turkey,Europe/Asia,140479.01,57.910399999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-04
+S0423,Nimbus Manufacturing,Metals & Minerals,Singapore,Asia,197625.81,50.4232,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-03-25
+S0424,Eclipse Components,Metals & Minerals,Tunisia,Africa,192108.11,79.6028,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-10-09
+S0425,Nimbus Partners,IT Services,Switzerland,Europe,161806.63,31.512800000000006,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-08-17
+S0426,Eclipse Services,Components,Indonesia,Asia,163694.82,78.4676,High Risk,Request signature/commitment before continuation,0.6666666666666666,Third-party Rating,2025-11-27
+S0427,Meridian Group,Tools & Machinery,South Africa,Africa,530194.37,61.662400000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-20
+S0428,Atlas Systems,Components,Switzerland,Europe,444193.88,38.05200000000001,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-10-12
+S0429,Lumen Supply,Metals & Minerals,United Arab Emirates,Middle East,373533.22,55.8524,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-28
+S0430,Argent Materials,Chemicals,Malaysia,Asia,357236.31,42.7656,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-09
+S0431,Vega Materials,IT Services,United States,Americas,31722.51,36.818799999999996,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-10-16
+S0432,Novatek Holdings,Chemicals,South Africa,Africa,58474.05,48.117999999999995,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-20
+S0433,Eclipse Manufacturing,Facility,United States,Americas,334908.26,47.254099999999994,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-27
+S0434,Vega Systems,IT Services,United States,Americas,91071.93,29.3624,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2025-04-04
+S0435,Novatek Manufacturing,Metals & Minerals,China,Asia,219529.77,59.316,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-31
+S0436,Lumen Services,Components,Brazil,Americas,116207.01,50.4606,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-30
+S0437,Orion Services,Facility,South Africa,Africa,74555.67,55.5004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-05-05
+S0438,Helios Group,Tools & Machinery,Morocco,Africa,540682.7,53.1572,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-24
+S0439,Zenith Materials,Consulting,Tunisia,Africa,241507.14,48.6216,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-10-05
+S0440,Cobalt Holdings,Metals & Minerals,Italy,Europe,564565.09,61.47,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-10-20
+S0441,Argent Materials,Packaging,Japan,Asia,87288.22,60.436800000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-21
+S0442,Argent Systems,Tools & Machinery,China,Asia,394772.61,53.56,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-14
+S0443,Eclipse Holdings,Facility,Vietnam,Asia,408161.68,79.5258,High Risk,Immediate corrective action + 30-day follow-up,0.6666666666666666,Supplier Questionnaire,2025-07-26
+S0444,Cascade Partners,Packaging,Italy,Europe,78821.41,36.580799999999996,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-11-30
+S0445,Cascade Materials,Consulting,New Zealand,Oceania,158262.32,31.229200000000002,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-02-21
+S0446,Nimbus Group,Facility,Germany,Europe,671077.9,30.286000000000005,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-01-17
+S0447,Helios Manufacturing,Components,Saudi Arabia,Middle East,630746.24,56.38,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-29
+S0448,Vega Holdings,IT Services,Taiwan,Asia,103779.8,38.0496,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-10-09
+S0449,Alpine Components,Components,Malaysia,Asia,588837.38,68.2988,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-06
+S0450,Helios Supply,Packaging,Australia,Oceania,46342.75,31.6856,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-01-04
+S0451,Atlas Supply,IT Services,Singapore,Asia,153346.18,20.722000000000005,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-12-01
+S0452,Novatek Components,Tools & Machinery,France,Europe,588301.61,30.8664,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2024-02-03
+S0453,Nimbus Industries,Tools & Machinery,Italy,Europe,485345.19,34.961600000000004,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-03-30
+S0454,Orion Manufacturing,Chemicals,Malaysia,Asia,265260.75,59.5792,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-09-18
+S0455,Meridian Materials,Logistics,Switzerland,Europe,507443.85,46.261100000000006,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2024-10-26
+S0456,Eclipse Group,Logistics,South Korea,Asia,199750.65,60.2364,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-18
+S0457,Cobalt Materials,Consulting,South Africa,Africa,149180.41,87.86320000000002,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2024-08-18
+S0458,Argent Partners,Packaging,Spain,Europe,163346.86,63.572,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-11
+S0459,Argent Systems,Components,Malaysia,Asia,150785.28,53.87720000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-12
+S0460,Vega Systems,Logistics,United Kingdom,Europe,321259.14,51.3492,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-07-25
+S0461,Eclipse Supply,Packaging,South Korea,Asia,134032.41,53.5864,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-26
+S0462,Lumen Logistics,Components,Switzerland,Europe,617638.07,47.1156,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-06-17
+S0463,Helios Holdings,Chemicals,Spain,Europe,293052.81,44.3532,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-09-24
+S0464,Zenith Logistics,IT Services,Australia,Oceania,107706.39,35.2136,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2024-04-12
+S0465,Eclipse Industries,IT Services,South Korea,Asia,74728.74,80.6896,High Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2025-12-28
+S0466,Lumen Systems,Facility,Switzerland,Europe,203346.34,39.845600000000005,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2024-10-16
+S0467,Orion Systems,Facility,Morocco,Africa,444455.36,56.10520000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-01
+S0468,Orion Materials,Components,Germany,Europe,175040.3,28.744400000000002,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-02-24
+S0469,Vega Industries,Chemicals,Indonesia,Asia,517923.23,86.8712,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-06-02
+S0470,Zenith Services,Tools & Machinery,Singapore,Asia,356176.71,35.58120000000001,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-02-15
+S0471,Helios Services,Components,Vietnam,Asia,443342.36,54.5745,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-06-20
+S0472,Cobalt Partners,Tools & Machinery,Canada,Americas,620104.36,39.6632,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-04-07
+S0473,Meridian Holdings,Facility,Saudi Arabia,Middle East,147754.63,66.2976,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-07-29
+S0474,Eclipse Logistics,Consulting,Canada,Americas,324443.07,47.5029,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-27
+S0475,Meridian Systems,Tools & Machinery,Switzerland,Europe,201210.65,36.1336,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2024-03-07
+S0476,Lumen Supply,Components,United States,Americas,1105640.44,42.617399999999996,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Third-party Rating,2024-10-24
+S0477,Argent Group,IT Services,United States,Americas,154984.86,42.395399999999995,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-10-12
+S0478,Helios Industries,Chemicals,Malaysia,Asia,520584.54,37.7372,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-11-09
+S0479,Lumen Group,Chemicals,United Kingdom,Europe,116290.95,37.751200000000004,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2024-07-15
+S0480,Argent Holdings,Components,South Africa,Africa,285794.89,50.2632,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-08-11
+S0481,Helios Logistics,Facility,France,Europe,116621.74,16.5184,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-02-29
+S0482,Argent Group,Tools & Machinery,Singapore,Asia,193729.73,42.690400000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-07-25
+S0483,Zenith Systems,Chemicals,United Arab Emirates,Middle East,253281.23,64.9596,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-11
+S0484,Nimbus Partners,Consulting,Morocco,Africa,314071.33,50.47800000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-16
+S0485,Lumen Partners,Consulting,Thailand,Asia,357702.86,48.554,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-10-04
+S0486,Cascade Industries,Metals & Minerals,Spain,Europe,301723.49,39.032799999999995,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2024-06-10
+S0487,Aurora Supply,Facility,Australia,Oceania,43089.71,39.033199999999994,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-07-08
+S0488,Vega Supply,Facility,United States,Americas,221002.17,41.3504,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-06-02
+S0489,Vega Services,Components,New Zealand,Oceania,409060.82,32.858000000000004,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2025-07-24
+S0490,Nimbus Logistics,Components,United Arab Emirates,Middle East,530947.47,40.1664,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-12-05
+S0491,Cobalt Partners,Components,Saudi Arabia,Middle East,182726.62,67.41640000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-02-23
+S0492,Aurora Systems,Metals & Minerals,Italy,Europe,199016.07,46.454,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-08-15
+S0493,Zenith Holdings,Facility,Germany,Europe,83081.0,48.7904,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-10-22
+S0494,Atlas Group,Tools & Machinery,United States,Americas,926964.53,54.8876,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2025-07-25
+S0495,Atlas Partners,Tools & Machinery,Canada,Americas,1784884.72,31.915999999999993,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-09-09
+S0496,Cobalt Materials,IT Services,Switzerland,Europe,87630.47,53.8536,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-15
+S0497,Alpine Components,Logistics,United Kingdom,Europe,167414.02,52.786,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-13
+S0498,Atlas Group,Packaging,Singapore,Asia,270045.42,46.374,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-09-18
+S0499,Lumen Logistics,Tools & Machinery,China,Asia,1049624.03,84.4111,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2025-11-20
+S0500,Meridian Supply,Facility,Saudi Arabia,Middle East,684676.77,50.7784,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-12-31
+S0501,Zenith Manufacturing,Components,Vietnam,Asia,142549.34,69.1563,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-08
+S0502,Novatek Materials,IT Services,New Zealand,Oceania,119352.76,34.706,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-04-28
+S0503,Helios Manufacturing,Metals & Minerals,United Kingdom,Europe,382556.16,32.916799999999995,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-09-18
+S0504,Vega Holdings,Packaging,Japan,Asia,212684.57,27.592800000000004,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-06-25
+S0505,Eclipse Group,Metals & Minerals,United Kingdom,Europe,497277.35,45.99679999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-02-09
+S0506,Novatek Manufacturing,Consulting,Philippines,Asia,116873.44,68.9959,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-09-11
+S0507,Cascade Materials,Consulting,Philippines,Asia,134723.46,56.0388,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-18
+S0508,Novatek Group,IT Services,Philippines,Asia,683954.24,43.4496,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-17
+S0509,Vega Supply,Metals & Minerals,Tunisia,Africa,236657.29,56.857000000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-17
+S0510,Cobalt Systems,Packaging,United Kingdom,Europe,165464.41,30.067999999999998,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-05-23
+S0511,Nimbus Services,Tools & Machinery,Spain,Europe,2703352.7,55.624,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-10-24
+S0512,Vega Holdings,Metals & Minerals,Australia,Oceania,234160.57,43.5763,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-04-05
+S0513,Eclipse Group,Packaging,Italy,Europe,280832.36,42.754000000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-07-20
+S0514,Lumen Components,Components,Mexico,Americas,1333482.22,59.809200000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-08
+S0515,Eclipse Group,Chemicals,South Korea,Asia,261064.78,33.1492,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-09-08
+S0516,Cobalt Materials,Components,Indonesia,Asia,869279.71,78.06920000000001,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-10-04
+S0517,Orion Systems,Logistics,Morocco,Africa,502017.06,36.1356,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-04-29
+S0518,Atlas Partners,Facility,Italy,Europe,244218.65,39.7556,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-11-04
+S0519,Orion Manufacturing,IT Services,Philippines,Asia,417988.11,66.5652,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-11-01
+S0520,Nimbus Holdings,Packaging,Philippines,Asia,273475.66,56.3004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-07-03
+S0521,Cobalt Industries,Logistics,Malaysia,Asia,121029.14,77.85079999999999,High Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-09-08
+S0522,Argent Components,Chemicals,United States,Americas,118965.41,57.31320000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-01
+S0523,Zenith Group,Metals & Minerals,Philippines,Asia,480891.05,63.08,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-11-10
+S0524,Eclipse Logistics,IT Services,Morocco,Africa,118815.71,61.3772,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-09-11
+S0525,Novatek Manufacturing,Chemicals,Taiwan,Asia,123265.56,69.9512,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-01-26
+S0526,Helios Partners,Logistics,Tunisia,Africa,168914.72,42.1296,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2025-08-08
+S0527,Zenith Components,Tools & Machinery,Mexico,Americas,510081.49,91.497,High Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-09-20
+S0528,Aurora Supply,Components,Singapore,Asia,1717778.1,38.8496,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-12-22
+S0529,Eclipse Partners,IT Services,Tunisia,Africa,129149.26,78.15280000000001,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-01-28
+S0530,Eclipse Materials,Facility,Switzerland,Europe,574906.46,26.320800000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-09-09
+S0531,Novatek Manufacturing,Components,China,Asia,582319.51,79.6531,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2024-01-01
+S0532,Vega Services,Components,Taiwan,Asia,565366.44,49.934,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-06-19
+S0533,Cascade Partners,Facility,Spain,Europe,113874.6,51.7744,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Internal Assessment,2025-10-01
+S0534,Aurora Manufacturing,Chemicals,France,Europe,190093.63,42.1876,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-08-29
+S0535,Zenith Group,Consulting,United Kingdom,Europe,117664.52,51.0296,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-04-29
+S0536,Helios Partners,Tools & Machinery,China,Asia,204507.66,68.99510000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-04-08
+S0537,Cascade Logistics,Components,India,Asia,228963.96,57.2501,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-05-03
+S0538,Novatek Group,Logistics,United Kingdom,Europe,220085.08,32.2992,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-11-13
+S0539,Lumen Components,Facility,South Korea,Asia,569445.99,48.708,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-10-02
+S0540,Argent Materials,Metals & Minerals,Saudi Arabia,Middle East,339713.25,50.6908,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-26
+S0541,Argent Services,Chemicals,China,Asia,51102.51,72.1272,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-08-04
+S0542,Novatek Logistics,Packaging,United Arab Emirates,Middle East,44844.62,49.5172,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-23
+S0543,Zenith Logistics,Chemicals,China,Asia,71898.72,71.2504,High Risk,Prioritize for audit and mitigation plan,1.0,Internal Assessment,2024-01-30
+S0544,Lumen Partners,Metals & Minerals,Morocco,Africa,1009682.16,73.7497,High Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-02-01
+S0545,Helios Group,Consulting,United Kingdom,Europe,58440.04,49.378600000000006,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-12-17
+S0546,Lumen Holdings,Components,Philippines,Asia,611643.14,49.135,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-09-07
+S0547,Argent Logistics,Packaging,Indonesia,Asia,177971.38,73.4212,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2024-02-20
+S0548,Cobalt Group,IT Services,Philippines,Asia,150340.7,58.3696,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-04-09
+S0549,Helios Components,Components,United Kingdom,Europe,105665.87,48.6956,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-10-05
+S0550,Eclipse Supply,Components,United Kingdom,Europe,329369.18,38.27160000000001,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-06-22
+S0551,Aurora Manufacturing,Components,Italy,Europe,295217.75,31.599199999999996,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-09-21
+S0552,Cascade Manufacturing,Metals & Minerals,Malaysia,Asia,474540.23,57.4956,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-08
+S0553,Orion Holdings,Consulting,India,Asia,59800.45,58.56580000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-19
+S0554,Meridian Services,Packaging,Philippines,Asia,702567.23,85.0677,High Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2024-02-10
+S0555,Alpine Partners,Logistics,China,Asia,181981.69,60.6392,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-04-17
+S0556,Zenith Manufacturing,Facility,Saudi Arabia,Middle East,234544.96,58.2596,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-10-26
+S0557,Nimbus Partners,Metals & Minerals,Brazil,Americas,598771.64,66.1276,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Internal Assessment,2025-11-07
+S0558,Nimbus Systems,Components,South Africa,Africa,1036934.56,49.071600000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-02-03
+S0559,Eclipse Logistics,Logistics,Canada,Americas,161894.15,51.93840000000001,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2024-05-01
+S0560,Argent Holdings,Components,South Africa,Africa,631378.22,45.3892,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-09-28
+S0561,Aurora Materials,Components,China,Asia,208426.87,65.6483,Medium Risk,Immediate corrective action + 30-day follow-up,0.6666666666666666,Supplier Questionnaire,2024-02-06
+S0562,Zenith Manufacturing,Packaging,South Korea,Asia,687455.48,40.3112,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-06-14
+S0563,Zenith Group,Packaging,Morocco,Africa,153271.26,62.78920000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-02
+S0564,Zenith Components,Logistics,Germany,Europe,151019.21,45.998000000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-09-13
+S0565,Eclipse Systems,Facility,Tunisia,Africa,113897.39,48.7128,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-09-06
+S0566,Meridian Partners,Packaging,United States,Americas,30511.18,32.513999999999996,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-09-22
+S0567,Helios Components,Metals & Minerals,Vietnam,Asia,249349.87,60.0824,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-15
+S0568,Alpine Holdings,Packaging,Malaysia,Asia,23409.48,49.0604,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-06
+S0569,Lumen Holdings,IT Services,United Arab Emirates,Middle East,259398.61,50.734399999999994,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-16
+S0570,Zenith Supply,Tools & Machinery,Turkey,Europe/Asia,327106.31,64.3728,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-28
+S0571,Argent Components,Packaging,Spain,Europe,75088.23,51.0576,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-12-07
+S0572,Aurora Partners,IT Services,Switzerland,Europe,156659.65,48.1944,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-10-17
+S0573,Vega Partners,Packaging,South Korea,Asia,162286.4,42.0676,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-03-31
+S0574,Lumen Partners,Metals & Minerals,United Kingdom,Europe,141742.26,34.7124,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-09-04
+S0575,Helios Systems,Facility,Tunisia,Africa,115926.28,59.410000000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-06-17
+S0576,Nimbus Systems,Chemicals,Thailand,Asia,166293.35,50.054,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-04-18
+S0577,Novatek Supply,Metals & Minerals,Turkey,Europe/Asia,293817.9,64.32759999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-10-14
+S0578,Vega Logistics,Components,China,Asia,207496.54,59.0968,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-05
+S0579,Meridian Supply,Components,France,Europe,136576.81,55.434000000000005,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-04-30
+S0580,Argent Industries,Chemicals,India,Asia,129977.91,85.52,High Risk,Request signature/commitment before continuation,0.6666666666666666,Internal Assessment,2025-04-08
+S0581,Eclipse Supply,IT Services,Saudi Arabia,Middle East,103058.99,54.3716,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-12
+S0582,Orion Partners,Facility,Italy,Europe,257317.56,31.1956,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-11-13
+S0583,Nimbus Supply,Logistics,Taiwan,Asia,423778.17,39.9512,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-08-09
+S0584,Meridian Services,Chemicals,United Kingdom,Europe,341023.59,19.607200000000002,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-03-14
+S0585,Argent Services,Components,New Zealand,Oceania,244111.1,54.432,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-06-15
+S0586,Cobalt Manufacturing,Components,Philippines,Asia,213396.65,43.559999999999995,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-03-07
+S0587,Alpine Logistics,Metals & Minerals,Tunisia,Africa,732788.16,61.442,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-12-23
+S0588,Eclipse Partners,Components,Canada,Americas,595165.5,65.928,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2025-01-14
+S0589,Vega Components,Tools & Machinery,Indonesia,Asia,1027226.09,57.0368,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-11-15
+S0590,Atlas Manufacturing,Components,Canada,Americas,419381.82,35.113600000000005,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-09-10
+S0591,Alpine Holdings,Packaging,United Kingdom,Europe,554738.5,51.4216,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-11-02
+S0592,Cascade Supply,Metals & Minerals,Tunisia,Africa,419486.23,48.1884,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-06-24
+S0593,Alpine Logistics,Facility,Australia,Oceania,82153.66,62.7032,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-03-24
+S0594,Argent Group,Metals & Minerals,Vietnam,Asia,243129.3,61.140800000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-09
+S0595,Atlas Supply,Facility,India,Asia,247277.98,53.7274,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-07-15
+S0596,Orion Materials,Logistics,China,Asia,102851.35,70.3237,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-03-28
+S0597,Novatek Components,Logistics,China,Asia,648251.84,64.0668,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-11-03
+S0598,Atlas Services,Components,Germany,Europe,507634.15,37.4148,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2025-02-25
+S0599,Zenith Manufacturing,Components,United States,Americas,369113.75,43.4972,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-09-24
+S0600,Cascade Supply,Metals & Minerals,Philippines,Asia,394148.26,54.3172,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-06
+S0601,Atlas Supply,Facility,Italy,Europe,132468.32,21.5776,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-11-28
+S0602,Aurora Partners,Packaging,Brazil,Americas,42835.94,39.050000000000004,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-07-24
+S0603,Eclipse Industries,IT Services,China,Asia,71873.86,100.0,High Risk,Immediate corrective action + 30-day follow-up,1.0,Internal Assessment,2025-10-28
+S0604,Alpine Supply,Metals & Minerals,Mexico,Americas,1261291.52,43.6624,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-01
+S0605,Meridian Systems,IT Services,Tunisia,Africa,264883.7,48.2532,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-03-13
+S0606,Eclipse Supply,Components,Tunisia,Africa,1323962.42,53.298,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-02-28
+S0607,Aurora Services,Components,United Kingdom,Europe,551622.44,61.8736,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-28
+S0608,Eclipse Logistics,Components,China,Asia,347198.03,61.078399999999995,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-04
+S0609,Aurora Components,Metals & Minerals,United Arab Emirates,Middle East,603387.97,74.7492,High Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-08-14
+S0610,Cascade Systems,Components,Spain,Europe,101452.26,27.224800000000002,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-08-07
+S0611,Eclipse Materials,Components,Japan,Asia,1166699.8,60.6912,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2025-03-26
+S0612,Meridian Partners,IT Services,United States,Americas,490937.98,38.5912,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-12-08
+S0613,Helios Partners,Packaging,Spain,Europe,157069.12,47.120400000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-11-06
+S0614,Meridian Group,Consulting,Thailand,Asia,200493.88,56.2919,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-26
+S0615,Novatek Supply,Components,South Africa,Africa,298192.69,50.8184,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-10-10
+S0616,Novatek Components,Components,Spain,Europe,777719.85,44.4016,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-11-13
+S0617,Lumen Services,Metals & Minerals,Japan,Asia,663853.21,32.510400000000004,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-08-30
+S0618,Alpine Logistics,Chemicals,United Kingdom,Europe,16666.67,27.306800000000003,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-11-09
+S0619,Cobalt Holdings,Components,South Africa,Africa,227745.87,72.20179999999999,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2024-10-09
+S0620,Cascade Group,IT Services,China,Asia,90377.33,85.3434,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-12-18
+S0621,Zenith Industries,Components,Taiwan,Asia,108033.13,44.6544,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-08
+S0622,Argent Industries,Metals & Minerals,Vietnam,Asia,1450070.04,63.0732,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-11
+S0623,Zenith Logistics,Components,Thailand,Asia,469022.3,60.043600000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-11-20
+S0624,Lumen Manufacturing,Metals & Minerals,India,Asia,839107.12,80.8375,High Risk,Prioritize for audit and mitigation plan,1.0,Internal Assessment,2024-02-12
+S0625,Nimbus Services,Facility,Germany,Europe,173071.06,48.8172,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-10-18
+S0626,Atlas Systems,Metals & Minerals,India,Asia,205267.07,81.1364,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-10-07
+S0627,Eclipse Group,Chemicals,South Korea,Asia,39823.62,46.9652,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-26
+S0628,Meridian Services,Chemicals,Taiwan,Asia,184889.11,40.8896,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-06
+S0629,Aurora Logistics,Tools & Machinery,Indonesia,Asia,230272.05,60.83460000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-12-15
+S0630,Vega Logistics,Facility,Taiwan,Asia,123080.49,47.4508,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-10-26
+S0631,Vega Systems,Packaging,Switzerland,Europe,106956.02,32.9752,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-11-29
+S0632,Lumen Partners,Packaging,China,Asia,857175.87,71.594,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2025-12-06
+S0633,Lumen Holdings,Chemicals,Saudi Arabia,Middle East,371099.97,59.3128,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-02-20
+S0634,Aurora Holdings,IT Services,Saudi Arabia,Middle East,197014.25,57.412,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-10-02
+S0635,Meridian Industries,IT Services,Japan,Asia,153694.02,37.7184,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-12-10
+S0636,Helios Logistics,Facility,Germany,Europe,252767.62,58.0576,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-12-08
+S0637,Vega Industries,Metals & Minerals,China,Asia,546915.99,73.888,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2024-08-05
+S0638,Zenith Logistics,Logistics,Italy,Europe,99175.26,47.080400000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-06-15
+S0639,Vega Manufacturing,IT Services,South Africa,Africa,338765.07,65.2818,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2025-12-22
+S0640,Novatek Industries,Facility,Vietnam,Asia,214741.61,66.4459,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-12
+S0641,Nimbus Industries,Metals & Minerals,Italy,Europe,1617897.77,53.9744,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-07-24
+S0642,Helios Logistics,Components,Turkey,Europe/Asia,272193.02,59.6236,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-18
+S0643,Vega Industries,Logistics,Brazil,Americas,394962.56,44.412400000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-11-11
+S0644,Lumen Materials,Metals & Minerals,Saudi Arabia,Middle East,155831.82,67.7432,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-10-11
+S0645,Meridian Industries,Metals & Minerals,China,Asia,347821.89,81.6168,High Risk,Prioritize for audit and mitigation plan,1.0,Internal Assessment,2024-07-22
+S0646,Atlas Services,Logistics,Saudi Arabia,Middle East,752551.78,51.09440000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-22
+S0647,Vega Holdings,Consulting,Germany,Europe,326457.22,58.943200000000004,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-07-07
+S0648,Aurora Group,Components,Tunisia,Africa,532321.48,69.9994,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-08-09
+S0649,Helios Services,Packaging,Germany,Europe,1113181.25,50.3404,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2024-01-11
+S0650,Orion Components,Metals & Minerals,United Arab Emirates,Middle East,341930.34,63.8052,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-05-20
+S0651,Cascade Partners,Tools & Machinery,Turkey,Europe/Asia,737011.8,63.8044,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-05-03
+S0652,Aurora Industries,Consulting,Japan,Asia,420678.53,17.339199999999998,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-06-14
+S0653,Argent Logistics,Chemicals,Japan,Asia,511051.83,36.3728,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2025-03-22
+S0654,Atlas Manufacturing,Logistics,Switzerland,Europe,104081.27,37.315599999999996,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-05-04
+S0655,Novatek Partners,Metals & Minerals,Japan,Asia,340151.6,40.932,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-19
+S0656,Aurora Holdings,Logistics,Morocco,Africa,338748.61,51.817600000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-06
+S0657,Alpine Supply,Components,New Zealand,Oceania,1302018.58,28.616400000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-07-09
+S0658,Atlas Logistics,Components,South Africa,Africa,699953.72,79.088,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-12-06
+S0659,Cobalt Holdings,Chemicals,Turkey,Europe/Asia,358275.48,61.1832,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-25
+S0660,Zenith Manufacturing,Metals & Minerals,Spain,Europe,113988.42,37.46360000000001,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-09-28
+S0661,Argent Systems,Components,China,Asia,451535.91,73.63400000000001,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-06-27
+S0662,Cobalt Materials,Chemicals,Turkey,Europe/Asia,415836.12,65.524,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-10-15
+S0663,Atlas Partners,Facility,Brazil,Americas,120454.05,56.8541,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-17
+S0664,Orion Manufacturing,Metals & Minerals,Malaysia,Asia,362551.06,50.5628,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-07
+S0665,Atlas Partners,Metals & Minerals,Tunisia,Africa,1282166.02,65.6052,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-24
+S0666,Vega Holdings,Components,South Korea,Asia,154564.9,67.7356,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-08-13
+S0667,Lumen Holdings,Components,India,Asia,214762.48,52.0336,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-18
+S0668,Vega Systems,Chemicals,Singapore,Asia,56473.58,36.0804,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-06-06
+S0669,Novatek Components,Metals & Minerals,United Arab Emirates,Middle East,1331836.65,47.0536,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-11
+S0670,Argent Services,Tools & Machinery,Japan,Asia,803161.45,58.2572,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-06
+S0671,Meridian Partners,Logistics,Germany,Europe,303426.13,37.07,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-02-01
+S0672,Nimbus Holdings,Metals & Minerals,France,Europe,441792.63,44.11000000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-06-23
+S0673,Orion Components,IT Services,Tunisia,Africa,45516.18,63.4396,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-24
+S0674,Orion Industries,Components,Thailand,Asia,62402.18,64.9063,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-11-27
+S0675,Orion Systems,IT Services,Germany,Europe,788132.8,55.2709,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2024-07-13
+S0676,Eclipse Group,Packaging,United Arab Emirates,Middle East,255538.23,35.7392,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-09-18
+S0677,Argent Components,Chemicals,Thailand,Asia,298684.43,51.095200000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-14
+S0678,Argent Services,Logistics,South Korea,Asia,203811.97,39.772000000000006,Low Risk,Approved; monitor annually,0.3333333333333333,Supplier Questionnaire,2025-05-21
+S0679,Zenith Logistics,Logistics,Italy,Europe,57875.27,56.385600000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-21
+S0680,Lumen Supply,Logistics,India,Asia,130022.13,51.0318,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-21
+S0681,Cobalt Manufacturing,IT Services,Japan,Asia,62730.82,47.336400000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-24
+S0682,Orion Industries,Tools & Machinery,Vietnam,Asia,148091.54,60.2216,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-07-19
+S0683,Orion Holdings,Tools & Machinery,South Korea,Asia,634499.46,52.355500000000006,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-02-19
+S0684,Helios Logistics,IT Services,France,Europe,46332.53,31.217999999999996,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2024-02-07
+S0685,Vega Materials,Metals & Minerals,Mexico,Americas,261051.0,62.79730000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-01-03
+S0686,Cascade Industries,Packaging,Japan,Asia,115586.51,50.3752,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-12-04
+S0687,Nimbus Group,Consulting,Turkey,Europe/Asia,115095.5,61.0092,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-08-12
+S0688,Aurora Supply,IT Services,Canada,Americas,47584.42,42.2268,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-04-15
+S0689,Nimbus Systems,Metals & Minerals,France,Europe,100113.76,30.232800000000008,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-01-20
+S0690,Nimbus Systems,Components,South Korea,Asia,509322.73,29.626000000000005,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-02-29
+S0691,Nimbus Holdings,Consulting,Turkey,Europe/Asia,165481.12,70.2132,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2025-05-19
+S0692,Zenith Systems,Chemicals,Malaysia,Asia,484713.05,51.288000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-17
+S0693,Atlas Partners,Components,Taiwan,Asia,335633.96,47.44540000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-25
+S0694,Novatek Logistics,IT Services,Switzerland,Europe,213655.35,38.9684,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-02-24
+S0695,Vega Systems,Components,Mexico,Americas,204201.8,81.78720000000001,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-11-19
+S0696,Vega Materials,Facility,Italy,Europe,153228.09,43.0688,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-06-02
+S0697,Aurora Group,Metals & Minerals,New Zealand,Oceania,132371.38,34.259600000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-09-05
+S0698,Nimbus Group,Tools & Machinery,South Korea,Asia,174837.85,44.766000000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-18
+S0699,Novatek Holdings,Consulting,Turkey,Europe/Asia,128545.76,54.3588,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-04-17
+S0700,Meridian Manufacturing,Metals & Minerals,Tunisia,Africa,971552.92,42.851299999999995,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-12-18
+S0701,Cobalt Materials,Components,South Korea,Asia,183538.5,27.008800000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-08-26
+S0702,Vega Industries,IT Services,Malaysia,Asia,588502.46,66.5552,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-10
+S0703,Helios Partners,Facility,Vietnam,Asia,229693.84,85.8884,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-08-15
+S0704,Atlas Services,Metals & Minerals,Canada,Americas,324069.64,61.264,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-10
+S0705,Atlas Supply,Components,Japan,Asia,593332.46,56.8452,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-04-28
+S0706,Novatek Logistics,Packaging,Saudi Arabia,Middle East,122992.6,65.674,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-08-18
+S0707,Novatek Materials,Components,South Korea,Asia,229226.05,44.0876,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-09-26
+S0708,Aurora Manufacturing,Components,France,Europe,101731.88,41.199200000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-01
+S0709,Argent Industries,Consulting,Thailand,Asia,116371.75,60.544000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-03
+S0710,Orion Holdings,Metals & Minerals,Tunisia,Africa,1129439.3,81.21419999999999,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2024-05-20
+S0711,Alpine Components,Tools & Machinery,Canada,Americas,564470.74,42.278000000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-02
+S0712,Vega Materials,IT Services,South Korea,Asia,598820.58,34.4752,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-03-01
+S0713,Zenith Components,Logistics,Saudi Arabia,Middle East,86867.25,57.202000000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-01-13
+S0714,Eclipse Materials,Components,South Africa,Africa,135148.99,59.9472,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-21
+S0715,Orion Group,Chemicals,Turkey,Europe/Asia,142165.6,79.6968,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2024-01-20
+S0716,Cascade Systems,IT Services,United Kingdom,Europe,87905.83,35.083600000000004,Low Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-02-27
+S0717,Argent Systems,Components,Philippines,Asia,690719.94,62.968,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-04-02
+S0718,Lumen Logistics,Tools & Machinery,Indonesia,Asia,103129.51,47.873599999999996,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2025-09-18
+S0719,Vega Supply,Packaging,Vietnam,Asia,33024.71,52.7552,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-03-27
+S0720,Helios Holdings,Chemicals,Malaysia,Asia,219530.24,51.2836,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-09-01
+S0721,Alpine Components,Tools & Machinery,Morocco,Africa,887117.17,55.5648,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-30
+S0722,Alpine Industries,Chemicals,Italy,Europe,309495.83,52.2768,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-05-01
+S0723,Helios Industries,Components,Malaysia,Asia,559679.12,53.9192,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-29
+S0724,Vega Holdings,Metals & Minerals,Thailand,Asia,323431.54,71.5632,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2025-07-08
+S0725,Novatek Group,Packaging,Turkey,Europe/Asia,253463.06,54.925999999999995,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-06-19
+S0726,Novatek Holdings,Components,Australia,Oceania,98220.17,44.9924,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-03-09
+S0727,Atlas Materials,Metals & Minerals,India,Asia,198795.79,55.0984,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-12-19
+S0728,Atlas Components,IT Services,France,Europe,437518.62,41.686,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-15
+S0729,Eclipse Components,Components,New Zealand,Oceania,149433.56,66.4048,Medium Risk,Request signature/commitment before continuation,0.3333333333333333,Internal Assessment,2025-10-15
+S0730,Alpine Group,Packaging,Germany,Europe,202172.56,38.69840000000001,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-10-24
+S0731,Meridian Holdings,Tools & Machinery,Taiwan,Asia,944995.57,51.6972,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-17
+S0732,Eclipse Group,Metals & Minerals,New Zealand,Oceania,260679.76,51.603899999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-04-15
+S0733,Argent Group,Chemicals,China,Asia,161315.99,71.31960000000001,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2024-04-05
+S0734,Argent Manufacturing,Metals & Minerals,United States,Americas,279613.67,35.3564,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-03-12
+S0735,Orion Services,Logistics,Australia,Oceania,458855.48,33.81,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-05-09
+S0736,Alpine Logistics,Packaging,Malaysia,Asia,475844.57,46.022,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-13
+S0737,Vega Services,Facility,South Africa,Africa,73768.68,61.839200000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-30
+S0738,Cobalt Holdings,Tools & Machinery,Taiwan,Asia,197496.2,27.342,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-12-16
+S0739,Atlas Components,Components,France,Europe,82412.55,32.748400000000004,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-10-26
+S0740,Argent Components,Metals & Minerals,Thailand,Asia,860143.1,47.6424,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-11-10
+S0741,Cobalt Partners,Components,Turkey,Europe/Asia,488610.17,54.7912,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-07-03
+S0742,Atlas Systems,Chemicals,Vietnam,Asia,1195888.06,73.5976,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2025-10-27
+S0743,Meridian Materials,Chemicals,South Korea,Asia,112947.75,33.946400000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-01-21
+S0744,Novatek Partners,Consulting,Brazil,Americas,150375.12,40.374,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2024-04-16
+S0745,Argent Systems,Metals & Minerals,Malaysia,Asia,443463.69,73.839,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-03-11
+S0746,Nimbus Holdings,Components,Switzerland,Europe,741046.93,47.18260000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-21
+S0747,Cobalt Logistics,IT Services,Turkey,Europe/Asia,120272.26,56.86200000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-09
+S0748,Zenith Industries,Metals & Minerals,Indonesia,Asia,166265.69,86.9527,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Internal Assessment,2024-03-14
+S0749,Orion Systems,Components,Spain,Europe,366224.67,49.2456,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-09-06
+S0750,Orion Components,Metals & Minerals,United Arab Emirates,Middle East,355457.92,52.6748,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-30
+S0751,Eclipse Logistics,Facility,Thailand,Asia,216958.88,68.648,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-11-08
+S0752,Alpine Partners,Tools & Machinery,Italy,Europe,688775.32,27.284,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-11-21
+S0753,Vega Systems,Components,Vietnam,Asia,306882.6,78.30120000000001,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2025-04-10
+S0754,Alpine Materials,Chemicals,Spain,Europe,77498.64,49.758,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-25
+S0755,Alpine Holdings,Logistics,Japan,Asia,99946.49,30.452399999999997,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-08-04
+S0756,Cascade Manufacturing,Components,Malaysia,Asia,308315.94,49.068,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-26
+S0757,Alpine Systems,IT Services,Japan,Asia,170300.52,27.301600000000004,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-03-09
+S0758,Aurora Manufacturing,Components,Morocco,Africa,464953.48,60.7008,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-06-21
+S0759,Orion Group,Logistics,Australia,Oceania,274191.81,44.382,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-15
+S0760,Cascade Partners,Tools & Machinery,Taiwan,Asia,73724.03,39.023599999999995,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2025-01-13
+S0761,Nimbus Materials,Metals & Minerals,Turkey,Europe/Asia,88425.76,75.0912,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2025-06-18
+S0762,Cobalt Industries,Packaging,Thailand,Asia,420814.17,37.4812,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-03-05
+S0763,Alpine Materials,Chemicals,Saudi Arabia,Middle East,116625.91,55.7224,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-30
+S0764,Orion Manufacturing,Components,Mexico,Americas,1003013.31,45.959199999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-03
+S0765,Atlas Holdings,IT Services,South Korea,Asia,183310.0,55.69200000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-09-18
+S0766,Eclipse Holdings,Logistics,China,Asia,105642.11,64.98,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-20
+S0767,Orion Industries,Chemicals,Switzerland,Europe,99635.9,35.5644,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2025-06-08
+S0768,Helios Partners,Components,Mexico,Americas,382302.06,51.164,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-05-20
+S0769,Cascade Systems,Facility,United States,Americas,185064.41,47.854400000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-11-26
+S0770,Alpine Materials,Components,United Arab Emirates,Middle East,305094.01,48.0152,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-31
+S0771,Eclipse Components,Components,Vietnam,Asia,650555.4,85.24080000000001,High Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-11-22
+S0772,Eclipse Supply,Components,Saudi Arabia,Middle East,92783.12,63.1148,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-30
+S0773,Atlas Materials,Packaging,South Africa,Africa,54529.5,64.6452,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2025-01-12
+S0774,Argent Supply,Packaging,Saudi Arabia,Middle East,88380.33,74.5576,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-03-03
+S0775,Nimbus Supply,Metals & Minerals,Canada,Americas,469352.15,53.8588,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-07-21
+S0776,Vega Industries,Metals & Minerals,Germany,Europe,657224.86,28.2648,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-10-13
+S0777,Meridian Holdings,Metals & Minerals,China,Asia,225764.8,65.778,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-14
+S0778,Aurora Holdings,Logistics,United States,Americas,20479.22,44.364000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-07-24
+S0779,Cascade Holdings,Components,Morocco,Africa,196603.22,63.135999999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-09-04
+S0780,Argent Supply,Metals & Minerals,Singapore,Asia,489872.56,41.2608,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-26
+S0781,Helios Materials,Tools & Machinery,United States,Americas,300646.54,37.979200000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-08-13
+S0782,Helios Manufacturing,Components,Saudi Arabia,Middle East,569145.03,55.9568,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-08-14
+S0783,Cobalt Supply,Logistics,Italy,Europe,423901.84,26.989200000000004,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-12-19
+S0784,Aurora Group,Components,Tunisia,Africa,268099.85,71.1156,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-05-26
+S0785,Lumen Manufacturing,Chemicals,United States,Americas,97037.74,52.4564,Medium Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-02-06
+S0786,Vega Supply,Metals & Minerals,Japan,Asia,176418.66,39.9204,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-02-24
+S0787,Nimbus Supply,Tools & Machinery,Taiwan,Asia,77664.5,59.296800000000005,Medium Risk,Request signature/commitment before continuation,0.3333333333333333,Supplier Questionnaire,2024-01-10
+S0788,Zenith Systems,Chemicals,Canada,Americas,38049.07,41.2664,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-30
+S0789,Cobalt Supply,Components,Tunisia,Africa,285125.26,70.2176,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-12-20
+S0790,Helios Manufacturing,Components,Italy,Europe,822728.15,31.156000000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-05-05
+S0791,Zenith Supply,Metals & Minerals,Japan,Asia,615874.23,35.9316,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2025-04-02
+S0792,Aurora Partners,Facility,Japan,Asia,93634.29,50.6477,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-08-20
+S0793,Helios Group,Chemicals,Turkey,Europe/Asia,914238.33,58.671600000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-06
+S0794,Aurora Materials,Components,India,Asia,220551.26,49.87200000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-03-06
+S0795,Eclipse Systems,Packaging,China,Asia,461110.52,60.849199999999996,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-09-30
+S0796,Nimbus Holdings,Logistics,Thailand,Asia,908193.36,51.6036,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-14
+S0797,Atlas Holdings,Components,Japan,Asia,336264.11,53.7552,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-04-11
+S0798,Alpine Systems,Facility,Switzerland,Europe,80443.37,45.3244,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-09-29
+S0799,Atlas Materials,Components,Canada,Americas,227221.64,42.39020000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-05-26
+S0800,Alpine Manufacturing,Logistics,Switzerland,Europe,188668.02,40.324799999999996,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-01-04
+S0801,Argent Systems,Metals & Minerals,Indonesia,Asia,121875.62,94.24610000000001,High Risk,Immediate corrective action + 30-day follow-up,0.6666666666666666,Supplier Questionnaire,2025-09-11
+S0802,Nimbus Components,Components,United States,Americas,164582.32,52.912800000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-23
+S0803,Aurora Holdings,IT Services,China,Asia,45783.92,76.3292,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2024-12-25
+S0804,Aurora Supply,Chemicals,Tunisia,Africa,340036.04,64.286,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-02
+S0805,Zenith Logistics,Chemicals,Indonesia,Asia,420232.46,70.8953,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-11-23
+S0806,Eclipse Materials,IT Services,South Africa,Africa,289283.56,57.394800000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-02
+S0807,Argent Manufacturing,Metals & Minerals,New Zealand,Oceania,1080333.35,75.00919999999999,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-11-22
+S0808,Lumen Industries,Tools & Machinery,Mexico,Americas,195442.46,49.852000000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-07-07
+S0809,Nimbus Services,Components,Vietnam,Asia,276596.07,84.8844,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2025-06-01
+S0810,Aurora Systems,Chemicals,Australia,Oceania,133163.58,36.29600000000001,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-07-20
+S0811,Cobalt Partners,Components,Philippines,Asia,515641.78,45.0604,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-02-08
+S0812,Aurora Systems,Packaging,South Africa,Africa,597924.02,66.759,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-09-30
+S0813,Helios Services,Metals & Minerals,Thailand,Asia,291014.24,63.087,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-02
+S0814,Nimbus Materials,Components,Philippines,Asia,1203486.23,74.75670000000001,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Supplier Questionnaire,2024-02-29
+S0815,Meridian Partners,Metals & Minerals,Canada,Americas,1654015.96,53.2872,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-15
+S0816,Argent Group,Packaging,Mexico,Americas,244328.43,46.302,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-12-23
+S0817,Cobalt Group,Facility,United Arab Emirates,Middle East,121544.75,68.83,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-07
+S0818,Cobalt Systems,Tools & Machinery,Mexico,Americas,182972.22,57.0036,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-07-26
+S0819,Alpine Systems,Consulting,Canada,Americas,95955.26,58.0364,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-14
+S0820,Novatek Logistics,IT Services,New Zealand,Oceania,28692.64,63.47,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-11-12
+S0821,Novatek Manufacturing,Components,Thailand,Asia,254978.76,59.9892,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-03-20
+S0822,Zenith Components,Metals & Minerals,Tunisia,Africa,298411.13,75.9384,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-05-02
+S0823,Nimbus Industries,Components,Brazil,Americas,969291.67,60.19840000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-02-27
+S0824,Argent Group,Tools & Machinery,Mexico,Americas,305431.29,87.52810000000001,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2024-02-15
+S0825,Argent Partners,Tools & Machinery,New Zealand,Oceania,313250.98,25.657600000000002,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-04-22
+S0826,Lumen Materials,Components,Taiwan,Asia,381551.99,51.8388,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-09-28
+S0827,Zenith Systems,Packaging,Switzerland,Europe,204896.66,49.461200000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-02-10
+S0828,Orion Logistics,Metals & Minerals,Singapore,Asia,644583.46,61.8996,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2025-09-02
+S0829,Meridian Group,IT Services,United Kingdom,Europe,159899.11,32.5436,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2024-05-24
+S0830,Meridian Supply,Tools & Machinery,Saudi Arabia,Middle East,203006.94,68.5676,Medium Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-06-02
+S0831,Helios Services,Components,India,Asia,419026.23,53.534400000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-07-25
+S0832,Lumen Manufacturing,Consulting,United Kingdom,Europe,96656.09,40.245200000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-04-23
+S0833,Nimbus Materials,Components,Italy,Europe,1542765.97,41.760400000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-02
+S0834,Nimbus Materials,Chemicals,South Africa,Africa,225145.46,59.6172,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-11-22
+S0835,Cobalt Supply,Components,Switzerland,Europe,434112.89,46.8252,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-28
+S0836,Nimbus Holdings,Packaging,Switzerland,Europe,1774148.58,50.3812,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-09-13
+S0837,Vega Systems,Metals & Minerals,Mexico,Americas,654175.31,63.640800000000006,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-09-29
+S0838,Nimbus Systems,Logistics,United Arab Emirates,Middle East,187663.88,50.28490000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-05-31
+S0839,Atlas Manufacturing,Metals & Minerals,Morocco,Africa,272439.99,70.00890000000001,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-03-29
+S0840,Cobalt Logistics,Metals & Minerals,Spain,Europe,114290.63,51.7852,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-27
+S0841,Eclipse Services,Components,Taiwan,Asia,484679.14,52.0239,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-04-15
+S0842,Lumen Systems,Tools & Machinery,South Africa,Africa,290118.47,58.734,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-14
+S0843,Cobalt Group,Packaging,United Arab Emirates,Middle East,619039.03,46.334,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-05-01
+S0844,Cobalt Supply,Consulting,Italy,Europe,145067.48,37.840500000000006,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-03-03
+S0845,Argent Partners,Facility,Australia,Oceania,423922.18,42.654399999999995,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-28
+S0846,Vega Materials,Components,Saudi Arabia,Middle East,186859.47,65.936,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-06-06
+S0847,Lumen Supply,Tools & Machinery,South Africa,Africa,191097.44,37.148799999999994,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-09-12
+S0848,Argent Systems,Components,Tunisia,Africa,390935.86,60.7317,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-04-21
+S0849,Cobalt Services,Packaging,China,Asia,52011.67,100.0,High Risk,Prioritize for audit and mitigation plan,1.0,Internal Assessment,2025-08-26
+S0850,Aurora Services,Consulting,Taiwan,Asia,74551.87,49.89920000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-06-04
+S0851,Zenith Group,Metals & Minerals,United Arab Emirates,Middle East,2280789.18,70.6481,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2025-12-06
+S0852,Orion Supply,Metals & Minerals,Germany,Europe,260081.0,46.424400000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-11
+S0853,Lumen Supply,Packaging,Brazil,Americas,52329.07,48.638400000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-06-12
+S0854,Helios Group,Components,Saudi Arabia,Middle East,87536.43,52.82280000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-11-19
+S0855,Lumen Components,Components,United Arab Emirates,Middle East,105654.78,55.3184,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-10-01
+S0856,Nimbus Supply,IT Services,Malaysia,Asia,446889.79,56.686800000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-08-13
+S0857,Aurora Holdings,Packaging,United Arab Emirates,Middle East,104664.31,71.8626,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-07-21
+S0858,Argent Holdings,Logistics,France,Europe,818948.53,53.17680000000001,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-02-25
+S0859,Orion Materials,Components,Saudi Arabia,Middle East,1229533.42,44.2632,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-02
+S0860,Lumen Manufacturing,Components,Saudi Arabia,Middle East,2851441.75,59.6166,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-05-21
+S0861,Vega Logistics,Chemicals,Philippines,Asia,590812.3,49.38640000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-01-28
+S0862,Cobalt Group,IT Services,Australia,Oceania,261456.07,28.534399999999998,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-01-06
+S0863,Argent Systems,IT Services,Australia,Oceania,71892.12,50.4612,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-12-02
+S0864,Argent Components,IT Services,South Korea,Asia,137968.61,58.8768,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-04-16
+S0865,Eclipse Components,Metals & Minerals,Australia,Oceania,625037.74,40.35080000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-07-18
+S0866,Argent Manufacturing,Components,Germany,Europe,768888.72,38.334900000000005,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-06-02
+S0867,Alpine Services,Packaging,China,Asia,55499.53,84.15820000000001,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2025-11-03
+S0868,Argent Partners,Metals & Minerals,Switzerland,Europe,260670.09,41.8356,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-30
+S0869,Cascade Manufacturing,Metals & Minerals,Brazil,Americas,335143.08,63.110400000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-06-24
+S0870,Nimbus Manufacturing,Facility,Canada,Americas,147650.31,62.2576,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-28
+S0871,Novatek Manufacturing,Packaging,Italy,Europe,46623.86,45.6828,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-04-29
+S0872,Argent Systems,Packaging,Morocco,Africa,717317.65,67.1645,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-10-27
+S0873,Argent Services,Metals & Minerals,India,Asia,298722.43,73.4984,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-01-21
+S0874,Cobalt Materials,Packaging,United Arab Emirates,Middle East,49102.52,59.0692,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-04-03
+S0875,Novatek Partners,Components,United Kingdom,Europe,1374509.47,35.846000000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-03-05
+S0876,Eclipse Industries,Consulting,France,Europe,559385.88,42.5052,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-21
+S0877,Atlas Services,Metals & Minerals,United Arab Emirates,Middle East,400779.37,50.56920000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-05-14
+S0878,Lumen Supply,Metals & Minerals,Singapore,Asia,73953.14,42.79520000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-29
+S0879,Zenith Holdings,Metals & Minerals,South Korea,Asia,160306.88,84.07000000000001,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-02-04
+S0880,Cascade Components,Chemicals,Philippines,Asia,29538.64,59.538000000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-10-16
+S0881,Lumen Services,Metals & Minerals,Morocco,Africa,540007.03,50.479200000000006,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2025-07-10
+S0882,Cascade Manufacturing,Chemicals,Turkey,Europe/Asia,106280.74,61.142399999999995,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-12-05
+S0883,Novatek Materials,Components,Turkey,Europe/Asia,350265.05,53.1304,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-06-10
+S0884,Cobalt Partners,Facility,Singapore,Asia,671857.32,35.579600000000006,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-02-14
+S0885,Helios Supply,IT Services,United Arab Emirates,Middle East,65345.73,66.41799999999999,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-15
+S0886,Lumen Materials,Components,Turkey,Europe/Asia,338640.33,67.4546,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-01-28
+S0887,Nimbus Group,Logistics,New Zealand,Oceania,312414.13,65.8329,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-09-06
+S0888,Aurora Partners,IT Services,New Zealand,Oceania,434324.22,36.458,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-05-19
+S0889,Lumen Manufacturing,Tools & Machinery,Philippines,Asia,280917.18,53.580400000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-07-12
+S0890,Eclipse Services,Components,South Korea,Asia,258590.09,44.7604,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-07-14
+S0891,Eclipse Logistics,Facility,Tunisia,Africa,115415.96,59.4536,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Supplier Questionnaire,2025-04-17
+S0892,Cascade Logistics,Components,Vietnam,Asia,408329.95,67.10839999999999,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-26
+S0893,Helios Industries,Packaging,Taiwan,Asia,537213.49,41.034800000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-03-30
+S0894,Zenith Holdings,IT Services,Singapore,Asia,131019.46,39.0092,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2024-10-07
+S0895,Lumen Holdings,Facility,Indonesia,Asia,15211.77,73.5004,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2024-10-26
+S0896,Zenith Services,Metals & Minerals,Japan,Asia,726282.02,36.21000000000001,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2024-01-19
+S0897,Cobalt Components,Metals & Minerals,India,Asia,321107.43,82.4582,High Risk,Prioritize for audit and mitigation plan,0.6666666666666666,Third-party Rating,2024-03-02
+S0898,Vega Manufacturing,Metals & Minerals,India,Asia,459865.72,68.2302,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-10-30
+S0899,Orion Partners,Packaging,Malaysia,Asia,74605.31,66.73760000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-06
+S0900,Cobalt Manufacturing,Packaging,Spain,Europe,170546.2,36.262,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-06-14
+S0901,Helios Services,Facility,France,Europe,199711.44,76.54599999999999,High Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-02-18
+S0902,Alpine Materials,Components,Indonesia,Asia,131271.87,52.732800000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-06
+S0903,Argent Manufacturing,Chemicals,Spain,Europe,378188.34,31.614,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-05-03
+S0904,Meridian Services,Metals & Minerals,Switzerland,Europe,556792.44,38.524100000000004,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-03-19
+S0905,Zenith Manufacturing,Components,United Arab Emirates,Middle East,169103.32,68.497,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-02-12
+S0906,Novatek Group,Packaging,Japan,Asia,72350.61,47.6392,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-11-18
+S0907,Argent Industries,Logistics,Turkey,Europe/Asia,75099.06,86.47120000000001,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-07-09
+S0908,Vega Partners,IT Services,Indonesia,Asia,145339.11,72.7824,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2024-02-08
+S0909,Lumen Partners,Facility,Indonesia,Asia,121828.59,94.108,High Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2024-04-23
+S0910,Helios Partners,Consulting,United Kingdom,Europe,121343.15,38.756,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-02-12
+S0911,Alpine Partners,Components,Philippines,Asia,151864.83,74.95,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-02-27
+S0912,Zenith Supply,Components,Turkey,Europe/Asia,55347.16,40.98440000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-16
+S0913,Alpine Logistics,Components,Spain,Europe,507730.06,47.86109999999999,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-05-03
+S0914,Alpine Components,Metals & Minerals,Tunisia,Africa,1180689.16,84.3451,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2024-02-05
+S0915,Alpine Services,Facility,Canada,Americas,267085.31,36.0296,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-10-07
+S0916,Eclipse Holdings,Logistics,India,Asia,844074.78,56.1036,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-07-17
+S0917,Cascade Systems,Metals & Minerals,Japan,Asia,262924.26,46.97280000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-01-24
+S0918,Nimbus Partners,Components,Vietnam,Asia,699118.53,94.1928,High Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-08-12
+S0919,Alpine Manufacturing,Metals & Minerals,India,Asia,290445.35,76.1556,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-11-14
+S0920,Eclipse Logistics,Logistics,Mexico,Americas,72993.63,58.0392,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-07-11
+S0921,Argent Partners,Metals & Minerals,France,Europe,394981.27,46.6088,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-01
+S0922,Lumen Logistics,Tools & Machinery,Mexico,Americas,1313492.43,64.44,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-10-23
+S0923,Atlas Industries,Facility,Singapore,Asia,128868.91,51.9672,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-08-12
+S0924,Eclipse Manufacturing,Metals & Minerals,South Korea,Asia,66644.1,37.39,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-05-25
+S0925,Cascade Systems,Components,Singapore,Asia,1161181.77,50.028400000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-04-11
+S0926,Zenith Industries,IT Services,India,Asia,152929.18,67.086,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Supplier Questionnaire,2025-03-04
+S0927,Meridian Services,Packaging,Italy,Europe,134352.12,46.5564,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-12-27
+S0928,Atlas Industries,Metals & Minerals,United States,Americas,166792.46,43.5012,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-10-26
+S0929,Helios Logistics,Packaging,Mexico,Americas,151463.11,59.399100000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-06-23
+S0930,Orion Supply,Logistics,Indonesia,Asia,51502.09,73.3168,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2024-08-22
+S0931,Zenith Logistics,Metals & Minerals,Indonesia,Asia,1602532.23,85.04490000000001,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2024-09-10
+S0932,Meridian Manufacturing,Chemicals,United States,Americas,617875.39,30.3216,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-07-06
+S0933,Nimbus Logistics,Tools & Machinery,Switzerland,Europe,514127.45,49.7576,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-06-28
+S0934,Aurora Group,IT Services,Italy,Europe,321971.7,42.33,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2024-07-03
+S0935,Argent Components,Packaging,Thailand,Asia,97261.66,34.8662,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-09-23
+S0936,Helios Industries,Packaging,South Korea,Asia,371004.2,38.9776,Low Risk,Approved; monitor annually,0.6666666666666666,Third-party Rating,2024-01-12
+S0937,Cobalt Components,Packaging,China,Asia,124514.78,94.5596,High Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2025-07-30
+S0938,Cobalt Supply,Chemicals,Turkey,Europe/Asia,100163.82,67.1822,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2025-08-09
+S0939,Argent Supply,Packaging,Malaysia,Asia,121285.87,77.26230000000001,High Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2025-08-13
+S0940,Lumen Industries,Metals & Minerals,United Arab Emirates,Middle East,326620.33,58.168,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-06-28
+S0941,Zenith Systems,Metals & Minerals,Thailand,Asia,310305.94,70.7988,High Risk,Prioritize for audit and mitigation plan,1.0,Third-party Rating,2025-11-09
+S0942,Lumen Industries,Metals & Minerals,Philippines,Asia,1108184.67,37.08,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2025-10-21
+S0943,Cascade Components,Logistics,India,Asia,69569.75,63.2948,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-17
+S0944,Novatek Materials,Logistics,New Zealand,Oceania,194877.56,52.8874,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-11-15
+S0945,Vega Partners,Metals & Minerals,United Arab Emirates,Middle East,925756.21,57.4352,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-03-11
+S0946,Lumen Systems,Metals & Minerals,Singapore,Asia,2842254.9,48.4232,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-03-06
+S0947,Novatek Systems,Metals & Minerals,Spain,Europe,418304.45,38.23480000000001,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-04-27
+S0948,Atlas Holdings,Chemicals,United States,Americas,122696.24,36.4392,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-01-03
+S0949,Alpine Manufacturing,Consulting,Indonesia,Asia,158300.41,65.3768,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Supplier Questionnaire,2025-05-10
+S0950,Zenith Services,Tools & Machinery,Canada,Americas,873284.32,53.7888,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-02-11
+S0951,Alpine Partners,Facility,United Arab Emirates,Middle East,466816.75,67.29400000000001,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2025-12-30
+S0952,Novatek Components,Metals & Minerals,Italy,Europe,325788.13,49.8104,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-04-26
+S0953,Alpine Materials,Metals & Minerals,Brazil,Americas,859008.48,63.1678,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-03-23
+S0954,Atlas Components,Components,Saudi Arabia,Middle East,351569.58,54.601600000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-30
+S0955,Vega Group,Packaging,Brazil,Americas,318856.37,58.94200000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-23
+S0956,Argent Services,Facility,New Zealand,Oceania,403281.65,36.0568,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-12-17
+S0957,Eclipse Logistics,Logistics,Turkey,Europe/Asia,77327.94,63.55680000000001,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-11-16
+S0958,Vega Manufacturing,Metals & Minerals,United Arab Emirates,Middle East,171189.98,49.496,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-02-05
+S0959,Meridian Systems,Facility,United States,Americas,366299.98,63.9268,Medium Risk,Immediate corrective action + 30-day follow-up,1.0,Third-party Rating,2024-12-07
+S0960,Argent Manufacturing,Logistics,Singapore,Asia,549658.71,41.4216,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-01-19
+S0961,Novatek Manufacturing,Components,China,Asia,791309.99,65.5716,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-06-23
+S0962,Aurora Partners,Components,Australia,Oceania,351196.39,48.7548,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-08-19
+S0963,Vega Services,Metals & Minerals,Germany,Europe,139417.11,37.181200000000004,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2024-12-18
+S0964,Cobalt Components,Packaging,South Africa,Africa,420897.04,45.606100000000005,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-12-06
+S0965,Zenith Logistics,IT Services,Mexico,Americas,204154.08,51.0404,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2025-05-08
+S0966,Aurora Systems,Metals & Minerals,Canada,Americas,291074.17,31.153200000000002,Low Risk,Approved; monitor annually,0.6666666666666666,Supplier Questionnaire,2024-03-05
+S0967,Meridian Logistics,Components,Australia,Oceania,977721.26,58.32249999999999,Medium Risk,Request signature/commitment before continuation,0.6666666666666666,Third-party Rating,2024-04-26
+S0968,Zenith Systems,Facility,Switzerland,Europe,55448.85,75.6344,High Risk,Request signature/commitment before continuation,1.0,Third-party Rating,2024-11-23
+S0969,Argent Components,Packaging,Switzerland,Europe,73111.06,33.2736,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-01-15
+S0970,Helios Services,Components,China,Asia,208201.45,51.9816,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-07-19
+S0971,Atlas Materials,Components,Australia,Oceania,459119.0,45.519600000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Third-party Rating,2024-10-13
+S0972,Novatek Group,Tools & Machinery,Indonesia,Asia,413380.1,73.0958,High Risk,Prioritize for audit and mitigation plan,1.0,Supplier Questionnaire,2025-11-30
+S0973,Zenith Industries,IT Services,South Africa,Africa,270432.33,56.490700000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-16
+S0974,Cascade Group,Metals & Minerals,Spain,Europe,565482.32,53.9189,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-05-19
+S0975,Cobalt Systems,Components,Tunisia,Africa,613242.86,57.5018,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-08-22
+S0976,Alpine Materials,Components,New Zealand,Oceania,1636978.8,33.9856,Low Risk,Approved; monitor annually,0.6666666666666666,Internal Assessment,2025-11-11
+S0977,Alpine Services,Metals & Minerals,United States,Americas,564298.69,63.638400000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2024-12-02
+S0978,Nimbus Manufacturing,Metals & Minerals,Vietnam,Asia,520297.51,91.8462,High Risk,Immediate corrective action + 30-day follow-up,0.6666666666666666,Supplier Questionnaire,2025-10-16
+S0979,Argent Systems,Metals & Minerals,Taiwan,Asia,242659.75,55.691199999999995,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-01-28
+S0980,Novatek Industries,Metals & Minerals,China,Asia,333044.28,67.2808,Medium Risk,Monitor quarterly; request additional evidence,1.0,Internal Assessment,2024-02-08
+S0981,Cobalt Manufacturing,Packaging,Spain,Europe,244029.04,43.210800000000006,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-10-30
+S0982,Argent Logistics,Logistics,India,Asia,97644.83,73.1541,High Risk,Prioritize for audit and mitigation plan,1.0,Internal Assessment,2024-05-06
+S0983,Cobalt Group,IT Services,Tunisia,Africa,249828.37,64.4652,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-11-13
+S0984,Aurora Systems,Components,Japan,Asia,585810.33,47.680400000000006,Medium Risk,Request signature/commitment before continuation,1.0,Supplier Questionnaire,2024-01-29
+S0985,Zenith Partners,Components,Thailand,Asia,110119.73,53.6591,Medium Risk,Monitor quarterly; request additional evidence,0.3333333333333333,Third-party Rating,2024-08-22
+S0986,Aurora Components,Consulting,Italy,Europe,388009.73,34.3328,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2024-04-03
+S0987,Nimbus Components,Metals & Minerals,Vietnam,Asia,480358.13,57.0364,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-12-29
+S0988,Cobalt Supply,Metals & Minerals,Tunisia,Africa,1558141.47,50.930800000000005,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Internal Assessment,2025-09-25
+S0989,Orion Industries,Logistics,Germany,Europe,256393.32,45.1108,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2024-04-09
+S0990,Lumen Logistics,Metals & Minerals,Philippines,Asia,280944.81,50.028800000000004,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2024-01-15
+S0991,Alpine Systems,Packaging,Spain,Europe,70056.27,30.178000000000004,Low Risk,Approved; monitor annually,1.0,Third-party Rating,2025-08-21
+S0992,Vega Industries,Logistics,United Arab Emirates,Middle East,58878.94,58.921400000000006,Medium Risk,Monitor quarterly; request additional evidence,0.6666666666666666,Supplier Questionnaire,2025-05-09
+S0993,Nimbus Industries,Facility,France,Europe,473416.47,52.848800000000004,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2025-11-27
+S0994,Cascade Systems,Components,Switzerland,Europe,1406968.66,43.0328,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-02
+S0995,Vega Components,Facility,United Kingdom,Europe,149707.79,32.367999999999995,Low Risk,Approved; monitor annually,1.0,Supplier Questionnaire,2024-05-25
+S0996,Lumen Services,Components,Thailand,Asia,312825.24,42.6456,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-10-28
+S0997,Helios Components,Components,Switzerland,Europe,378699.8,31.471600000000002,Low Risk,Approved; monitor annually,1.0,Internal Assessment,2025-07-17
+S0998,Cascade Holdings,Components,South Africa,Africa,1451290.37,57.8104,Medium Risk,Monitor quarterly; request additional evidence,1.0,Supplier Questionnaire,2025-09-01
+S0999,Zenith Materials,Components,United Kingdom,Europe,170514.37,43.8524,Medium Risk,Monitor quarterly; request additional evidence,1.0,Third-party Rating,2024-04-24
+S1000,Alpine Holdings,Metals & Minerals,Turkey,Europe/Asia,368292.82,88.77230000000002,High Risk,Request signature/commitment before continuation,1.0,Internal Assessment,2024-03-01

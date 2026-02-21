@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,country,region,country_risk_level,country_risk_weight,category,tier,dependency_level,annual_spend_chf,onboarding_date,charter_signed,made_in_disclosed,traceability_level
+S0001,Eclipse Supply,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 2,Low,452847.07,2023-04-25,True,True,Partial
+S0002,Lumen Partners,Indonesia,Asia,High,25,Packaging,Tier 1,Low,145712.18,2021-12-25,True,True,Full
+S0003,Atlas Logistics,South Africa,Africa,Medium,15,Components,Tier 1,Medium,296895.25,2016-07-31,True,True,Partial
+S0004,Aurora Industries,Spain,Europe,Low,5,Components,Tier 2,Low,252364.28,2024-08-27,True,True,Full
+S0005,Meridian Services,Taiwan,Asia,Low,5,Packaging,Tier 1,High,921146.05,2016-03-16,True,True,Partial
+S0006,Cascade Supply,Indonesia,Asia,High,25,Components,Tier 1,Medium,661592.54,2025-09-10,True,False,Limited
+S0007,Meridian Systems,Tunisia,Africa,Medium,15,Components,Tier 2,Low,209056.31,2017-10-25,True,True,Full
+S0008,Meridian Systems,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 2,Low,469764.35,2017-10-31,True,True,Full
+S0009,Atlas Group,South Korea,Asia,Low,5,Logistics,Tier 2,Medium,167887.75,2020-04-25,True,True,Full
+S0010,Meridian Systems,Mexico,Americas,Medium,15,Metals & Minerals,Tier 3,Medium,50364.92,2018-11-28,True,True,Partial
+S0011,Vega Group,India,Asia,High,25,Metals & Minerals,Tier 1,Medium,159243.93,2018-12-02,True,True,Partial
+S0012,Lumen Materials,Morocco,Africa,Medium,15,Components,Tier 3,Low,299261.28,2019-08-30,True,True,Full
+S0013,Eclipse Industries,United Arab Emirates,Middle East,Medium,15,IT Services,Tier 1,Low,525717.36,2017-12-29,True,True,Full
+S0014,Nimbus Materials,Japan,Asia,Low,5,Facility,Tier 2,Low,115480.85,2021-02-19,True,True,Full
+S0015,Helios Systems,India,Asia,High,25,Metals & Minerals,Tier 2,Medium,196896.26,2022-01-26,False,True,Partial
+S0016,Meridian Partners,Brazil,Americas,Medium,15,Chemicals,Tier 1,Low,177857.52,2017-09-14,True,True,Limited
+S0017,Novatek Industries,Switzerland,Europe,Low,5,Logistics,Tier 1,Low,100658.52,2022-11-02,True,False,Limited
+S0018,Zenith Materials,Canada,Americas,Low,5,Tools & Machinery,Tier 3,Low,184299.87,2020-05-25,True,True,Partial
+S0019,Meridian Partners,Spain,Europe,Low,5,IT Services,Tier 3,Low,104654.46,2016-05-05,True,True,Limited
+S0020,Eclipse Manufacturing,Singapore,Asia,Low,5,Facility,Tier 1,Low,69830.86,2025-02-01,False,True,Partial
+S0021,Argent Systems,Italy,Europe,Low,5,Components,Tier 1,Low,691413.47,2019-02-11,True,True,Full
+S0022,Novatek Partners,France,Europe,Low,5,Components,Tier 3,High,140224.94,2021-03-13,True,True,Partial
+S0023,Helios Supply,Spain,Europe,Low,5,Facility,Tier 2,Medium,47807.23,2025-09-08,True,True,Partial
+S0024,Helios Industries,Japan,Asia,Low,5,Packaging,Tier 1,Low,190515.53,2023-09-30,True,True,Limited
+S0025,Orion Logistics,Tunisia,Africa,Medium,15,Facility,Tier 2,Low,249759.65,2016-11-18,True,True,Full
+S0026,Eclipse Industries,India,Asia,High,25,Components,Tier 3,Low,266937.3,2017-12-16,True,True,Full
+S0027,Alpine Materials,Germany,Europe,Low,5,Tools & Machinery,Tier 2,Low,277456.6,2019-11-19,True,True,Partial
+S0028,Argent Partners,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,High,450258.9,2018-09-17,True,True,Partial
+S0029,Argent Services,Japan,Asia,Low,5,Facility,Tier 1,Low,112587.84,2018-10-22,False,True,Partial
+S0030,Cascade Materials,France,Europe,Low,5,Metals & Minerals,Tier 1,High,1334622.14,2021-06-03,True,True,Partial
+S0031,Vega Industries,Germany,Europe,Low,5,Logistics,Tier 2,Low,179287.91,2016-09-29,True,False,Full
+S0032,Atlas Components,Philippines,Asia,Medium,15,Metals & Minerals,Tier 2,Medium,223657.83,2025-11-11,True,True,Partial
+S0033,Cobalt Holdings,Mexico,Americas,Medium,15,Components,Tier 2,Low,177087.78,2016-01-21,True,True,Full
+S0034,Meridian Components,Indonesia,Asia,High,25,Consulting,Tier 1,Low,265492.28,2024-02-24,True,False,Limited
+S0035,Eclipse Industries,Morocco,Africa,Medium,15,Components,Tier 1,Low,816887.76,2023-09-16,True,False,Limited
+S0036,Helios Partners,Japan,Asia,Low,5,Chemicals,Tier 1,Medium,342841.7,2016-09-27,False,True,Full
+S0037,Cobalt Logistics,Spain,Europe,Low,5,Components,Tier 2,Medium,155525.41,2024-08-16,True,True,Full
+S0038,Orion Systems,New Zealand,Oceania,Low,5,Tools & Machinery,Tier 1,Medium,279592.22,2022-03-25,True,True,Full
+S0039,Argent Materials,Mexico,Americas,Medium,15,Metals & Minerals,Tier 1,Medium,244047.45,2019-02-09,True,True,Limited
+S0040,Meridian Industries,Thailand,Asia,Medium,15,Metals & Minerals,Tier 1,Medium,308639.8,2019-04-01,True,True,Partial
+S0041,Vega Materials,New Zealand,Oceania,Low,5,Components,Tier 2,Medium,583009.69,2024-11-12,True,True,Limited
+S0042,Atlas Group,Canada,Americas,Low,5,Tools & Machinery,Tier 3,Medium,688772.61,2020-09-19,True,True,Partial
+S0043,Alpine Manufacturing,United Arab Emirates,Middle East,Medium,15,IT Services,Tier 2,Low,184755.74,2023-08-08,True,True,Partial
+S0044,Lumen Components,Canada,Americas,Low,5,Components,Tier 3,Low,138909.6,2021-08-10,True,True,Full
+S0045,Cascade Partners,Tunisia,Africa,Medium,15,Components,Tier 2,High,473203.7,2021-03-22,True,True,Partial
+S0046,Helios Holdings,Turkey,Europe/Asia,Medium,15,Tools & Machinery,Tier 1,High,2003038.66,2020-04-09,True,False,Full
+S0047,Novatek Logistics,South Africa,Africa,Medium,15,Components,Tier 2,Low,326301.18,2019-02-21,False,True,Limited
+S0048,Lumen Components,France,Europe,Low,5,Facility,Tier 1,High,205006.66,2021-01-30,True,True,Partial
+S0049,Meridian Logistics,Morocco,Africa,Medium,15,Packaging,Tier 3,High,141985.92,2020-02-06,True,True,Full
+S0050,Nimbus Systems,Vietnam,Asia,High,25,Components,Tier 1,Low,476463.99,2023-07-20,True,True,Partial
+S0051,Nimbus Holdings,Taiwan,Asia,Low,5,Tools & Machinery,Tier 2,Low,159395.46,2025-04-16,True,True,Full
+S0052,Zenith Materials,Philippines,Asia,Medium,15,IT Services,Tier 1,Low,108944.56,2024-01-28,True,True,Limited
+S0053,Lumen Logistics,Japan,Asia,Low,5,Metals & Minerals,Tier 1,Medium,744731.52,2024-01-12,True,True,Partial
+S0054,Cobalt Group,Canada,Americas,Low,5,Chemicals,Tier 1,Low,211715.97,2017-11-11,False,True,Partial
+S0055,Alpine Supply,New Zealand,Oceania,Low,5,IT Services,Tier 1,Medium,175898.44,2024-01-26,True,True,Partial
+S0056,Cascade Supply,Singapore,Asia,Low,5,Packaging,Tier 1,High,565191.35,2024-12-14,True,True,Full
+S0057,Cobalt Holdings,India,Asia,High,25,Metals & Minerals,Tier 1,Low,204191.77,2018-04-11,True,True,Partial
+S0058,Cobalt Manufacturing,Saudi Arabia,Middle East,Medium,15,Facility,Tier 1,Medium,125225.36,2020-04-07,True,False,Partial
+S0059,Cobalt Supply,Mexico,Americas,Medium,15,Facility,Tier 2,Low,175321.6,2016-01-26,True,True,Full
+S0060,Argent Materials,South Korea,Asia,Low,5,Components,Tier 1,Low,441221.18,2021-02-07,True,True,Full
+S0061,Nimbus Holdings,South Korea,Asia,Low,5,Components,Tier 1,Low,115400.13,2017-03-13,True,True,Limited
+S0062,Nimbus Group,South Korea,Asia,Low,5,Metals & Minerals,Tier 2,Medium,217384.33,2019-05-17,True,False,Full
+S0063,Alpine Group,Thailand,Asia,Medium,15,Facility,Tier 1,Medium,143053.14,2021-03-08,True,True,Partial
+S0064,Eclipse Industries,Turkey,Europe/Asia,Medium,15,IT Services,Tier 2,Medium,191132.42,2023-01-10,True,False,Limited
+S0065,Aurora Group,Tunisia,Africa,Medium,15,Logistics,Tier 2,Low,169994.5,2025-08-13,True,True,Full
+S0066,Aurora Supply,Turkey,Europe/Asia,Medium,15,Components,Tier 1,Medium,337358.23,2018-07-08,True,True,Limited
+S0067,Lumen Industries,China,Asia,High,25,Metals & Minerals,Tier 1,High,123431.8,2018-11-05,True,True,Partial
+S0068,Helios Holdings,Singapore,Asia,Low,5,Metals & Minerals,Tier 1,Medium,350545.66,2016-05-14,True,True,Partial
+S0069,Zenith Materials,United States,Americas,Low,5,Packaging,Tier 1,Low,170789.0,2016-07-06,True,False,Partial
+S0070,Argent Components,Brazil,Americas,Medium,15,Metals & Minerals,Tier 1,Low,2569061.08,2018-10-14,True,False,Partial
+S0071,Zenith Supply,Germany,Europe,Low,5,Logistics,Tier 2,Low,118609.55,2017-06-12,True,True,Partial
+S0072,Atlas Industries,United Arab Emirates,Middle East,Medium,15,Consulting,Tier 2,Low,176084.44,2020-11-21,True,True,Partial
+S0073,Orion Group,Australia,Oceania,Low,5,Packaging,Tier 1,Low,406060.83,2018-05-17,True,False,Partial
+S0074,Nimbus Holdings,United Kingdom,Europe,Low,5,Facility,Tier 3,Low,193061.39,2023-04-11,True,True,Partial
+S0075,Vega Holdings,Mexico,Americas,Medium,15,Components,Tier 1,High,1759774.86,2022-05-01,True,True,Partial
+S0076,Atlas Logistics,Japan,Asia,Low,5,Components,Tier 1,High,186648.07,2021-05-09,True,True,Partial
+S0077,Nimbus Manufacturing,New Zealand,Oceania,Low,5,Logistics,Tier 2,Medium,62633.28,2016-05-28,True,True,Full
+S0078,Novatek Group,Thailand,Asia,Medium,15,Facility,Tier 2,Medium,87942.89,2021-11-26,True,True,Full
+S0079,Eclipse Services,South Korea,Asia,Low,5,Components,Tier 2,Low,88027.78,2022-06-12,True,True,Limited
+S0080,Eclipse Materials,Morocco,Africa,Medium,15,Facility,Tier 1,Low,171931.32,2017-09-28,True,True,Full
+S0081,Helios Components,United States,Americas,Low,5,Components,Tier 1,Medium,171599.4,2025-05-12,False,True,Full
+S0082,Eclipse Logistics,Brazil,Americas,Medium,15,Components,Tier 1,Low,1237253.9,2017-05-16,True,True,Limited
+S0083,Cobalt Manufacturing,South Korea,Asia,Low,5,Consulting,Tier 2,Medium,73930.33,2025-03-29,True,True,Full
+S0084,Helios Holdings,Turkey,Europe/Asia,Medium,15,Components,Tier 1,High,442772.68,2024-10-07,True,True,Partial
+S0085,Eclipse Group,Malaysia,Asia,Medium,15,IT Services,Tier 1,Medium,312017.26,2024-03-01,False,True,Full
+S0086,Vega Group,Philippines,Asia,Medium,15,Logistics,Tier 2,Medium,51678.11,2021-07-19,True,False,Full
+S0087,Aurora Systems,Brazil,Americas,Medium,15,Logistics,Tier 1,High,71970.89,2016-12-05,True,True,Partial
+S0088,Aurora Industries,Germany,Europe,Low,5,Metals & Minerals,Tier 1,Low,415054.22,2024-12-18,True,True,Partial
+S0089,Zenith Systems,Canada,Americas,Low,5,Components,Tier 1,High,705292.03,2019-05-22,True,True,Full
+S0090,Cascade Materials,Indonesia,Asia,High,25,IT Services,Tier 3,Low,197733.49,2019-06-28,True,True,Limited
+S0091,Cobalt Logistics,Germany,Europe,Low,5,Metals & Minerals,Tier 2,Medium,462079.25,2024-11-11,True,False,Partial
+S0092,Argent Services,South Korea,Asia,Low,5,Packaging,Tier 1,Low,206403.39,2023-10-17,True,True,Limited
+S0093,Zenith Systems,Philippines,Asia,Medium,15,Components,Tier 1,High,332515.32,2017-08-12,True,True,Limited
+S0094,Orion Holdings,Saudi Arabia,Middle East,Medium,15,Components,Tier 1,Medium,431171.12,2024-12-23,True,True,Limited
+S0095,Cascade Materials,South Africa,Africa,Medium,15,IT Services,Tier 1,Low,205758.41,2016-01-19,True,True,Partial
+S0096,Helios Services,Turkey,Europe/Asia,Medium,15,Packaging,Tier 1,Medium,91905.75,2017-08-09,True,True,Full
+S0097,Eclipse Manufacturing,Mexico,Americas,Medium,15,Components,Tier 3,Low,1035395.52,2022-07-07,True,False,Partial
+S0098,Aurora Partners,South Africa,Africa,Medium,15,Metals & Minerals,Tier 1,Medium,523097.79,2018-03-29,True,True,Full
+S0099,Novatek Materials,Spain,Europe,Low,5,Tools & Machinery,Tier 1,Medium,164178.91,2019-04-02,True,False,Partial
+S0100,Helios Systems,Brazil,Americas,Medium,15,Logistics,Tier 1,Low,305488.58,2023-06-17,False,False,Partial
+S0101,Cobalt Components,Saudi Arabia,Middle East,Medium,15,Metals & Minerals,Tier 3,Low,503015.04,2022-07-28,True,True,Partial
+S0102,Aurora Group,India,Asia,High,25,Logistics,Tier 1,High,362300.18,2021-09-05,True,True,Limited
+S0103,Lumen Manufacturing,Turkey,Europe/Asia,Medium,15,Tools & Machinery,Tier 1,Medium,294238.77,2018-08-25,True,True,Partial
+S0104,Atlas Components,Australia,Oceania,Low,5,Metals & Minerals,Tier 1,Low,195921.32,2018-06-09,True,True,Partial
+S0105,Meridian Group,South Korea,Asia,Low,5,Components,Tier 1,High,538627.56,2024-11-29,True,True,Partial
+S0106,Vega Services,Tunisia,Africa,Medium,15,Consulting,Tier 2,Medium,181752.77,2022-04-22,True,False,Full
+S0107,Cascade Systems,Australia,Oceania,Low,5,Metals & Minerals,Tier 2,Low,307533.7,2021-10-06,True,True,Full
+S0108,Atlas Systems,Spain,Europe,Low,5,Metals & Minerals,Tier 2,Low,973609.61,2020-12-02,True,True,Full
+S0109,Vega Supply,Australia,Oceania,Low,5,Logistics,Tier 3,Medium,174512.38,2018-10-21,True,True,Partial
+S0110,Lumen Supply,Canada,Americas,Low,5,IT Services,Tier 3,High,85262.9,2016-03-29,True,True,Full
+S0111,Nimbus Materials,India,Asia,High,25,Metals & Minerals,Tier 1,Low,152016.35,2025-05-25,True,True,Partial
+S0112,Vega Systems,Canada,Americas,Low,5,Logistics,Tier 1,Medium,239420.8,2025-07-13,True,True,Limited
+S0113,Meridian Manufacturing,Canada,Americas,Low,5,Packaging,Tier 1,Low,136111.51,2016-02-26,True,True,Partial
+S0114,Nimbus Logistics,New Zealand,Oceania,Low,5,Components,Tier 1,Low,633907.14,2025-04-11,False,False,Full
+S0115,Vega Logistics,India,Asia,High,25,Chemicals,Tier 1,Low,237658.51,2025-08-18,True,True,Partial
+S0116,Argent Industries,South Korea,Asia,Low,5,Components,Tier 3,Medium,219566.69,2024-07-10,True,True,Partial
+S0117,Novatek Systems,Philippines,Asia,Medium,15,Facility,Tier 2,High,112425.91,2024-07-03,True,True,Limited
+S0118,Meridian Systems,United States,Americas,Low,5,IT Services,Tier 2,Medium,41175.69,2019-03-02,True,True,Partial
+S0119,Atlas Group,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 2,Low,361209.51,2025-05-09,True,True,Limited
+S0120,Orion Logistics,United Kingdom,Europe,Low,5,Components,Tier 2,High,179755.17,2022-12-15,True,True,Full
+S0121,Helios Materials,Saudi Arabia,Middle East,Medium,15,Consulting,Tier 3,Low,52163.13,2022-02-22,True,True,Partial
+S0122,Atlas Supply,Singapore,Asia,Low,5,Consulting,Tier 2,Medium,156445.21,2025-11-22,False,False,Limited
+S0123,Nimbus Systems,United Arab Emirates,Middle East,Medium,15,Components,Tier 1,Low,375128.66,2024-10-07,True,True,Full
+S0124,Novatek Systems,Morocco,Africa,Medium,15,Metals & Minerals,Tier 1,Low,143498.68,2023-05-27,True,True,Limited
+S0125,Alpine Logistics,Germany,Europe,Low,5,IT Services,Tier 1,Medium,387101.03,2019-08-05,True,True,Full
+S0126,Argent Partners,China,Asia,High,25,Metals & Minerals,Tier 1,Low,831926.19,2018-12-07,True,True,Limited
+S0127,Aurora Industries,South Africa,Africa,Medium,15,Logistics,Tier 2,High,334206.02,2024-08-30,True,True,Partial
+S0128,Eclipse Systems,South Korea,Asia,Low,5,Components,Tier 1,High,864139.72,2025-02-15,True,True,Partial
+S0129,Novatek Systems,Morocco,Africa,Medium,15,Metals & Minerals,Tier 1,High,865012.42,2023-12-23,False,True,Full
+S0130,Helios Partners,Malaysia,Asia,Medium,15,Logistics,Tier 1,Medium,3549031.09,2022-06-30,True,True,Partial
+S0131,Aurora Materials,United States,Americas,Low,5,Logistics,Tier 2,Low,296761.03,2024-11-22,True,True,Partial
+S0132,Zenith Components,Spain,Europe,Low,5,Logistics,Tier 2,Low,232953.48,2019-05-18,True,True,Partial
+S0133,Cobalt Manufacturing,Indonesia,Asia,High,25,Components,Tier 1,Low,192952.09,2021-10-11,True,True,Partial
+S0134,Meridian Systems,Singapore,Asia,Low,5,Components,Tier 1,Low,296262.89,2016-05-11,True,True,Partial
+S0135,Helios Manufacturing,Vietnam,Asia,High,25,Components,Tier 2,Low,1938965.78,2018-11-11,False,True,Partial
+S0136,Lumen Holdings,South Korea,Asia,Low,5,Tools & Machinery,Tier 1,Low,80390.01,2021-11-26,True,True,Full
+S0137,Zenith Supply,Thailand,Asia,Medium,15,Facility,Tier 1,Medium,111575.25,2017-04-08,True,True,Partial
+S0138,Nimbus Services,Australia,Oceania,Low,5,IT Services,Tier 2,Medium,330592.42,2021-03-21,True,True,Limited
+S0139,Orion Systems,Saudi Arabia,Middle East,Medium,15,Packaging,Tier 1,Low,91835.76,2022-03-23,True,True,Partial
+S0140,Eclipse Industries,China,Asia,High,25,Metals & Minerals,Tier 2,Low,524193.74,2016-11-07,True,True,Limited
+S0141,Nimbus Industries,Indonesia,Asia,High,25,Consulting,Tier 1,Medium,168797.91,2021-05-27,True,True,Limited
+S0142,Helios Services,Brazil,Americas,Medium,15,IT Services,Tier 1,Medium,96637.27,2022-05-15,True,True,Full
+S0143,Zenith Holdings,Australia,Oceania,Low,5,Logistics,Tier 1,Low,32205.29,2023-12-12,True,True,Partial
+S0144,Aurora Logistics,Philippines,Asia,Medium,15,IT Services,Tier 1,Medium,188935.97,2018-09-15,True,True,Full
+S0145,Alpine Supply,Turkey,Europe/Asia,Medium,15,Components,Tier 1,Low,189935.68,2016-04-02,True,True,Partial
+S0146,Vega Holdings,Taiwan,Asia,Low,5,Logistics,Tier 1,Low,148480.79,2025-08-14,True,True,Full
+S0147,Nimbus Manufacturing,Germany,Europe,Low,5,Tools & Machinery,Tier 1,Medium,536299.03,2020-02-01,True,True,Partial
+S0148,Lumen Holdings,Philippines,Asia,Medium,15,Packaging,Tier 1,Medium,325332.87,2017-09-24,True,True,Full
+S0149,Novatek Materials,China,Asia,High,25,Logistics,Tier 1,Low,111306.59,2021-06-27,False,True,Full
+S0150,Argent Components,Singapore,Asia,Low,5,Components,Tier 1,Low,212308.14,2023-02-21,True,True,Partial
+S0151,Cobalt Supply,Vietnam,Asia,High,25,Logistics,Tier 2,Low,50451.81,2025-07-17,True,True,Partial
+S0152,Atlas Materials,Australia,Oceania,Low,5,Components,Tier 1,Low,746198.49,2023-05-17,True,True,Partial
+S0153,Nimbus Holdings,United Arab Emirates,Middle East,Medium,15,Consulting,Tier 1,Medium,888886.61,2020-03-11,True,True,Full
+S0154,Eclipse Systems,Tunisia,Africa,Medium,15,Logistics,Tier 1,Low,371748.27,2018-06-23,True,True,Full
+S0155,Orion Components,Italy,Europe,Low,5,Logistics,Tier 1,Medium,448439.44,2016-02-22,True,False,Partial
+S0156,Zenith Systems,Italy,Europe,Low,5,Metals & Minerals,Tier 1,Medium,203276.38,2017-02-27,True,True,Full
+S0157,Vega Services,China,Asia,High,25,Packaging,Tier 1,Medium,232130.63,2020-09-26,True,False,Partial
+S0158,Vega Industries,Australia,Oceania,Low,5,Consulting,Tier 1,Low,302460.89,2016-12-23,True,True,Partial
+S0159,Cascade Supply,Morocco,Africa,Medium,15,Logistics,Tier 1,Low,12173.13,2017-09-24,True,True,Full
+S0160,Meridian Holdings,Philippines,Asia,Medium,15,Logistics,Tier 1,Medium,71717.49,2020-05-02,False,True,Full
+S0161,Cascade Services,Malaysia,Asia,Medium,15,Components,Tier 2,Low,1123396.76,2022-05-07,False,True,Limited
+S0162,Vega Materials,South Korea,Asia,Low,5,Metals & Minerals,Tier 2,Low,96937.85,2016-06-14,True,False,Partial
+S0163,Lumen Services,Morocco,Africa,Medium,15,Components,Tier 1,Low,1134242.96,2021-01-10,True,True,Partial
+S0164,Vega Materials,Germany,Europe,Low,5,Components,Tier 1,Low,113523.78,2024-07-23,True,True,Limited
+S0165,Orion Holdings,Turkey,Europe/Asia,Medium,15,Metals & Minerals,Tier 2,High,222067.16,2016-09-14,True,True,Partial
+S0166,Cascade Systems,South Korea,Asia,Low,5,Tools & Machinery,Tier 1,Low,518212.23,2022-06-02,True,True,Partial
+S0167,Atlas Manufacturing,Vietnam,Asia,High,25,Metals & Minerals,Tier 2,Low,321830.44,2025-05-24,True,True,Limited
+S0168,Cascade Partners,United States,Americas,Low,5,Components,Tier 1,Low,263078.17,2021-10-01,True,True,Partial
+S0169,Argent Holdings,France,Europe,Low,5,IT Services,Tier 2,Medium,492029.78,2020-07-30,True,True,Full
+S0170,Vega Logistics,United Arab Emirates,Middle East,Medium,15,Tools & Machinery,Tier 2,Low,113061.37,2021-06-14,True,True,Limited
+S0171,Cascade Components,Singapore,Asia,Low,5,Facility,Tier 1,Low,144144.55,2025-08-09,True,True,Partial
+S0172,Nimbus Materials,Morocco,Africa,Medium,15,IT Services,Tier 1,Low,260577.02,2025-01-17,True,True,Partial
+S0173,Meridian Supply,Saudi Arabia,Middle East,Medium,15,Components,Tier 2,High,609708.07,2016-09-16,True,True,Partial
+S0174,Orion Group,South Korea,Asia,Low,5,Chemicals,Tier 2,Low,84062.97,2019-03-10,True,True,Limited
+S0175,Eclipse Services,Germany,Europe,Low,5,Consulting,Tier 1,Low,101570.48,2017-03-07,True,True,Full
+S0176,Atlas Materials,Canada,Americas,Low,5,Components,Tier 1,Low,706542.78,2022-12-18,True,True,Partial
+S0177,Vega Industries,Spain,Europe,Low,5,Metals & Minerals,Tier 3,Low,477994.42,2023-05-07,True,True,Partial
+S0178,Helios Logistics,New Zealand,Oceania,Low,5,Metals & Minerals,Tier 1,Medium,457850.04,2024-01-11,True,True,Partial
+S0179,Meridian Manufacturing,Canada,Americas,Low,5,Components,Tier 1,Low,184473.55,2023-07-02,True,True,Full
+S0180,Atlas Components,Philippines,Asia,Medium,15,Logistics,Tier 2,Medium,88374.28,2024-01-23,True,True,Full
+S0181,Eclipse Partners,Indonesia,Asia,High,25,Packaging,Tier 2,Low,136047.56,2019-09-19,False,True,Partial
+S0182,Atlas Supply,Thailand,Asia,Medium,15,Metals & Minerals,Tier 2,Low,334302.09,2023-10-04,True,True,Partial
+S0183,Atlas Partners,Morocco,Africa,Medium,15,Components,Tier 2,Low,471472.63,2024-07-30,True,True,Full
+S0184,Zenith Materials,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 1,Medium,138447.42,2020-04-14,True,True,Partial
+S0185,Atlas Logistics,Germany,Europe,Low,5,Facility,Tier 3,Low,204751.06,2017-01-11,True,True,Limited
+S0186,Cascade Industries,Vietnam,Asia,High,25,Components,Tier 2,Low,583468.73,2025-01-07,True,True,Full
+S0187,Nimbus Services,Australia,Oceania,Low,5,IT Services,Tier 1,Medium,462491.31,2019-03-14,True,True,Partial
+S0188,Helios Group,United Kingdom,Europe,Low,5,Packaging,Tier 1,High,264820.28,2024-12-12,True,True,Partial
+S0189,Cobalt Holdings,Philippines,Asia,Medium,15,Consulting,Tier 1,Low,210940.86,2025-07-01,True,True,Full
+S0190,Nimbus Logistics,South Korea,Asia,Low,5,Packaging,Tier 2,Low,124662.66,2021-09-24,True,True,Partial
+S0191,Lumen Materials,Malaysia,Asia,Medium,15,Consulting,Tier 3,Low,54975.37,2018-12-06,True,True,Limited
+S0192,Atlas Services,Switzerland,Europe,Low,5,Metals & Minerals,Tier 2,Medium,1623099.66,2019-04-14,True,True,Partial
+S0193,Helios Holdings,Tunisia,Africa,Medium,15,Consulting,Tier 1,Low,411057.63,2023-11-29,True,True,Partial
+S0194,Cobalt Partners,Spain,Europe,Low,5,Logistics,Tier 1,Medium,306609.48,2023-11-22,True,True,Partial
+S0195,Argent Manufacturing,Tunisia,Africa,Medium,15,Tools & Machinery,Tier 1,Medium,354569.6,2016-07-29,True,True,Partial
+S0196,Lumen Services,United States,Americas,Low,5,Metals & Minerals,Tier 2,Low,148469.52,2021-06-28,True,True,Full
+S0197,Meridian Systems,Japan,Asia,Low,5,Components,Tier 1,Low,781173.96,2019-07-04,True,True,Partial
+S0198,Alpine Services,United Kingdom,Europe,Low,5,Chemicals,Tier 1,Low,144690.77,2017-03-03,True,True,Partial
+S0199,Nimbus Manufacturing,Thailand,Asia,Medium,15,Logistics,Tier 1,High,362343.81,2022-03-06,True,False,Full
+S0200,Cobalt Systems,Vietnam,Asia,High,25,Packaging,Tier 1,Medium,103675.42,2017-01-04,True,True,Full
+S0201,Nimbus Partners,Vietnam,Asia,High,25,Components,Tier 2,Medium,370241.84,2016-09-22,True,True,Limited
+S0202,Atlas Partners,Australia,Oceania,Low,5,Metals & Minerals,Tier 1,Low,238685.68,2024-03-18,True,True,Partial
+S0203,Vega Partners,New Zealand,Oceania,Low,5,Components,Tier 1,Low,245641.08,2016-11-05,False,True,Partial
+S0204,Vega Services,Germany,Europe,Low,5,Logistics,Tier 1,High,313527.88,2025-11-10,True,True,Partial
+S0205,Aurora Systems,Saudi Arabia,Middle East,Medium,15,Tools & Machinery,Tier 1,High,179870.7,2024-02-14,True,False,Partial
+S0206,Aurora Manufacturing,United States,Americas,Low,5,Facility,Tier 1,Medium,52787.46,2025-06-19,True,True,Full
+S0207,Cobalt Manufacturing,Canada,Americas,Low,5,Chemicals,Tier 2,Low,77864.52,2023-10-07,True,True,Partial
+S0208,Nimbus Materials,United States,Americas,Low,5,Components,Tier 1,High,482966.84,2021-07-31,True,False,Full
+S0209,Helios Industries,Singapore,Asia,Low,5,Components,Tier 1,Low,711111.88,2017-02-09,True,True,Full
+S0210,Meridian Holdings,Brazil,Americas,Medium,15,Consulting,Tier 2,Low,121726.29,2020-12-03,False,False,Limited
+S0211,Alpine Supply,Taiwan,Asia,Low,5,Components,Tier 2,Low,299877.08,2016-07-24,True,True,Full
+S0212,Meridian Systems,Tunisia,Africa,Medium,15,Logistics,Tier 3,Low,83976.32,2017-03-09,True,True,Partial
+S0213,Zenith Group,Japan,Asia,Low,5,Packaging,Tier 1,Medium,210696.68,2023-06-16,True,False,Partial
+S0214,Cobalt Partners,Morocco,Africa,Medium,15,Metals & Minerals,Tier 1,Medium,184734.07,2021-10-30,True,True,Partial
+S0215,Atlas Partners,Mexico,Americas,Medium,15,Chemicals,Tier 2,Medium,126813.52,2018-11-08,True,True,Partial
+S0216,Atlas Manufacturing,Morocco,Africa,Medium,15,Facility,Tier 1,Low,224441.28,2024-09-05,True,True,Full
+S0217,Vega Logistics,Vietnam,Asia,High,25,Packaging,Tier 2,Low,165504.73,2016-09-26,True,True,Full
+S0218,Atlas Services,Indonesia,Asia,High,25,Components,Tier 2,Low,307432.97,2021-07-14,True,True,Limited
+S0219,Vega Manufacturing,Japan,Asia,Low,5,Metals & Minerals,Tier 1,Low,365150.73,2022-04-16,True,True,Partial
+S0220,Orion Partners,Mexico,Americas,Medium,15,Consulting,Tier 2,Medium,206051.15,2022-12-14,True,True,Partial
+S0221,Argent Supply,Malaysia,Asia,Medium,15,Facility,Tier 2,Low,774541.9,2021-11-02,True,True,Partial
+S0222,Meridian Manufacturing,United States,Americas,Low,5,Metals & Minerals,Tier 1,Low,193799.48,2025-01-02,True,True,Partial
+S0223,Cobalt Partners,Australia,Oceania,Low,5,Chemicals,Tier 2,Medium,797568.83,2018-10-09,True,True,Limited
+S0224,Argent Systems,Tunisia,Africa,Medium,15,Components,Tier 1,High,300085.39,2017-11-17,True,True,Partial
+S0225,Aurora Logistics,Malaysia,Asia,Medium,15,Chemicals,Tier 1,Low,29758.9,2021-10-31,False,True,Full
+S0226,Aurora Logistics,South Korea,Asia,Low,5,Components,Tier 2,Low,199852.41,2016-10-10,True,False,Partial
+S0227,Orion Logistics,Italy,Europe,Low,5,Logistics,Tier 1,High,342288.22,2019-02-03,True,True,Partial
+S0228,Novatek Partners,France,Europe,Low,5,Components,Tier 2,Low,1365286.84,2024-02-18,True,True,Partial
+S0229,Lumen Partners,Mexico,Americas,Medium,15,Tools & Machinery,Tier 2,Low,148331.76,2025-02-06,True,True,Full
+S0230,Alpine Partners,Canada,Americas,Low,5,IT Services,Tier 1,Low,241237.05,2024-03-21,True,True,Partial
+S0231,Atlas Logistics,United Kingdom,Europe,Low,5,Packaging,Tier 3,High,58866.89,2025-04-27,True,True,Limited
+S0232,Alpine Materials,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 2,Medium,1317314.09,2024-08-27,True,True,Limited
+S0233,Meridian Logistics,South Africa,Africa,Medium,15,Tools & Machinery,Tier 1,High,1471824.12,2025-11-12,False,True,Partial
+S0234,Lumen Partners,New Zealand,Oceania,Low,5,Metals & Minerals,Tier 1,Medium,246007.39,2017-07-03,False,True,Partial
+S0235,Orion Manufacturing,Vietnam,Asia,High,25,Packaging,Tier 3,High,42989.58,2025-09-10,True,True,Full
+S0236,Orion Holdings,Malaysia,Asia,Medium,15,Components,Tier 1,Medium,1057644.96,2024-05-31,True,True,Partial
+S0237,Orion Manufacturing,Australia,Oceania,Low,5,IT Services,Tier 1,Low,148504.14,2020-02-23,True,True,Full
+S0238,Vega Holdings,Turkey,Europe/Asia,Medium,15,Tools & Machinery,Tier 1,Low,963868.75,2018-09-24,True,True,Full
+S0239,Lumen Partners,Switzerland,Europe,Low,5,Components,Tier 1,Low,359565.75,2023-09-07,True,True,Full
+S0240,Novatek Components,New Zealand,Oceania,Low,5,Tools & Machinery,Tier 2,Medium,316008.03,2025-06-10,True,False,Partial
+S0241,Zenith Partners,Spain,Europe,Low,5,Packaging,Tier 1,High,181670.75,2020-07-02,True,True,Limited
+S0242,Cobalt Partners,United Arab Emirates,Middle East,Medium,15,IT Services,Tier 1,Low,267876.13,2017-04-16,True,True,Full
+S0243,Eclipse Materials,South Korea,Asia,Low,5,Components,Tier 3,Low,256250.55,2018-04-14,True,False,Full
+S0244,Eclipse Manufacturing,United Kingdom,Europe,Low,5,Components,Tier 1,Low,540369.49,2022-09-17,True,True,Full
+S0245,Aurora Industries,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,104942.31,2017-02-18,True,True,Partial
+S0246,Eclipse Industries,Tunisia,Africa,Medium,15,Components,Tier 1,Low,995100.3,2022-09-17,True,True,Partial
+S0247,Argent Systems,New Zealand,Oceania,Low,5,Metals & Minerals,Tier 3,Low,804998.77,2021-03-13,True,True,Partial
+S0248,Lumen Partners,South Africa,Africa,Medium,15,Components,Tier 2,Low,333860.37,2024-07-07,True,True,Full
+S0249,Novatek Industries,Spain,Europe,Low,5,IT Services,Tier 1,Low,846273.9,2024-10-04,True,True,Partial
+S0250,Novatek Manufacturing,Singapore,Asia,Low,5,Metals & Minerals,Tier 1,Medium,1458224.32,2020-01-12,True,True,Limited
+S0251,Vega Industries,Morocco,Africa,Medium,15,Metals & Minerals,Tier 1,High,960070.26,2023-01-13,True,True,Partial
+S0252,Argent Industries,Canada,Americas,Low,5,Components,Tier 1,Low,1070206.96,2018-02-16,True,True,Full
+S0253,Novatek Holdings,Tunisia,Africa,Medium,15,Packaging,Tier 1,Medium,379549.23,2019-12-02,True,True,Limited
+S0254,Eclipse Components,Turkey,Europe/Asia,Medium,15,Logistics,Tier 2,Medium,33876.93,2020-05-15,True,True,Limited
+S0255,Nimbus Partners,South Africa,Africa,Medium,15,Components,Tier 1,High,461822.33,2021-02-19,True,False,Partial
+S0256,Nimbus Materials,China,Asia,High,25,Metals & Minerals,Tier 1,Medium,635705.81,2023-10-31,True,True,Partial
+S0257,Zenith Manufacturing,Brazil,Americas,Medium,15,Components,Tier 2,Low,1119990.62,2024-08-13,True,True,Partial
+S0258,Lumen Supply,France,Europe,Low,5,Logistics,Tier 3,Medium,35071.21,2025-06-27,True,True,Full
+S0259,Vega Industries,India,Asia,High,25,Chemicals,Tier 1,Medium,41659.89,2020-08-02,True,True,Partial
+S0260,Meridian Services,Australia,Oceania,Low,5,Metals & Minerals,Tier 2,Medium,291122.75,2025-10-17,True,True,Full
+S0261,Cobalt Components,Brazil,Americas,Medium,15,Consulting,Tier 1,High,49813.93,2022-04-30,False,True,Limited
+S0262,Eclipse Systems,South Korea,Asia,Low,5,IT Services,Tier 1,High,242488.02,2018-05-26,True,True,Partial
+S0263,Zenith Services,Morocco,Africa,Medium,15,Components,Tier 1,High,768149.45,2017-10-25,True,True,Partial
+S0264,Meridian Holdings,United States,Americas,Low,5,Components,Tier 1,Medium,168814.12,2019-06-15,True,True,Full
+S0265,Eclipse Systems,Indonesia,Asia,High,25,Facility,Tier 1,Low,154794.97,2022-09-02,True,True,Full
+S0266,Argent Services,Japan,Asia,Low,5,Components,Tier 2,Low,653470.25,2017-09-20,True,True,Partial
+S0267,Eclipse Industries,United Kingdom,Europe,Low,5,Metals & Minerals,Tier 1,Low,234275.08,2017-10-08,True,False,Limited
+S0268,Novatek Supply,Saudi Arabia,Middle East,Medium,15,Chemicals,Tier 3,Medium,56101.56,2016-11-19,True,True,Limited
+S0269,Meridian Manufacturing,South Korea,Asia,Low,5,Metals & Minerals,Tier 1,Low,328677.75,2018-01-23,True,True,Limited
+S0270,Aurora Industries,Japan,Asia,Low,5,Packaging,Tier 1,Medium,71097.41,2019-08-22,True,True,Full
+S0271,Orion Components,Vietnam,Asia,High,25,Chemicals,Tier 2,Medium,666144.02,2016-05-23,True,True,Full
+S0272,Cobalt Holdings,United States,Americas,Low,5,IT Services,Tier 1,Low,167411.62,2023-12-27,True,True,Limited
+S0273,Zenith Industries,Canada,Americas,Low,5,Consulting,Tier 1,Medium,92987.43,2024-09-23,True,True,Limited
+S0274,Cascade Group,Germany,Europe,Low,5,Packaging,Tier 1,Low,193142.58,2025-03-15,True,True,Full
+S0275,Novatek Holdings,Malaysia,Asia,Medium,15,Chemicals,Tier 1,High,238027.43,2024-01-21,True,True,Full
+S0276,Orion Services,China,Asia,High,25,Components,Tier 3,Medium,195028.07,2023-06-24,True,True,Partial
+S0277,Orion Holdings,Switzerland,Europe,Low,5,Consulting,Tier 1,Medium,106467.93,2019-09-14,True,True,Full
+S0278,Zenith Supply,Canada,Americas,Low,5,Logistics,Tier 2,Medium,87275.62,2020-11-03,True,True,Partial
+S0279,Vega Holdings,Vietnam,Asia,High,25,Facility,Tier 1,Low,48428.66,2020-08-15,True,True,Partial
+S0280,Eclipse Group,Tunisia,Africa,Medium,15,Consulting,Tier 1,Medium,485774.31,2023-06-21,True,True,Full
+S0281,Helios Supply,South Africa,Africa,Medium,15,Components,Tier 1,Low,567901.31,2021-02-10,True,True,Full
+S0282,Alpine Logistics,Mexico,Americas,Medium,15,Metals & Minerals,Tier 2,Medium,390404.46,2021-04-26,True,True,Full
+S0283,Nimbus Supply,India,Asia,High,25,Components,Tier 1,Low,323231.25,2021-04-28,True,True,Partial
+S0284,Nimbus Group,Switzerland,Europe,Low,5,Metals & Minerals,Tier 1,Medium,166712.33,2018-06-04,True,True,Full
+S0285,Nimbus Materials,Singapore,Asia,Low,5,Metals & Minerals,Tier 3,High,203332.42,2016-03-14,False,True,Full
+S0286,Zenith Supply,Spain,Europe,Low,5,Components,Tier 1,Low,114766.44,2019-03-21,True,True,Full
+S0287,Aurora Industries,Morocco,Africa,Medium,15,Components,Tier 1,Medium,213458.79,2017-03-13,True,True,Full
+S0288,Cascade Systems,Tunisia,Africa,Medium,15,Components,Tier 2,Medium,128117.11,2024-11-24,True,True,Limited
+S0289,Atlas Logistics,Philippines,Asia,Medium,15,Metals & Minerals,Tier 1,High,2209273.52,2023-11-20,True,True,Limited
+S0290,Nimbus Services,Taiwan,Asia,Low,5,IT Services,Tier 1,Medium,329493.47,2020-12-24,True,True,Limited
+S0291,Argent Manufacturing,Italy,Europe,Low,5,Tools & Machinery,Tier 1,High,609476.48,2021-11-11,True,True,Full
+S0292,Lumen Manufacturing,South Korea,Asia,Low,5,Components,Tier 2,Medium,152803.96,2023-06-13,True,True,Partial
+S0293,Vega Manufacturing,Spain,Europe,Low,5,IT Services,Tier 1,Medium,70983.52,2018-11-01,True,True,Full
+S0294,Atlas Partners,Indonesia,Asia,High,25,Packaging,Tier 1,High,223626.54,2019-08-18,True,True,Partial
+S0295,Alpine Holdings,Philippines,Asia,Medium,15,IT Services,Tier 1,Medium,341445.05,2019-07-23,True,True,Partial
+S0296,Aurora Components,Malaysia,Asia,Medium,15,IT Services,Tier 1,Medium,749778.65,2025-11-09,False,True,Full
+S0297,Lumen Holdings,Vietnam,Asia,High,25,Facility,Tier 1,Medium,53164.49,2017-01-06,True,True,Partial
+S0298,Helios Materials,South Korea,Asia,Low,5,Logistics,Tier 1,Low,255346.16,2017-07-11,True,True,Limited
+S0299,Argent Manufacturing,Morocco,Africa,Medium,15,Components,Tier 1,Low,212764.95,2017-11-11,True,True,Partial
+S0300,Zenith Materials,Turkey,Europe/Asia,Medium,15,Metals & Minerals,Tier 1,Medium,242500.02,2018-11-06,True,True,Full
+S0301,Nimbus Systems,Taiwan,Asia,Low,5,Components,Tier 1,Low,372232.77,2020-02-06,True,False,Full
+S0302,Nimbus Group,United Kingdom,Europe,Low,5,Components,Tier 2,Low,156557.45,2025-10-25,True,False,Partial
+S0303,Cascade Partners,Switzerland,Europe,Low,5,Facility,Tier 1,Medium,134435.74,2025-09-08,True,True,Full
+S0304,Atlas Holdings,United Kingdom,Europe,Low,5,Components,Tier 1,Low,173235.36,2024-08-25,True,True,Limited
+S0305,Argent Logistics,Tunisia,Africa,Medium,15,IT Services,Tier 1,Low,102598.95,2017-09-15,True,True,Limited
+S0306,Orion Partners,Philippines,Asia,Medium,15,Logistics,Tier 2,Low,253164.32,2022-09-06,True,True,Partial
+S0307,Lumen Materials,Tunisia,Africa,Medium,15,Packaging,Tier 1,Low,176216.01,2021-09-17,True,True,Partial
+S0308,Alpine Manufacturing,Thailand,Asia,Medium,15,Metals & Minerals,Tier 1,Low,653153.24,2018-10-18,True,True,Limited
+S0309,Argent Manufacturing,Spain,Europe,Low,5,Components,Tier 1,Medium,210735.35,2019-03-27,True,True,Partial
+S0310,Aurora Materials,China,Asia,High,25,Metals & Minerals,Tier 1,Medium,565200.77,2020-04-01,True,True,Full
+S0311,Zenith Partners,Singapore,Asia,Low,5,Packaging,Tier 2,Medium,37625.87,2017-02-23,True,True,Full
+S0312,Nimbus Supply,Saudi Arabia,Middle East,Medium,15,Consulting,Tier 1,Medium,169137.62,2022-02-06,True,True,Full
+S0313,Cascade Supply,Taiwan,Asia,Low,5,Chemicals,Tier 2,Low,230580.43,2017-07-17,False,True,Full
+S0314,Cascade Holdings,India,Asia,High,25,Tools & Machinery,Tier 1,Medium,94773.14,2020-10-22,True,True,Partial
+S0315,Eclipse Logistics,Malaysia,Asia,Medium,15,Packaging,Tier 2,Medium,82126.18,2019-05-13,True,True,Partial
+S0316,Meridian Systems,Philippines,Asia,Medium,15,Logistics,Tier 1,Medium,169044.78,2017-05-05,True,True,Limited
+S0317,Orion Materials,Saudi Arabia,Middle East,Medium,15,Metals & Minerals,Tier 3,Medium,520585.12,2018-07-18,True,False,Limited
+S0318,Lumen Logistics,Canada,Americas,Low,5,Metals & Minerals,Tier 1,Low,225695.92,2022-10-23,True,True,Full
+S0319,Aurora Services,Malaysia,Asia,Medium,15,Packaging,Tier 1,Medium,248660.39,2020-09-17,True,True,Partial
+S0320,Cobalt Systems,India,Asia,High,25,Consulting,Tier 1,Low,515686.81,2020-02-12,True,True,Partial
+S0321,Cobalt Logistics,Japan,Asia,Low,5,IT Services,Tier 2,Medium,219506.86,2024-04-19,True,False,Limited
+S0322,Lumen Industries,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 1,Medium,138353.0,2025-08-23,True,True,Full
+S0323,Alpine Group,France,Europe,Low,5,Metals & Minerals,Tier 2,Low,409566.73,2025-05-17,True,True,Partial
+S0324,Helios Systems,United States,Americas,Low,5,Consulting,Tier 3,High,104404.97,2017-10-23,True,True,Limited
+S0325,Argent Components,Morocco,Africa,Medium,15,Components,Tier 1,High,613989.32,2021-09-27,True,True,Full
+S0326,Lumen Manufacturing,South Africa,Africa,Medium,15,IT Services,Tier 2,Low,122141.96,2024-05-30,True,True,Full
+S0327,Novatek Group,Switzerland,Europe,Low,5,Metals & Minerals,Tier 1,Low,469085.1,2018-01-05,True,True,Partial
+S0328,Zenith Materials,Germany,Europe,Low,5,Facility,Tier 1,Low,117066.62,2017-08-20,True,True,Partial
+S0329,Argent Components,Malaysia,Asia,Medium,15,Consulting,Tier 1,Low,223141.57,2022-08-24,True,True,Partial
+S0330,Orion Supply,Malaysia,Asia,Medium,15,Facility,Tier 3,Medium,75540.9,2021-03-24,True,True,Limited
+S0331,Novatek Partners,Indonesia,Asia,High,25,Facility,Tier 1,Low,326733.38,2019-12-03,True,True,Partial
+S0332,Aurora Components,Philippines,Asia,Medium,15,IT Services,Tier 2,Medium,106581.18,2024-02-28,True,True,Partial
+S0333,Novatek Manufacturing,Vietnam,Asia,High,25,IT Services,Tier 1,Low,31872.55,2020-08-15,True,True,Partial
+S0334,Meridian Services,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Medium,159849.55,2019-01-05,True,False,Limited
+S0335,Zenith Supply,Spain,Europe,Low,5,Components,Tier 2,Low,308869.19,2018-04-27,True,True,Partial
+S0336,Aurora Systems,Switzerland,Europe,Low,5,Logistics,Tier 1,Low,622282.75,2024-12-27,False,False,Partial
+S0337,Aurora Supply,South Korea,Asia,Low,5,Logistics,Tier 1,Medium,316008.52,2025-01-21,True,True,Partial
+S0338,Zenith Systems,Brazil,Americas,Medium,15,Metals & Minerals,Tier 3,High,63498.39,2022-03-28,True,True,Partial
+S0339,Meridian Group,Japan,Asia,Low,5,IT Services,Tier 1,Low,49867.81,2017-05-23,False,True,Full
+S0340,Argent Materials,Italy,Europe,Low,5,Packaging,Tier 2,Low,345408.93,2023-12-08,True,True,Full
+S0341,Atlas Materials,South Korea,Asia,Low,5,Metals & Minerals,Tier 1,Low,594028.66,2024-12-06,True,True,Full
+S0342,Aurora Partners,Taiwan,Asia,Low,5,Chemicals,Tier 1,High,1601670.84,2023-11-18,True,True,Limited
+S0343,Cascade Holdings,Germany,Europe,Low,5,Components,Tier 3,Medium,161165.28,2018-06-25,True,True,Full
+S0344,Eclipse Industries,United Kingdom,Europe,Low,5,Components,Tier 1,Low,181422.14,2023-06-08,True,True,Full
+S0345,Cascade Industries,France,Europe,Low,5,Chemicals,Tier 1,Low,172344.9,2023-08-14,True,False,Full
+S0346,Atlas Logistics,Thailand,Asia,Medium,15,Chemicals,Tier 2,Medium,94405.55,2024-10-05,True,True,Limited
+S0347,Alpine Group,Saudi Arabia,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,821173.19,2017-02-07,True,True,Limited
+S0348,Atlas Components,Germany,Europe,Low,5,Tools & Machinery,Tier 2,Medium,202384.64,2024-06-16,True,True,Partial
+S0349,Zenith Components,Brazil,Americas,Medium,15,Logistics,Tier 1,Medium,131150.4,2023-12-20,True,True,Partial
+S0350,Atlas Systems,Taiwan,Asia,Low,5,Tools & Machinery,Tier 2,Low,139097.09,2017-07-01,True,True,Full
+S0351,Aurora Supply,Saudi Arabia,Middle East,Medium,15,IT Services,Tier 1,Low,298221.24,2023-03-13,True,True,Partial
+S0352,Helios Industries,United States,Americas,Low,5,Logistics,Tier 1,Low,77828.87,2022-05-29,True,False,Partial
+S0353,Helios Partners,Canada,Americas,Low,5,Tools & Machinery,Tier 1,Medium,498423.44,2018-07-08,True,False,Full
+S0354,Aurora Logistics,Spain,Europe,Low,5,IT Services,Tier 1,Medium,730465.04,2019-06-15,True,True,Full
+S0355,Helios Components,Australia,Oceania,Low,5,Components,Tier 2,Medium,73347.39,2020-08-13,True,True,Full
+S0356,Eclipse Services,Spain,Europe,Low,5,Facility,Tier 1,Low,538657.63,2025-06-19,True,True,Partial
+S0357,Cascade Holdings,Singapore,Asia,Low,5,Components,Tier 1,Low,447947.92,2021-01-20,True,True,Partial
+S0358,Alpine Systems,France,Europe,Low,5,Components,Tier 2,Low,123691.67,2022-02-09,True,False,Partial
+S0359,Novatek Supply,Brazil,Americas,Medium,15,Components,Tier 3,Low,254025.59,2022-12-17,True,True,Partial
+S0360,Novatek Group,India,Asia,High,25,Metals & Minerals,Tier 2,Low,543916.89,2025-03-21,True,True,Full
+S0361,Helios Components,Morocco,Africa,Medium,15,IT Services,Tier 3,Low,56209.3,2021-10-04,True,False,Full
+S0362,Cobalt Industries,New Zealand,Oceania,Low,5,IT Services,Tier 2,Low,201724.01,2022-01-23,True,True,Full
+S0363,Atlas Components,United Kingdom,Europe,Low,5,Tools & Machinery,Tier 1,Medium,1280814.37,2025-05-03,True,True,Partial
+S0364,Cobalt Group,United Kingdom,Europe,Low,5,Components,Tier 1,Low,237871.25,2025-04-01,True,True,Partial
+S0365,Eclipse Components,New Zealand,Oceania,Low,5,Logistics,Tier 1,Low,73741.14,2025-11-03,True,True,Limited
+S0366,Zenith Manufacturing,Malaysia,Asia,Medium,15,Consulting,Tier 1,Low,147173.94,2024-05-19,True,True,Partial
+S0367,Meridian Logistics,Morocco,Africa,Medium,15,Tools & Machinery,Tier 1,Low,374384.0,2021-11-28,True,True,Full
+S0368,Novatek Systems,France,Europe,Low,5,Chemicals,Tier 1,Low,390566.38,2019-12-27,True,True,Full
+S0369,Cascade Group,Canada,Americas,Low,5,Components,Tier 2,High,429138.82,2024-01-09,True,False,Full
+S0370,Atlas Holdings,Morocco,Africa,Medium,15,Tools & Machinery,Tier 3,Low,165407.86,2016-01-17,True,True,Partial
+S0371,Zenith Manufacturing,Switzerland,Europe,Low,5,Facility,Tier 1,Medium,72425.7,2021-05-15,True,False,Limited
+S0372,Alpine Services,Thailand,Asia,Medium,15,Components,Tier 1,Low,95279.7,2025-03-11,True,True,Partial
+S0373,Alpine Materials,Philippines,Asia,Medium,15,Components,Tier 1,Medium,127578.69,2023-05-15,True,True,Full
+S0374,Argent Systems,Indonesia,Asia,High,25,Facility,Tier 1,Low,57753.37,2020-07-08,True,True,Full
+S0375,Lumen Manufacturing,Tunisia,Africa,Medium,15,Logistics,Tier 1,Low,132233.81,2017-05-29,False,True,Partial
+S0376,Lumen Holdings,Malaysia,Asia,Medium,15,Components,Tier 2,Medium,91438.7,2017-10-05,True,True,Partial
+S0377,Vega Group,Saudi Arabia,Middle East,Medium,15,Metals & Minerals,Tier 1,Medium,41396.35,2025-02-21,True,True,Limited
+S0378,Novatek Systems,Australia,Oceania,Low,5,Consulting,Tier 3,Low,101293.87,2019-08-15,True,False,Limited
+S0379,Lumen Supply,Indonesia,Asia,High,25,Metals & Minerals,Tier 1,Low,1571627.46,2016-02-17,True,True,Full
+S0380,Helios Services,Saudi Arabia,Middle East,Medium,15,Facility,Tier 2,High,545106.64,2022-08-18,True,True,Full
+S0381,Nimbus Manufacturing,Mexico,Americas,Medium,15,Chemicals,Tier 2,Low,111565.83,2016-11-07,True,True,Full
+S0382,Lumen Components,New Zealand,Oceania,Low,5,Components,Tier 1,Low,147744.05,2025-12-17,True,True,Partial
+S0383,Atlas Materials,United Kingdom,Europe,Low,5,Packaging,Tier 2,Low,1084000.49,2016-09-01,True,True,Full
+S0384,Vega Manufacturing,New Zealand,Oceania,Low,5,Components,Tier 2,Low,319117.03,2023-06-30,True,True,Partial
+S0385,Novatek Components,South Korea,Asia,Low,5,Metals & Minerals,Tier 3,Low,272704.0,2018-01-18,True,True,Full
+S0386,Alpine Group,South Africa,Africa,Medium,15,IT Services,Tier 2,Medium,123252.79,2017-11-27,True,True,Full
+S0387,Lumen Holdings,Indonesia,Asia,High,25,Logistics,Tier 1,Low,158545.58,2021-08-23,True,True,Limited
+S0388,Aurora Group,China,Asia,High,25,Components,Tier 1,Low,231820.24,2016-08-27,True,True,Limited
+S0389,Atlas Materials,China,Asia,High,25,Packaging,Tier 2,Low,112814.4,2021-03-29,True,True,Limited
+S0390,Argent Systems,India,Asia,High,25,Metals & Minerals,Tier 1,Low,1192606.43,2020-05-27,True,True,Full
+S0391,Cascade Group,Italy,Europe,Low,5,Metals & Minerals,Tier 1,Low,970265.98,2017-07-20,False,True,Partial
+S0392,Aurora Supply,Saudi Arabia,Middle East,Medium,15,Logistics,Tier 3,Medium,20140.84,2017-10-26,False,True,Full
+S0393,Vega Materials,Tunisia,Africa,Medium,15,Tools & Machinery,Tier 2,Low,98708.77,2022-06-08,True,True,Partial
+S0394,Alpine Group,Italy,Europe,Low,5,Consulting,Tier 1,High,139769.55,2020-01-31,True,True,Full
+S0395,Meridian Supply,Germany,Europe,Low,5,Consulting,Tier 1,High,550480.24,2016-04-08,True,True,Full
+S0396,Zenith Holdings,Germany,Europe,Low,5,Components,Tier 1,Low,990238.83,2018-03-21,True,True,Limited
+S0397,Helios Supply,Indonesia,Asia,High,25,Logistics,Tier 1,Low,289913.43,2016-03-12,True,True,Partial
+S0398,Lumen Manufacturing,Indonesia,Asia,High,25,Facility,Tier 2,High,89701.55,2017-01-14,True,True,Full
+S0399,Alpine Group,Indonesia,Asia,High,25,IT Services,Tier 1,Low,106978.57,2022-07-10,True,True,Partial
+S0400,Atlas Logistics,New Zealand,Oceania,Low,5,Tools & Machinery,Tier 2,Low,450195.89,2018-05-19,True,True,Partial
+S0401,Argent Manufacturing,Brazil,Americas,Medium,15,Components,Tier 1,Medium,295432.91,2023-03-21,True,True,Full
+S0402,Cascade Group,Singapore,Asia,Low,5,Chemicals,Tier 1,Low,120589.0,2024-07-20,True,True,Full
+S0403,Argent Partners,Taiwan,Asia,Low,5,Packaging,Tier 1,Low,121933.01,2022-09-04,True,True,Full
+S0404,Cascade Industries,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 2,High,1231084.32,2018-01-18,True,True,Limited
+S0405,Nimbus Systems,Canada,Americas,Low,5,Metals & Minerals,Tier 1,Low,575467.69,2016-02-17,True,True,Partial
+S0406,Eclipse Services,Italy,Europe,Low,5,IT Services,Tier 1,Low,127053.41,2016-11-08,True,False,Partial
+S0407,Orion Holdings,Morocco,Africa,Medium,15,Metals & Minerals,Tier 2,Medium,395080.51,2020-03-18,True,True,Partial
+S0408,Alpine Systems,Singapore,Asia,Low,5,Consulting,Tier 2,Medium,50847.7,2024-12-02,True,True,Partial
+S0409,Aurora Systems,Switzerland,Europe,Low,5,Packaging,Tier 1,Low,107132.49,2018-08-04,True,True,Partial
+S0410,Cascade Holdings,Mexico,Americas,Medium,15,Packaging,Tier 1,Low,376701.13,2019-10-17,True,True,Partial
+S0411,Vega Holdings,Tunisia,Africa,Medium,15,Logistics,Tier 1,High,74959.28,2022-03-28,False,True,Partial
+S0412,Aurora Systems,Brazil,Americas,Medium,15,Components,Tier 1,Low,581441.31,2020-02-03,False,True,Limited
+S0413,Cascade Holdings,South Korea,Asia,Low,5,Consulting,Tier 2,Low,26158.71,2018-12-10,True,True,Full
+S0414,Nimbus Group,Tunisia,Africa,Medium,15,IT Services,Tier 2,Medium,537479.64,2025-06-23,True,False,Full
+S0415,Lumen Partners,Tunisia,Africa,Medium,15,Facility,Tier 1,High,168395.11,2024-09-04,True,True,Partial
+S0416,Meridian Partners,Malaysia,Asia,Medium,15,Chemicals,Tier 3,Medium,145586.54,2020-11-14,True,True,Limited
+S0417,Lumen Services,United Kingdom,Europe,Low,5,Components,Tier 1,Medium,392322.5,2020-04-01,True,True,Limited
+S0418,Aurora Holdings,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 1,Medium,403809.6,2016-03-23,True,True,Full
+S0419,Cobalt Components,Brazil,Americas,Medium,15,Packaging,Tier 1,Low,208197.29,2022-05-01,True,True,Partial
+S0420,Novatek Services,Vietnam,Asia,High,25,Metals & Minerals,Tier 2,Low,77482.22,2018-07-30,True,True,Full
+S0421,Helios Manufacturing,South Africa,Africa,Medium,15,Consulting,Tier 2,High,253768.33,2025-11-02,True,True,Full
+S0422,Orion Holdings,Turkey,Europe/Asia,Medium,15,IT Services,Tier 1,Medium,140479.01,2021-04-02,True,True,Partial
+S0423,Nimbus Manufacturing,Singapore,Asia,Low,5,Metals & Minerals,Tier 2,Medium,197625.81,2016-03-08,True,True,Partial
+S0424,Eclipse Components,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Medium,192108.11,2025-02-19,False,False,Partial
+S0425,Nimbus Partners,Switzerland,Europe,Low,5,IT Services,Tier 2,Low,161806.63,2018-09-27,True,True,Full
+S0426,Eclipse Services,Indonesia,Asia,High,25,Components,Tier 1,Low,163694.82,2021-07-15,False,True,Partial
+S0427,Meridian Group,South Africa,Africa,Medium,15,Tools & Machinery,Tier 3,Low,530194.37,2018-01-23,True,True,Full
+S0428,Atlas Systems,Switzerland,Europe,Low,5,Components,Tier 2,Low,444193.88,2016-02-10,True,True,Full
+S0429,Lumen Supply,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 2,Low,373533.22,2021-12-31,True,True,Limited
+S0430,Argent Materials,Malaysia,Asia,Medium,15,Chemicals,Tier 1,Low,357236.31,2022-08-24,True,True,Full
+S0431,Vega Materials,United States,Americas,Low,5,IT Services,Tier 2,Low,31722.51,2021-03-09,True,True,Full
+S0432,Novatek Holdings,South Africa,Africa,Medium,15,Chemicals,Tier 1,Medium,58474.05,2016-06-20,True,True,Full
+S0433,Eclipse Manufacturing,United States,Americas,Low,5,Facility,Tier 2,High,334908.26,2016-10-29,True,True,Full
+S0434,Vega Systems,United States,Americas,Low,5,IT Services,Tier 1,Low,91071.93,2022-01-10,True,True,Full
+S0435,Novatek Manufacturing,China,Asia,High,25,Metals & Minerals,Tier 1,Low,219529.77,2018-11-19,True,True,Full
+S0436,Lumen Services,Brazil,Americas,Medium,15,Components,Tier 1,Medium,116207.01,2019-07-22,True,True,Partial
+S0437,Orion Services,South Africa,Africa,Medium,15,Facility,Tier 1,Medium,74555.67,2021-08-29,True,True,Partial
+S0438,Helios Group,Morocco,Africa,Medium,15,Tools & Machinery,Tier 3,Low,540682.7,2020-10-03,True,True,Full
+S0439,Zenith Materials,Tunisia,Africa,Medium,15,Consulting,Tier 1,Low,241507.14,2023-04-27,True,True,Partial
+S0440,Cobalt Holdings,Italy,Europe,Low,5,Metals & Minerals,Tier 2,High,564565.09,2018-02-23,True,True,Limited
+S0441,Argent Materials,Japan,Asia,Low,5,Packaging,Tier 2,Medium,87288.22,2020-12-16,True,True,Limited
+S0442,Argent Systems,China,Asia,High,25,Tools & Machinery,Tier 1,Low,394772.61,2021-12-18,True,True,Full
+S0443,Eclipse Holdings,Vietnam,Asia,High,25,Facility,Tier 1,Medium,408161.68,2017-01-24,False,True,Full
+S0444,Cascade Partners,Italy,Europe,Low,5,Packaging,Tier 2,Low,78821.41,2016-10-01,True,True,Full
+S0445,Cascade Materials,New Zealand,Oceania,Low,5,Consulting,Tier 1,Medium,158262.32,2022-11-17,True,True,Limited
+S0446,Nimbus Group,Germany,Europe,Low,5,Facility,Tier 1,Low,671077.9,2020-05-06,True,True,Partial
+S0447,Helios Manufacturing,Saudi Arabia,Middle East,Medium,15,Components,Tier 1,Medium,630746.24,2023-12-27,True,True,Partial
+S0448,Vega Holdings,Taiwan,Asia,Low,5,IT Services,Tier 1,Low,103779.8,2022-12-10,True,True,Full
+S0449,Alpine Components,Malaysia,Asia,Medium,15,Components,Tier 1,Low,588837.38,2019-08-10,True,False,Partial
+S0450,Helios Supply,Australia,Oceania,Low,5,Packaging,Tier 1,Medium,46342.75,2016-11-30,True,True,Partial
+S0451,Atlas Supply,Singapore,Asia,Low,5,IT Services,Tier 1,Low,153346.18,2017-11-06,True,True,Partial
+S0452,Novatek Components,France,Europe,Low,5,Tools & Machinery,Tier 1,Medium,588301.61,2021-05-31,True,True,Full
+S0453,Nimbus Industries,Italy,Europe,Low,5,Tools & Machinery,Tier 1,Low,485345.19,2024-01-22,True,True,Full
+S0454,Orion Manufacturing,Malaysia,Asia,Medium,15,Chemicals,Tier 1,Medium,265260.75,2022-08-01,True,True,Limited
+S0455,Meridian Materials,Switzerland,Europe,Low,5,Logistics,Tier 1,High,507443.85,2018-06-30,True,True,Partial
+S0456,Eclipse Group,South Korea,Asia,Low,5,Logistics,Tier 2,Low,199750.65,2020-11-21,True,True,Limited
+S0457,Cobalt Materials,South Africa,Africa,Medium,15,Consulting,Tier 3,Medium,149180.41,2017-10-21,True,False,Limited
+S0458,Argent Partners,Spain,Europe,Low,5,Packaging,Tier 2,Medium,163346.86,2021-09-04,True,True,Limited
+S0459,Argent Systems,Malaysia,Asia,Medium,15,Components,Tier 1,Medium,150785.28,2025-03-28,True,False,Full
+S0460,Vega Systems,United Kingdom,Europe,Low,5,Logistics,Tier 2,Low,321259.14,2025-09-14,True,True,Partial
+S0461,Eclipse Supply,South Korea,Asia,Low,5,Packaging,Tier 2,Medium,134032.41,2024-08-12,True,True,Limited
+S0462,Lumen Logistics,Switzerland,Europe,Low,5,Components,Tier 1,Low,617638.07,2024-06-09,True,True,Limited
+S0463,Helios Holdings,Spain,Europe,Low,5,Chemicals,Tier 2,Low,293052.81,2016-05-15,True,True,Limited
+S0464,Zenith Logistics,Australia,Oceania,Low,5,IT Services,Tier 1,Low,107706.39,2021-12-16,True,True,Partial
+S0465,Eclipse Industries,South Korea,Asia,Low,5,IT Services,Tier 3,Low,74728.74,2016-10-07,False,False,Full
+S0466,Lumen Systems,Switzerland,Europe,Low,5,Facility,Tier 1,High,203346.34,2022-12-16,True,True,Full
+S0467,Orion Systems,Morocco,Africa,Medium,15,Facility,Tier 1,Medium,444455.36,2016-08-26,True,False,Full
+S0468,Orion Materials,Germany,Europe,Low,5,Components,Tier 1,Low,175040.3,2019-02-24,True,True,Partial
+S0469,Vega Industries,Indonesia,Asia,High,25,Chemicals,Tier 1,Low,517923.23,2019-03-09,False,True,Limited
+S0470,Zenith Services,Singapore,Asia,Low,5,Tools & Machinery,Tier 2,Medium,356176.71,2022-04-03,True,True,Partial
+S0471,Helios Services,Vietnam,Asia,High,25,Components,Tier 1,Low,443342.36,2018-04-30,True,True,Partial
+S0472,Cobalt Partners,Canada,Americas,Low,5,Tools & Machinery,Tier 2,Low,620104.36,2016-03-30,True,False,Partial
+S0473,Meridian Holdings,Saudi Arabia,Middle East,Medium,15,Facility,Tier 2,Low,147754.63,2025-05-20,True,True,Partial
+S0474,Eclipse Logistics,Canada,Americas,Low,5,Consulting,Tier 2,Low,324443.07,2023-12-25,True,False,Partial
+S0475,Meridian Systems,Switzerland,Europe,Low,5,Tools & Machinery,Tier 2,Low,201210.65,2020-10-17,True,True,Full
+S0476,Lumen Supply,United States,Americas,Low,5,Components,Tier 1,Low,1105640.44,2022-04-09,False,True,Partial
+S0477,Argent Group,United States,Americas,Low,5,IT Services,Tier 2,High,154984.86,2020-03-17,True,True,Partial
+S0478,Helios Industries,Malaysia,Asia,Medium,15,Chemicals,Tier 1,Medium,520584.54,2023-05-16,True,True,Full
+S0479,Lumen Group,United Kingdom,Europe,Low,5,Chemicals,Tier 1,Medium,116290.95,2019-07-18,True,True,Partial
+S0480,Argent Holdings,South Africa,Africa,Medium,15,Components,Tier 1,Low,285794.89,2018-11-14,True,True,Full
+S0481,Helios Logistics,France,Europe,Low,5,Facility,Tier 1,High,116621.74,2016-06-02,True,True,Full
+S0482,Argent Group,Singapore,Asia,Low,5,Tools & Machinery,Tier 1,Medium,193729.73,2016-03-06,True,True,Full
+S0483,Zenith Systems,United Arab Emirates,Middle East,Medium,15,Chemicals,Tier 1,High,253281.23,2019-11-03,True,True,Limited
+S0484,Nimbus Partners,Morocco,Africa,Medium,15,Consulting,Tier 1,High,314071.33,2022-10-16,True,True,Partial
+S0485,Lumen Partners,Thailand,Asia,Medium,15,Consulting,Tier 1,Medium,357702.86,2025-06-10,True,True,Partial
+S0486,Cascade Industries,Spain,Europe,Low,5,Metals & Minerals,Tier 1,Medium,301723.49,2020-09-02,True,True,Partial
+S0487,Aurora Supply,Australia,Oceania,Low,5,Facility,Tier 3,Low,43089.71,2025-11-26,True,True,Partial
+S0488,Vega Supply,United States,Americas,Low,5,Facility,Tier 1,Low,221002.17,2018-04-25,True,True,Full
+S0489,Vega Services,New Zealand,Oceania,Low,5,Components,Tier 1,Low,409060.82,2022-01-27,True,True,Full
+S0490,Nimbus Logistics,United Arab Emirates,Middle East,Medium,15,Components,Tier 1,Low,530947.47,2021-02-14,True,True,Partial
+S0491,Cobalt Partners,Saudi Arabia,Middle East,Medium,15,Components,Tier 2,Low,182726.62,2018-03-15,True,True,Partial
+S0492,Aurora Systems,Italy,Europe,Low,5,Metals & Minerals,Tier 2,Medium,199016.07,2017-11-11,True,True,Partial
+S0493,Zenith Holdings,Germany,Europe,Low,5,Facility,Tier 2,Medium,83081.0,2016-07-30,True,True,Partial
+S0494,Atlas Group,United States,Americas,Low,5,Tools & Machinery,Tier 1,Low,926964.53,2025-09-07,False,True,Partial
+S0495,Atlas Partners,Canada,Americas,Low,5,Tools & Machinery,Tier 1,High,1784884.72,2022-12-15,True,True,Full
+S0496,Cobalt Materials,Switzerland,Europe,Low,5,IT Services,Tier 2,Medium,87630.47,2017-07-15,True,True,Partial
+S0497,Alpine Components,United Kingdom,Europe,Low,5,Logistics,Tier 1,High,167414.02,2018-03-27,True,True,Limited
+S0498,Atlas Group,Singapore,Asia,Low,5,Packaging,Tier 1,Low,270045.42,2021-05-13,True,True,Limited
+S0499,Lumen Logistics,China,Asia,High,25,Tools & Machinery,Tier 2,Low,1049624.03,2016-11-29,True,True,Limited
+S0500,Meridian Supply,Saudi Arabia,Middle East,Medium,15,Facility,Tier 1,Medium,684676.77,2024-10-07,True,True,Partial
+S0501,Zenith Manufacturing,Vietnam,Asia,High,25,Components,Tier 3,Low,142549.34,2024-11-17,True,True,Full
+S0502,Novatek Materials,New Zealand,Oceania,Low,5,IT Services,Tier 1,Low,119352.76,2025-07-20,True,True,Partial
+S0503,Helios Manufacturing,United Kingdom,Europe,Low,5,Metals & Minerals,Tier 2,Medium,382556.16,2022-07-19,True,True,Full
+S0504,Vega Holdings,Japan,Asia,Low,5,Packaging,Tier 1,Low,212684.57,2021-07-03,True,True,Full
+S0505,Eclipse Group,United Kingdom,Europe,Low,5,Metals & Minerals,Tier 1,High,497277.35,2019-09-22,True,True,Limited
+S0506,Novatek Manufacturing,Philippines,Asia,Medium,15,Consulting,Tier 2,High,116873.44,2018-08-06,True,True,Limited
+S0507,Cascade Materials,Philippines,Asia,Medium,15,Consulting,Tier 2,Low,134723.46,2016-10-22,True,True,Partial
+S0508,Novatek Group,Philippines,Asia,Medium,15,IT Services,Tier 1,Medium,683954.24,2018-03-14,True,True,Partial
+S0509,Vega Supply,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Low,236657.29,2024-07-03,True,True,Limited
+S0510,Cobalt Systems,United Kingdom,Europe,Low,5,Packaging,Tier 2,Low,165464.41,2020-12-12,True,True,Full
+S0511,Nimbus Services,Spain,Europe,Low,5,Tools & Machinery,Tier 1,Low,2703352.7,2024-03-29,False,True,Partial
+S0512,Vega Holdings,Australia,Oceania,Low,5,Metals & Minerals,Tier 1,Low,234160.57,2019-06-23,True,True,Partial
+S0513,Eclipse Group,Italy,Europe,Low,5,Packaging,Tier 1,Medium,280832.36,2018-09-01,True,True,Partial
+S0514,Lumen Components,Mexico,Americas,Medium,15,Components,Tier 2,Medium,1333482.22,2024-10-11,True,True,Full
+S0515,Eclipse Group,South Korea,Asia,Low,5,Chemicals,Tier 1,Low,261064.78,2024-07-01,True,True,Full
+S0516,Cobalt Materials,Indonesia,Asia,High,25,Components,Tier 1,Medium,869279.71,2024-08-31,True,True,Partial
+S0517,Orion Systems,Morocco,Africa,Medium,15,Logistics,Tier 1,High,502017.06,2022-12-20,True,True,Partial
+S0518,Atlas Partners,Italy,Europe,Low,5,Facility,Tier 1,Medium,244218.65,2022-10-18,True,True,Partial
+S0519,Orion Manufacturing,Philippines,Asia,Medium,15,IT Services,Tier 2,Low,417988.11,2017-08-01,False,True,Full
+S0520,Nimbus Holdings,Philippines,Asia,Medium,15,Packaging,Tier 1,Low,273475.66,2024-10-20,True,True,Partial
+S0521,Cobalt Industries,Malaysia,Asia,Medium,15,Logistics,Tier 2,Medium,121029.14,2019-05-08,False,True,Partial
+S0522,Argent Components,United States,Americas,Low,5,Chemicals,Tier 3,Low,118965.41,2023-06-06,True,True,Partial
+S0523,Zenith Group,Philippines,Asia,Medium,15,Metals & Minerals,Tier 1,Low,480891.05,2024-04-25,True,True,Limited
+S0524,Eclipse Logistics,Morocco,Africa,Medium,15,IT Services,Tier 1,Low,118815.71,2021-01-26,True,True,Limited
+S0525,Novatek Manufacturing,Taiwan,Asia,Low,5,Chemicals,Tier 3,Low,123265.56,2022-04-25,False,True,Partial
+S0526,Helios Partners,Tunisia,Africa,Medium,15,Logistics,Tier 1,Low,168914.72,2018-08-06,True,True,Full
+S0527,Zenith Components,Mexico,Americas,Medium,15,Tools & Machinery,Tier 2,Medium,510081.49,2023-10-17,True,False,Partial
+S0528,Aurora Supply,Singapore,Asia,Low,5,Components,Tier 2,Medium,1717778.1,2017-01-25,True,True,Partial
+S0529,Eclipse Partners,Tunisia,Africa,Medium,15,IT Services,Tier 3,Medium,129149.26,2025-08-15,True,True,Limited
+S0530,Eclipse Materials,Switzerland,Europe,Low,5,Facility,Tier 1,Low,574906.46,2019-06-01,True,True,Full
+S0531,Novatek Manufacturing,China,Asia,High,25,Components,Tier 1,Medium,582319.51,2017-01-09,True,True,Limited
+S0532,Vega Services,Taiwan,Asia,Low,5,Components,Tier 2,High,565366.44,2025-05-13,True,True,Full
+S0533,Cascade Partners,Spain,Europe,Low,5,Facility,Tier 1,Low,113874.6,2019-01-03,False,True,Full
+S0534,Aurora Manufacturing,France,Europe,Low,5,Chemicals,Tier 1,Low,190093.63,2023-01-28,True,False,Partial
+S0535,Zenith Group,United Kingdom,Europe,Low,5,Consulting,Tier 3,Low,117664.52,2019-06-16,True,True,Full
+S0536,Helios Partners,China,Asia,High,25,Tools & Machinery,Tier 1,Low,204507.66,2022-03-16,True,True,Partial
+S0537,Cascade Logistics,India,Asia,High,25,Components,Tier 1,Medium,228963.96,2023-07-30,True,True,Partial
+S0538,Novatek Group,United Kingdom,Europe,Low,5,Logistics,Tier 1,Low,220085.08,2016-03-30,True,True,Partial
+S0539,Lumen Components,South Korea,Asia,Low,5,Facility,Tier 1,Low,569445.99,2022-10-30,True,True,Limited
+S0540,Argent Materials,Saudi Arabia,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,339713.25,2020-06-15,True,True,Full
+S0541,Argent Services,China,Asia,High,25,Chemicals,Tier 1,Low,51102.51,2017-08-20,False,True,Partial
+S0542,Novatek Logistics,United Arab Emirates,Middle East,Medium,15,Packaging,Tier 1,High,44844.62,2023-12-11,True,True,Full
+S0543,Zenith Logistics,China,Asia,High,25,Chemicals,Tier 1,Medium,71898.72,2016-10-27,True,True,Partial
+S0544,Lumen Partners,Morocco,Africa,Medium,15,Metals & Minerals,Tier 1,High,1009682.16,2022-10-19,False,True,Partial
+S0545,Helios Group,United Kingdom,Europe,Low,5,Consulting,Tier 1,Low,58440.04,2025-07-02,True,True,Partial
+S0546,Lumen Holdings,Philippines,Asia,Medium,15,Components,Tier 2,Low,611643.14,2017-07-05,True,True,Full
+S0547,Argent Logistics,Indonesia,Asia,High,25,Packaging,Tier 3,Low,177971.38,2020-03-12,True,True,Partial
+S0548,Cobalt Group,Philippines,Asia,Medium,15,IT Services,Tier 1,Low,150340.7,2022-05-19,True,True,Partial
+S0549,Helios Components,United Kingdom,Europe,Low,5,Components,Tier 1,Medium,105665.87,2025-10-31,True,False,Partial
+S0550,Eclipse Supply,United Kingdom,Europe,Low,5,Components,Tier 1,High,329369.18,2020-02-03,True,True,Partial
+S0551,Aurora Manufacturing,Italy,Europe,Low,5,Components,Tier 1,Medium,295217.75,2018-02-16,True,True,Full
+S0552,Cascade Manufacturing,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 1,Low,474540.23,2016-04-23,True,True,Limited
+S0553,Orion Holdings,India,Asia,High,25,Consulting,Tier 1,Low,59800.45,2024-08-20,True,False,Partial
+S0554,Meridian Services,Philippines,Asia,Medium,15,Packaging,Tier 2,High,702567.23,2020-09-23,True,True,Partial
+S0555,Alpine Partners,China,Asia,High,25,Logistics,Tier 2,Low,181981.69,2023-09-14,True,True,Full
+S0556,Zenith Manufacturing,Saudi Arabia,Middle East,Medium,15,Facility,Tier 1,Low,234544.96,2024-06-10,True,True,Partial
+S0557,Nimbus Partners,Brazil,Americas,Medium,15,Metals & Minerals,Tier 1,Low,598771.64,2017-04-24,True,True,Partial
+S0558,Nimbus Systems,South Africa,Africa,Medium,15,Components,Tier 1,Medium,1036934.56,2016-04-28,True,True,Full
+S0559,Eclipse Logistics,Canada,Americas,Low,5,Logistics,Tier 2,Medium,161894.15,2023-12-17,True,True,Partial
+S0560,Argent Holdings,South Africa,Africa,Medium,15,Components,Tier 1,Low,631378.22,2020-10-23,True,True,Partial
+S0561,Aurora Materials,China,Asia,High,25,Components,Tier 1,Low,208426.87,2018-01-01,True,True,Full
+S0562,Zenith Manufacturing,South Korea,Asia,Low,5,Packaging,Tier 1,Low,687455.48,2020-11-29,True,True,Partial
+S0563,Zenith Group,Morocco,Africa,Medium,15,Packaging,Tier 2,Low,153271.26,2018-09-08,True,False,Full
+S0564,Zenith Components,Germany,Europe,Low,5,Logistics,Tier 1,High,151019.21,2023-12-21,True,True,Full
+S0565,Eclipse Systems,Tunisia,Africa,Medium,15,Facility,Tier 1,Medium,113897.39,2016-02-12,True,True,Partial
+S0566,Meridian Partners,United States,Americas,Low,5,Packaging,Tier 2,Low,30511.18,2016-09-21,True,True,Full
+S0567,Helios Components,Vietnam,Asia,High,25,Metals & Minerals,Tier 1,Low,249349.87,2021-12-30,True,True,Partial
+S0568,Alpine Holdings,Malaysia,Asia,Medium,15,Packaging,Tier 1,Medium,23409.48,2018-11-30,True,True,Full
+S0569,Lumen Holdings,United Arab Emirates,Middle East,Medium,15,IT Services,Tier 2,Low,259398.61,2023-10-17,True,True,Partial
+S0570,Zenith Supply,Turkey,Europe/Asia,Medium,15,Tools & Machinery,Tier 3,Medium,327106.31,2016-05-24,True,True,Partial
+S0571,Argent Components,Spain,Europe,Low,5,Packaging,Tier 1,Medium,75088.23,2018-06-02,True,True,Limited
+S0572,Aurora Partners,Switzerland,Europe,Low,5,IT Services,Tier 1,Low,156659.65,2025-11-10,True,True,Partial
+S0573,Vega Partners,South Korea,Asia,Low,5,Packaging,Tier 1,Low,162286.4,2022-03-06,True,True,Limited
+S0574,Lumen Partners,United Kingdom,Europe,Low,5,Metals & Minerals,Tier 1,Low,141742.26,2023-01-07,True,True,Full
+S0575,Helios Systems,Tunisia,Africa,Medium,15,Facility,Tier 2,Medium,115926.28,2019-04-06,True,True,Full
+S0576,Nimbus Systems,Thailand,Asia,Medium,15,Chemicals,Tier 1,Medium,166293.35,2021-03-04,True,True,Full
+S0577,Novatek Supply,Turkey,Europe/Asia,Medium,15,Metals & Minerals,Tier 1,Low,293817.9,2016-05-01,True,True,Limited
+S0578,Vega Logistics,China,Asia,High,25,Components,Tier 1,Medium,207496.54,2016-10-13,True,True,Partial
+S0579,Meridian Supply,France,Europe,Low,5,Components,Tier 2,Low,136576.81,2021-09-02,False,True,Partial
+S0580,Argent Industries,India,Asia,High,25,Chemicals,Tier 1,Medium,129977.91,2022-11-21,False,True,Partial
+S0581,Eclipse Supply,Saudi Arabia,Middle East,Medium,15,IT Services,Tier 1,Medium,103058.99,2017-09-03,True,True,Full
+S0582,Orion Partners,Italy,Europe,Low,5,Facility,Tier 1,Low,257317.56,2017-01-16,True,True,Partial
+S0583,Nimbus Supply,Taiwan,Asia,Low,5,Logistics,Tier 2,Medium,423778.17,2016-04-25,True,True,Partial
+S0584,Meridian Services,United Kingdom,Europe,Low,5,Chemicals,Tier 1,Low,341023.59,2025-05-10,True,True,Partial
+S0585,Argent Services,New Zealand,Oceania,Low,5,Components,Tier 3,Low,244111.1,2023-02-01,True,True,Partial
+S0586,Cobalt Manufacturing,Philippines,Asia,Medium,15,Components,Tier 1,Low,213396.65,2024-09-14,True,True,Partial
+S0587,Alpine Logistics,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Low,732788.16,2019-05-23,True,True,Limited
+S0588,Eclipse Partners,Canada,Americas,Low,5,Components,Tier 1,Medium,595165.5,2024-02-22,False,True,Limited
+S0589,Vega Components,Indonesia,Asia,High,25,Tools & Machinery,Tier 1,Low,1027226.09,2020-07-08,True,True,Partial
+S0590,Atlas Manufacturing,Canada,Americas,Low,5,Components,Tier 1,Medium,419381.82,2022-06-07,True,True,Full
+S0591,Alpine Holdings,United Kingdom,Europe,Low,5,Packaging,Tier 2,Medium,554738.5,2016-10-24,True,True,Partial
+S0592,Cascade Supply,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Medium,419486.23,2016-08-08,True,True,Partial
+S0593,Alpine Logistics,Australia,Oceania,Low,5,Facility,Tier 2,Medium,82153.66,2024-09-17,False,True,Partial
+S0594,Argent Group,Vietnam,Asia,High,25,Metals & Minerals,Tier 1,Low,243129.3,2018-03-11,True,True,Full
+S0595,Atlas Supply,India,Asia,High,25,Facility,Tier 1,Low,247277.98,2022-08-01,True,True,Full
+S0596,Orion Materials,China,Asia,High,25,Logistics,Tier 1,Low,102851.35,2020-12-23,True,True,Partial
+S0597,Novatek Components,China,Asia,High,25,Logistics,Tier 1,Medium,648251.84,2018-04-13,True,True,Partial
+S0598,Atlas Services,Germany,Europe,Low,5,Components,Tier 1,Medium,507634.15,2025-12-15,True,True,Partial
+S0599,Zenith Manufacturing,United States,Americas,Low,5,Components,Tier 1,Low,369113.75,2017-12-29,True,False,Partial
+S0600,Cascade Supply,Philippines,Asia,Medium,15,Metals & Minerals,Tier 1,Medium,394148.26,2022-10-18,True,True,Partial
+S0601,Atlas Supply,Italy,Europe,Low,5,Facility,Tier 1,Medium,132468.32,2024-09-04,True,True,Full
+S0602,Aurora Partners,Brazil,Americas,Medium,15,Packaging,Tier 1,Low,42835.94,2023-04-08,True,True,Partial
+S0603,Eclipse Industries,China,Asia,High,25,IT Services,Tier 3,Medium,71873.86,2019-06-16,True,True,Limited
+S0604,Alpine Supply,Mexico,Americas,Medium,15,Metals & Minerals,Tier 1,Medium,1261291.52,2019-09-16,True,True,Partial
+S0605,Meridian Systems,Tunisia,Africa,Medium,15,IT Services,Tier 2,High,264883.7,2020-05-19,True,True,Full
+S0606,Eclipse Supply,Tunisia,Africa,Medium,15,Components,Tier 1,High,1323962.42,2023-04-01,True,True,Limited
+S0607,Aurora Services,United Kingdom,Europe,Low,5,Components,Tier 3,Medium,551622.44,2024-12-31,True,True,Limited
+S0608,Eclipse Logistics,China,Asia,High,25,Components,Tier 1,Low,347198.03,2020-03-19,True,True,Full
+S0609,Aurora Components,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,603387.97,2025-02-12,False,False,Limited
+S0610,Cascade Systems,Spain,Europe,Low,5,Components,Tier 1,Low,101452.26,2018-02-07,True,True,Partial
+S0611,Eclipse Materials,Japan,Asia,Low,5,Components,Tier 1,Low,1166699.8,2023-04-29,False,False,Full
+S0612,Meridian Partners,United States,Americas,Low,5,IT Services,Tier 1,Medium,490937.98,2017-04-25,True,True,Partial
+S0613,Helios Partners,Spain,Europe,Low,5,Packaging,Tier 3,Medium,157069.12,2017-10-17,True,True,Full
+S0614,Meridian Group,Thailand,Asia,Medium,15,Consulting,Tier 1,Low,200493.88,2018-05-17,True,True,Partial
+S0615,Novatek Supply,South Africa,Africa,Medium,15,Components,Tier 2,Medium,298192.69,2018-06-21,True,True,Full
+S0616,Novatek Components,Spain,Europe,Low,5,Components,Tier 2,Medium,777719.85,2024-09-13,True,True,Full
+S0617,Lumen Services,Japan,Asia,Low,5,Metals & Minerals,Tier 1,Medium,663853.21,2019-08-04,True,True,Partial
+S0618,Alpine Logistics,United Kingdom,Europe,Low,5,Chemicals,Tier 1,Low,16666.67,2021-12-04,True,True,Partial
+S0619,Cobalt Holdings,South Africa,Africa,Medium,15,Components,Tier 2,Low,227745.87,2025-09-08,True,True,Limited
+S0620,Cascade Group,China,Asia,High,25,IT Services,Tier 2,High,90377.33,2018-07-31,True,True,Partial
+S0621,Zenith Industries,Taiwan,Asia,Low,5,Components,Tier 2,Medium,108033.13,2023-09-24,True,True,Limited
+S0622,Argent Industries,Vietnam,Asia,High,25,Metals & Minerals,Tier 1,High,1450070.04,2017-04-22,True,True,Partial
+S0623,Zenith Logistics,Thailand,Asia,Medium,15,Components,Tier 2,High,469022.3,2018-05-11,True,True,Limited
+S0624,Lumen Manufacturing,India,Asia,High,25,Metals & Minerals,Tier 1,High,839107.12,2016-09-25,True,False,Partial
+S0625,Nimbus Services,Germany,Europe,Low,5,Facility,Tier 1,Medium,173071.06,2019-05-15,False,True,Full
+S0626,Atlas Systems,India,Asia,High,25,Metals & Minerals,Tier 1,High,205267.07,2024-04-13,True,False,Full
+S0627,Eclipse Group,South Korea,Asia,Low,5,Chemicals,Tier 2,Low,39823.62,2022-03-02,True,True,Partial
+S0628,Meridian Services,Taiwan,Asia,Low,5,Chemicals,Tier 1,High,184889.11,2023-01-23,True,True,Partial
+S0629,Aurora Logistics,Indonesia,Asia,High,25,Tools & Machinery,Tier 2,Low,230272.05,2016-05-13,True,True,Full
+S0630,Vega Logistics,Taiwan,Asia,Low,5,Facility,Tier 1,Medium,123080.49,2023-05-11,True,True,Full
+S0631,Vega Systems,Switzerland,Europe,Low,5,Packaging,Tier 2,Low,106956.02,2024-06-08,True,False,Full
+S0632,Lumen Partners,China,Asia,High,25,Packaging,Tier 1,Medium,857175.87,2024-01-19,True,False,Full
+S0633,Lumen Holdings,Saudi Arabia,Middle East,Medium,15,Chemicals,Tier 1,Low,371099.97,2018-01-21,True,True,Limited
+S0634,Aurora Holdings,Saudi Arabia,Middle East,Medium,15,IT Services,Tier 1,Low,197014.25,2017-02-12,True,False,Full
+S0635,Meridian Industries,Japan,Asia,Low,5,IT Services,Tier 1,Medium,153694.02,2021-04-22,True,True,Partial
+S0636,Helios Logistics,Germany,Europe,Low,5,Facility,Tier 1,High,252767.62,2025-05-11,True,True,Limited
+S0637,Vega Industries,China,Asia,High,25,Metals & Minerals,Tier 2,Low,546915.99,2019-02-27,True,True,Partial
+S0638,Zenith Logistics,Italy,Europe,Low,5,Logistics,Tier 3,Low,99175.26,2021-01-25,True,True,Partial
+S0639,Vega Manufacturing,South Africa,Africa,Medium,15,IT Services,Tier 1,Low,338765.07,2020-07-17,False,True,Full
+S0640,Novatek Industries,Vietnam,Asia,High,25,Facility,Tier 1,Medium,214741.61,2021-02-24,True,True,Full
+S0641,Nimbus Industries,Italy,Europe,Low,5,Metals & Minerals,Tier 2,Low,1617897.77,2017-05-24,True,True,Limited
+S0642,Helios Logistics,Turkey,Europe/Asia,Medium,15,Components,Tier 2,Low,272193.02,2016-04-19,True,True,Full
+S0643,Vega Industries,Brazil,Americas,Medium,15,Logistics,Tier 1,Low,394962.56,2018-01-06,True,True,Partial
+S0644,Lumen Materials,Saudi Arabia,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,155831.82,2022-09-24,True,False,Partial
+S0645,Meridian Industries,China,Asia,High,25,Metals & Minerals,Tier 1,High,347821.89,2024-09-03,True,True,Limited
+S0646,Atlas Services,Saudi Arabia,Middle East,Medium,15,Logistics,Tier 1,Medium,752551.78,2017-10-08,True,True,Partial
+S0647,Vega Holdings,Germany,Europe,Low,5,Consulting,Tier 1,Low,326457.22,2025-06-09,False,True,Limited
+S0648,Aurora Group,Tunisia,Africa,Medium,15,Components,Tier 1,Medium,532321.48,2022-10-29,True,True,Partial
+S0649,Helios Services,Germany,Europe,Low,5,Packaging,Tier 1,Low,1113181.25,2024-09-06,False,True,Full
+S0650,Orion Components,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,341930.34,2021-09-13,True,True,Limited
+S0651,Cascade Partners,Turkey,Europe/Asia,Medium,15,Tools & Machinery,Tier 2,Low,737011.8,2018-02-26,True,True,Limited
+S0652,Aurora Industries,Japan,Asia,Low,5,Consulting,Tier 1,Low,420678.53,2022-08-01,True,True,Full
+S0653,Argent Logistics,Japan,Asia,Low,5,Chemicals,Tier 2,Low,511051.83,2017-01-24,True,True,Partial
+S0654,Atlas Manufacturing,Switzerland,Europe,Low,5,Logistics,Tier 1,High,104081.27,2022-07-29,True,True,Full
+S0655,Novatek Partners,Japan,Asia,Low,5,Metals & Minerals,Tier 1,Low,340151.6,2024-09-13,True,True,Partial
+S0656,Aurora Holdings,Morocco,Africa,Medium,15,Logistics,Tier 1,High,338748.61,2023-10-26,True,True,Full
+S0657,Alpine Supply,New Zealand,Oceania,Low,5,Components,Tier 1,Low,1302018.58,2024-10-11,True,True,Full
+S0658,Atlas Logistics,South Africa,Africa,Medium,15,Components,Tier 2,High,699953.72,2020-01-15,True,True,Partial
+S0659,Cobalt Holdings,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 2,Medium,358275.48,2024-01-27,True,False,Partial
+S0660,Zenith Manufacturing,Spain,Europe,Low,5,Metals & Minerals,Tier 2,Medium,113988.42,2023-08-14,True,True,Partial
+S0661,Argent Systems,China,Asia,High,25,Components,Tier 1,High,451535.91,2024-03-04,True,False,Partial
+S0662,Cobalt Materials,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 2,Low,415836.12,2017-03-14,True,True,Partial
+S0663,Atlas Partners,Brazil,Americas,Medium,15,Facility,Tier 2,Low,120454.05,2019-03-30,True,True,Partial
+S0664,Orion Manufacturing,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 1,Low,362551.06,2019-08-30,True,True,Full
+S0665,Atlas Partners,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Medium,1282166.02,2019-11-19,True,False,Partial
+S0666,Vega Holdings,South Korea,Asia,Low,5,Components,Tier 2,Low,154564.9,2020-06-25,False,True,Partial
+S0667,Lumen Holdings,India,Asia,High,25,Components,Tier 1,Low,214762.48,2018-04-09,True,True,Partial
+S0668,Vega Systems,Singapore,Asia,Low,5,Chemicals,Tier 1,Medium,56473.58,2016-09-24,True,True,Full
+S0669,Novatek Components,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,1331836.65,2022-03-11,True,True,Partial
+S0670,Argent Services,Japan,Asia,Low,5,Tools & Machinery,Tier 1,Medium,803161.45,2020-08-18,True,False,Limited
+S0671,Meridian Partners,Germany,Europe,Low,5,Logistics,Tier 2,Low,303426.13,2021-03-09,True,True,Full
+S0672,Nimbus Holdings,France,Europe,Low,5,Metals & Minerals,Tier 1,High,441792.63,2020-10-15,True,True,Full
+S0673,Orion Components,Tunisia,Africa,Medium,15,IT Services,Tier 2,Low,45516.18,2021-10-18,True,True,Full
+S0674,Orion Industries,Thailand,Asia,Medium,15,Components,Tier 3,Medium,62402.18,2021-05-01,True,False,Partial
+S0675,Orion Systems,Germany,Europe,Low,5,IT Services,Tier 1,High,788132.8,2024-02-15,True,False,Full
+S0676,Eclipse Group,United Arab Emirates,Middle East,Medium,15,Packaging,Tier 1,Medium,255538.23,2023-03-06,True,True,Full
+S0677,Argent Components,Thailand,Asia,Medium,15,Chemicals,Tier 1,Low,298684.43,2018-06-07,True,True,Partial
+S0678,Argent Services,South Korea,Asia,Low,5,Logistics,Tier 1,Low,203811.97,2025-04-06,True,False,Partial
+S0679,Zenith Logistics,Italy,Europe,Low,5,Logistics,Tier 3,Low,57875.27,2020-11-08,True,True,Limited
+S0680,Lumen Supply,India,Asia,High,25,Logistics,Tier 1,Medium,130022.13,2018-07-26,True,True,Partial
+S0681,Cobalt Manufacturing,Japan,Asia,Low,5,IT Services,Tier 2,Low,62730.82,2024-01-10,True,True,Partial
+S0682,Orion Industries,Vietnam,Asia,High,25,Tools & Machinery,Tier 1,Low,148091.54,2021-05-21,True,False,Full
+S0683,Orion Holdings,South Korea,Asia,Low,5,Tools & Machinery,Tier 2,Medium,634499.46,2023-02-26,True,True,Partial
+S0684,Helios Logistics,France,Europe,Low,5,IT Services,Tier 1,Medium,46332.53,2018-09-22,True,True,Full
+S0685,Vega Materials,Mexico,Americas,Medium,15,Metals & Minerals,Tier 1,High,261051.0,2017-10-23,True,True,Full
+S0686,Cascade Industries,Japan,Asia,Low,5,Packaging,Tier 2,Low,115586.51,2022-10-22,True,True,Partial
+S0687,Nimbus Group,Turkey,Europe/Asia,Medium,15,Consulting,Tier 3,Medium,115095.5,2023-02-01,True,True,Partial
+S0688,Aurora Supply,Canada,Americas,Low,5,IT Services,Tier 2,Low,47584.42,2017-01-25,True,True,Full
+S0689,Nimbus Systems,France,Europe,Low,5,Metals & Minerals,Tier 1,Low,100113.76,2025-08-15,True,True,Partial
+S0690,Nimbus Systems,South Korea,Asia,Low,5,Components,Tier 1,Low,509322.73,2020-10-30,True,True,Partial
+S0691,Nimbus Holdings,Turkey,Europe/Asia,Medium,15,Consulting,Tier 2,Low,165481.12,2016-06-07,True,True,Limited
+S0692,Zenith Systems,Malaysia,Asia,Medium,15,Chemicals,Tier 1,Low,484713.05,2022-04-30,True,True,Partial
+S0693,Atlas Partners,Taiwan,Asia,Low,5,Components,Tier 2,Medium,335633.96,2024-03-09,True,True,Limited
+S0694,Novatek Logistics,Switzerland,Europe,Low,5,IT Services,Tier 2,Low,213655.35,2024-11-01,True,True,Partial
+S0695,Vega Systems,Mexico,Americas,Medium,15,Components,Tier 1,Low,204201.8,2022-02-08,False,True,Limited
+S0696,Vega Materials,Italy,Europe,Low,5,Facility,Tier 1,High,153228.09,2020-02-09,True,True,Limited
+S0697,Aurora Group,New Zealand,Oceania,Low,5,Metals & Minerals,Tier 1,Low,132371.38,2023-10-19,True,True,Partial
+S0698,Nimbus Group,South Korea,Asia,Low,5,Tools & Machinery,Tier 2,Low,174837.85,2018-09-30,True,True,Partial
+S0699,Novatek Holdings,Turkey,Europe/Asia,Medium,15,Consulting,Tier 1,Medium,128545.76,2022-09-02,True,True,Limited
+S0700,Meridian Manufacturing,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Low,971552.92,2016-12-14,True,True,Partial
+S0701,Cobalt Materials,South Korea,Asia,Low,5,Components,Tier 1,Low,183538.5,2021-11-11,True,True,Full
+S0702,Vega Industries,Malaysia,Asia,Medium,15,IT Services,Tier 3,Medium,588502.46,2017-09-05,True,True,Limited
+S0703,Helios Partners,Vietnam,Asia,High,25,Facility,Tier 2,Low,229693.84,2018-03-02,True,True,Limited
+S0704,Atlas Services,Canada,Americas,Low,5,Metals & Minerals,Tier 3,Medium,324069.64,2016-12-15,True,True,Limited
+S0705,Atlas Supply,Japan,Asia,Low,5,Components,Tier 1,High,593332.46,2022-01-24,True,True,Limited
+S0706,Novatek Logistics,Saudi Arabia,Middle East,Medium,15,Packaging,Tier 2,Medium,122992.6,2021-06-18,True,True,Partial
+S0707,Novatek Materials,South Korea,Asia,Low,5,Components,Tier 1,Medium,229226.05,2021-12-09,True,False,Partial
+S0708,Aurora Manufacturing,France,Europe,Low,5,Components,Tier 2,Medium,101731.88,2020-12-18,True,True,Partial
+S0709,Argent Industries,Thailand,Asia,Medium,15,Consulting,Tier 2,High,116371.75,2020-04-11,True,True,Full
+S0710,Orion Holdings,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 2,Medium,1129439.3,2023-03-04,True,True,Limited
+S0711,Alpine Components,Canada,Americas,Low,5,Tools & Machinery,Tier 1,Low,564470.74,2018-09-27,True,True,Limited
+S0712,Vega Materials,South Korea,Asia,Low,5,IT Services,Tier 1,Medium,598820.58,2016-10-16,True,True,Full
+S0713,Zenith Components,Saudi Arabia,Middle East,Medium,15,Logistics,Tier 2,Low,86867.25,2018-04-07,True,True,Full
+S0714,Eclipse Materials,South Africa,Africa,Medium,15,Components,Tier 2,Medium,135148.99,2019-07-19,True,True,Partial
+S0715,Orion Group,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 2,Medium,142165.6,2016-09-03,True,True,Full
+S0716,Cascade Systems,United Kingdom,Europe,Low,5,IT Services,Tier 1,Low,87905.83,2023-12-31,False,True,Full
+S0717,Argent Systems,Philippines,Asia,Medium,15,Components,Tier 1,High,690719.94,2024-10-17,True,True,Limited
+S0718,Lumen Logistics,Indonesia,Asia,High,25,Tools & Machinery,Tier 1,Medium,103129.51,2022-07-03,True,True,Full
+S0719,Vega Supply,Vietnam,Asia,High,25,Packaging,Tier 1,Low,33024.71,2019-04-30,True,True,Partial
+S0720,Helios Holdings,Malaysia,Asia,Medium,15,Chemicals,Tier 1,Low,219530.24,2022-09-09,True,True,Limited
+S0721,Alpine Components,Morocco,Africa,Medium,15,Tools & Machinery,Tier 3,Low,887117.17,2020-08-25,True,True,Full
+S0722,Alpine Industries,Italy,Europe,Low,5,Chemicals,Tier 2,High,309495.83,2016-08-07,True,True,Partial
+S0723,Helios Industries,Malaysia,Asia,Medium,15,Components,Tier 1,Low,559679.12,2017-10-01,True,False,Partial
+S0724,Vega Holdings,Thailand,Asia,Medium,15,Metals & Minerals,Tier 2,Low,323431.54,2022-11-23,True,False,Partial
+S0725,Novatek Group,Turkey,Europe/Asia,Medium,15,Packaging,Tier 2,High,253463.06,2016-12-18,True,True,Full
+S0726,Novatek Holdings,Australia,Oceania,Low,5,Components,Tier 2,Low,98220.17,2020-07-01,True,True,Partial
+S0727,Atlas Materials,India,Asia,High,25,Metals & Minerals,Tier 1,Low,198795.79,2022-08-23,True,True,Full
+S0728,Atlas Components,France,Europe,Low,5,IT Services,Tier 1,Low,437518.62,2023-12-13,True,True,Full
+S0729,Eclipse Components,New Zealand,Oceania,Low,5,Components,Tier 1,Medium,149433.56,2025-12-01,False,False,Partial
+S0730,Alpine Group,Germany,Europe,Low,5,Packaging,Tier 1,High,202172.56,2025-04-06,True,True,Partial
+S0731,Meridian Holdings,Taiwan,Asia,Low,5,Tools & Machinery,Tier 1,Low,944995.57,2021-03-16,True,False,Limited
+S0732,Eclipse Group,New Zealand,Oceania,Low,5,Metals & Minerals,Tier 3,Low,260679.76,2022-03-26,True,True,Full
+S0733,Argent Group,China,Asia,High,25,Chemicals,Tier 2,Low,161315.99,2017-04-11,True,True,Partial
+S0734,Argent Manufacturing,United States,Americas,Low,5,Metals & Minerals,Tier 1,Medium,279613.67,2024-04-03,True,True,Full
+S0735,Orion Services,Australia,Oceania,Low,5,Logistics,Tier 1,High,458855.48,2016-05-11,True,True,Partial
+S0736,Alpine Logistics,Malaysia,Asia,Medium,15,Packaging,Tier 2,High,475844.57,2019-01-11,True,False,Full
+S0737,Vega Services,South Africa,Africa,Medium,15,Facility,Tier 2,Medium,73768.68,2016-11-15,True,True,Partial
+S0738,Cobalt Holdings,Taiwan,Asia,Low,5,Tools & Machinery,Tier 1,High,197496.2,2025-05-12,True,True,Partial
+S0739,Atlas Components,France,Europe,Low,5,Components,Tier 1,Medium,82412.55,2019-12-19,True,True,Full
+S0740,Argent Components,Thailand,Asia,Medium,15,Metals & Minerals,Tier 1,High,860143.1,2020-06-20,True,False,Full
+S0741,Cobalt Partners,Turkey,Europe/Asia,Medium,15,Components,Tier 1,Medium,488610.17,2025-03-09,True,True,Full
+S0742,Atlas Systems,Vietnam,Asia,High,25,Chemicals,Tier 1,Low,1195888.06,2020-12-18,True,False,Partial
+S0743,Meridian Materials,South Korea,Asia,Low,5,Chemicals,Tier 3,Low,112947.75,2019-10-21,True,True,Full
+S0744,Novatek Partners,Brazil,Americas,Medium,15,Consulting,Tier 1,Low,150375.12,2024-10-09,True,True,Full
+S0745,Argent Systems,Malaysia,Asia,Medium,15,Metals & Minerals,Tier 1,Medium,443463.69,2023-11-23,False,True,Partial
+S0746,Nimbus Holdings,Switzerland,Europe,Low,5,Components,Tier 1,High,741046.93,2019-01-17,True,False,Partial
+S0747,Cobalt Logistics,Turkey,Europe/Asia,Medium,15,IT Services,Tier 2,Low,120272.26,2017-09-25,True,True,Partial
+S0748,Zenith Industries,Indonesia,Asia,High,25,Metals & Minerals,Tier 2,Low,166265.69,2022-12-11,True,True,Limited
+S0749,Orion Systems,Spain,Europe,Low,5,Components,Tier 1,Low,366224.67,2022-05-28,False,True,Full
+S0750,Orion Components,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Low,355457.92,2024-03-21,True,True,Full
+S0751,Eclipse Logistics,Thailand,Asia,Medium,15,Facility,Tier 2,High,216958.88,2022-01-21,True,True,Limited
+S0752,Alpine Partners,Italy,Europe,Low,5,Tools & Machinery,Tier 1,Low,688775.32,2023-08-23,True,True,Full
+S0753,Vega Systems,Vietnam,Asia,High,25,Components,Tier 2,Low,306882.6,2019-12-26,True,False,Limited
+S0754,Alpine Materials,Spain,Europe,Low,5,Chemicals,Tier 2,High,77498.64,2017-06-18,True,True,Partial
+S0755,Alpine Holdings,Japan,Asia,Low,5,Logistics,Tier 1,Low,99946.49,2016-04-04,True,True,Full
+S0756,Cascade Manufacturing,Malaysia,Asia,Medium,15,Components,Tier 1,Medium,308315.94,2017-05-08,True,True,Full
+S0757,Alpine Systems,Japan,Asia,Low,5,IT Services,Tier 1,Low,170300.52,2025-08-26,True,True,Partial
+S0758,Aurora Manufacturing,Morocco,Africa,Medium,15,Components,Tier 2,Low,464953.48,2020-04-27,True,True,Full
+S0759,Orion Group,Australia,Oceania,Low,5,Logistics,Tier 1,High,274191.81,2020-05-23,True,True,Partial
+S0760,Cascade Partners,Taiwan,Asia,Low,5,Tools & Machinery,Tier 1,Medium,73724.03,2017-01-20,True,True,Partial
+S0761,Nimbus Materials,Turkey,Europe/Asia,Medium,15,Metals & Minerals,Tier 3,Medium,88425.76,2022-03-11,True,True,Limited
+S0762,Cobalt Industries,Thailand,Asia,Medium,15,Packaging,Tier 1,High,420814.17,2022-07-01,True,True,Full
+S0763,Alpine Materials,Saudi Arabia,Middle East,Medium,15,Chemicals,Tier 2,Low,116625.91,2016-07-31,True,True,Full
+S0764,Orion Manufacturing,Mexico,Americas,Medium,15,Components,Tier 2,Medium,1003013.31,2025-12-10,True,True,Full
+S0765,Atlas Holdings,South Korea,Asia,Low,5,IT Services,Tier 1,Medium,183310.0,2025-10-30,True,False,Partial
+S0766,Eclipse Holdings,China,Asia,High,25,Logistics,Tier 2,Medium,105642.11,2018-05-23,True,True,Full
+S0767,Orion Industries,Switzerland,Europe,Low,5,Chemicals,Tier 1,Low,99635.9,2022-12-01,True,True,Full
+S0768,Helios Partners,Mexico,Americas,Medium,15,Components,Tier 2,High,382302.06,2016-08-15,True,True,Partial
+S0769,Cascade Systems,United States,Americas,Low,5,Facility,Tier 1,Low,185064.41,2024-02-18,True,True,Limited
+S0770,Alpine Materials,United Arab Emirates,Middle East,Medium,15,Components,Tier 2,Medium,305094.01,2022-02-23,True,True,Limited
+S0771,Eclipse Components,Vietnam,Asia,High,25,Components,Tier 2,Low,650555.4,2021-04-07,False,True,Full
+S0772,Eclipse Supply,Saudi Arabia,Middle East,Medium,15,Components,Tier 2,Medium,92783.12,2020-04-04,True,True,Partial
+S0773,Atlas Materials,South Africa,Africa,Medium,15,Packaging,Tier 1,Medium,54529.5,2019-09-04,False,True,Full
+S0774,Argent Supply,Saudi Arabia,Middle East,Medium,15,Packaging,Tier 3,Low,88380.33,2020-02-20,False,True,Full
+S0775,Nimbus Supply,Canada,Americas,Low,5,Metals & Minerals,Tier 2,Medium,469352.15,2023-09-08,True,True,Limited
+S0776,Vega Industries,Germany,Europe,Low,5,Metals & Minerals,Tier 1,Low,657224.86,2016-02-10,True,True,Partial
+S0777,Meridian Holdings,China,Asia,High,25,Metals & Minerals,Tier 1,Low,225764.8,2016-03-11,True,True,Partial
+S0778,Aurora Holdings,United States,Americas,Low,5,Logistics,Tier 1,Medium,20479.22,2018-08-06,True,True,Partial
+S0779,Cascade Holdings,Morocco,Africa,Medium,15,Components,Tier 2,Medium,196603.22,2021-05-07,True,True,Full
+S0780,Argent Supply,Singapore,Asia,Low,5,Metals & Minerals,Tier 1,Low,489872.56,2018-02-24,True,False,Partial
+S0781,Helios Materials,United States,Americas,Low,5,Tools & Machinery,Tier 2,Low,300646.54,2017-02-04,True,True,Partial
+S0782,Helios Manufacturing,Saudi Arabia,Middle East,Medium,15,Components,Tier 1,Low,569145.03,2021-06-23,True,True,Limited
+S0783,Cobalt Supply,Italy,Europe,Low,5,Logistics,Tier 1,Low,423901.84,2016-12-24,True,True,Full
+S0784,Aurora Group,Tunisia,Africa,Medium,15,Components,Tier 2,Low,268099.85,2020-11-17,False,True,Partial
+S0785,Lumen Manufacturing,United States,Americas,Low,5,Chemicals,Tier 2,Medium,97037.74,2023-05-15,False,True,Full
+S0786,Vega Supply,Japan,Asia,Low,5,Metals & Minerals,Tier 1,Medium,176418.66,2020-10-03,True,True,Partial
+S0787,Nimbus Supply,Taiwan,Asia,Low,5,Tools & Machinery,Tier 3,Low,77664.5,2020-08-03,False,True,Partial
+S0788,Zenith Systems,Canada,Americas,Low,5,Chemicals,Tier 2,Low,38049.07,2023-11-05,True,True,Full
+S0789,Cobalt Supply,Tunisia,Africa,Medium,15,Components,Tier 2,High,285125.26,2022-11-16,False,True,Full
+S0790,Helios Manufacturing,Italy,Europe,Low,5,Components,Tier 1,Medium,822728.15,2020-05-16,True,True,Full
+S0791,Zenith Supply,Japan,Asia,Low,5,Metals & Minerals,Tier 1,Medium,615874.23,2016-05-20,True,True,Partial
+S0792,Aurora Partners,Japan,Asia,Low,5,Facility,Tier 2,Medium,93634.29,2025-01-04,True,True,Partial
+S0793,Helios Group,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 1,Low,914238.33,2022-08-03,True,False,Limited
+S0794,Aurora Materials,India,Asia,High,25,Components,Tier 1,Low,220551.26,2024-12-11,True,True,Limited
+S0795,Eclipse Systems,China,Asia,High,25,Packaging,Tier 1,Low,461110.52,2016-08-31,True,True,Partial
+S0796,Nimbus Holdings,Thailand,Asia,Medium,15,Logistics,Tier 1,High,908193.36,2021-03-07,True,True,Partial
+S0797,Atlas Holdings,Japan,Asia,Low,5,Components,Tier 3,Low,336264.11,2021-02-12,True,True,Limited
+S0798,Alpine Systems,Switzerland,Europe,Low,5,Facility,Tier 2,Low,80443.37,2022-10-18,True,False,Partial
+S0799,Atlas Materials,Canada,Americas,Low,5,Components,Tier 2,Medium,227221.64,2016-09-17,True,True,Full
+S0800,Alpine Manufacturing,Switzerland,Europe,Low,5,Logistics,Tier 1,Medium,188668.02,2016-02-14,True,True,Partial
+S0801,Argent Systems,Indonesia,Asia,High,25,Metals & Minerals,Tier 1,Medium,121875.62,2019-06-30,True,True,Partial
+S0802,Nimbus Components,United States,Americas,Low,5,Components,Tier 1,Medium,164582.32,2023-09-28,True,True,Partial
+S0803,Aurora Holdings,China,Asia,High,25,IT Services,Tier 3,Low,45783.92,2017-09-27,True,True,Full
+S0804,Aurora Supply,Tunisia,Africa,Medium,15,Chemicals,Tier 2,High,340036.04,2016-12-25,True,True,Partial
+S0805,Zenith Logistics,Indonesia,Asia,High,25,Chemicals,Tier 1,Low,420232.46,2018-08-25,True,True,Full
+S0806,Eclipse Materials,South Africa,Africa,Medium,15,IT Services,Tier 1,Low,289283.56,2016-03-17,True,True,Partial
+S0807,Argent Manufacturing,New Zealand,Oceania,Low,5,Metals & Minerals,Tier 2,High,1080333.35,2022-03-30,True,True,Limited
+S0808,Lumen Industries,Mexico,Americas,Medium,15,Tools & Machinery,Tier 1,Medium,195442.46,2019-10-26,True,True,Partial
+S0809,Nimbus Services,Vietnam,Asia,High,25,Components,Tier 1,Low,276596.07,2022-02-22,True,True,Limited
+S0810,Aurora Systems,Australia,Oceania,Low,5,Chemicals,Tier 1,Low,133163.58,2023-09-28,True,True,Partial
+S0811,Cobalt Partners,Philippines,Asia,Medium,15,Components,Tier 1,Low,515641.78,2016-06-02,True,True,Full
+S0812,Aurora Systems,South Africa,Africa,Medium,15,Packaging,Tier 3,Low,597924.02,2025-09-04,True,True,Partial
+S0813,Helios Services,Thailand,Asia,Medium,15,Metals & Minerals,Tier 2,High,291014.24,2025-10-16,True,True,Limited
+S0814,Nimbus Materials,Philippines,Asia,Medium,15,Components,Tier 1,High,1203486.23,2022-01-05,True,True,Limited
+S0815,Meridian Partners,Canada,Americas,Low,5,Metals & Minerals,Tier 2,High,1654015.96,2024-02-10,True,True,Limited
+S0816,Argent Group,Mexico,Americas,Medium,15,Packaging,Tier 1,Medium,244328.43,2022-07-24,True,True,Limited
+S0817,Cobalt Group,United Arab Emirates,Middle East,Medium,15,Facility,Tier 1,Low,121544.75,2025-04-10,True,True,Limited
+S0818,Cobalt Systems,Mexico,Americas,Medium,15,Tools & Machinery,Tier 1,Low,182972.22,2018-03-30,True,True,Partial
+S0819,Alpine Systems,Canada,Americas,Low,5,Consulting,Tier 2,High,95955.26,2020-05-22,True,True,Limited
+S0820,Novatek Logistics,New Zealand,Oceania,Low,5,IT Services,Tier 2,Medium,28692.64,2022-02-15,False,True,Partial
+S0821,Novatek Manufacturing,Thailand,Asia,Medium,15,Components,Tier 2,Medium,254978.76,2024-11-11,True,True,Partial
+S0822,Zenith Components,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 3,High,298411.13,2022-06-15,True,True,Limited
+S0823,Nimbus Industries,Brazil,Americas,Medium,15,Components,Tier 2,High,969291.67,2024-08-10,True,True,Partial
+S0824,Argent Group,Mexico,Americas,Medium,15,Tools & Machinery,Tier 2,High,305431.29,2024-06-16,True,True,Limited
+S0825,Argent Partners,New Zealand,Oceania,Low,5,Tools & Machinery,Tier 1,Low,313250.98,2023-07-18,True,True,Partial
+S0826,Lumen Materials,Taiwan,Asia,Low,5,Components,Tier 2,Medium,381551.99,2020-08-07,True,True,Partial
+S0827,Zenith Systems,Switzerland,Europe,Low,5,Packaging,Tier 2,Low,204896.66,2023-10-05,True,True,Partial
+S0828,Orion Logistics,Singapore,Asia,Low,5,Metals & Minerals,Tier 1,Low,644583.46,2022-07-22,False,True,Limited
+S0829,Meridian Group,United Kingdom,Europe,Low,5,IT Services,Tier 2,Medium,159899.11,2025-11-03,True,True,Full
+S0830,Meridian Supply,Saudi Arabia,Middle East,Medium,15,Tools & Machinery,Tier 1,High,203006.94,2025-05-14,False,True,Partial
+S0831,Helios Services,India,Asia,High,25,Components,Tier 2,Low,419026.23,2024-03-03,True,True,Full
+S0832,Lumen Manufacturing,United Kingdom,Europe,Low,5,Consulting,Tier 1,Medium,96656.09,2018-02-18,True,False,Partial
+S0833,Nimbus Materials,Italy,Europe,Low,5,Components,Tier 1,High,1542765.97,2023-04-28,True,True,Partial
+S0834,Nimbus Materials,South Africa,Africa,Medium,15,Chemicals,Tier 2,High,225145.46,2021-06-02,True,True,Partial
+S0835,Cobalt Supply,Switzerland,Europe,Low,5,Components,Tier 1,Medium,434112.89,2018-12-22,True,True,Partial
+S0836,Nimbus Holdings,Switzerland,Europe,Low,5,Packaging,Tier 2,High,1774148.58,2021-08-24,True,True,Partial
+S0837,Vega Systems,Mexico,Americas,Medium,15,Metals & Minerals,Tier 1,Low,654175.31,2022-05-11,False,True,Partial
+S0838,Nimbus Systems,United Arab Emirates,Middle East,Medium,15,Logistics,Tier 2,Low,187663.88,2023-08-10,True,True,Full
+S0839,Atlas Manufacturing,Morocco,Africa,Medium,15,Metals & Minerals,Tier 2,Low,272439.99,2016-02-04,True,True,Partial
+S0840,Cobalt Logistics,Spain,Europe,Low,5,Metals & Minerals,Tier 2,Low,114290.63,2018-06-19,True,True,Limited
+S0841,Eclipse Services,Taiwan,Asia,Low,5,Components,Tier 1,High,484679.14,2023-12-30,True,True,Limited
+S0842,Lumen Systems,South Africa,Africa,Medium,15,Tools & Machinery,Tier 1,High,290118.47,2018-01-14,True,True,Limited
+S0843,Cobalt Group,United Arab Emirates,Middle East,Medium,15,Packaging,Tier 1,Low,619039.03,2022-02-26,True,True,Full
+S0844,Cobalt Supply,Italy,Europe,Low,5,Consulting,Tier 3,Low,145067.48,2017-11-17,True,True,Partial
+S0845,Argent Partners,Australia,Oceania,Low,5,Facility,Tier 1,Low,423922.18,2021-07-15,True,True,Limited
+S0846,Vega Materials,Saudi Arabia,Middle East,Medium,15,Components,Tier 2,Medium,186859.47,2016-01-20,True,False,Partial
+S0847,Lumen Supply,South Africa,Africa,Medium,15,Tools & Machinery,Tier 1,Low,191097.44,2025-07-28,True,True,Full
+S0848,Argent Systems,Tunisia,Africa,Medium,15,Components,Tier 3,Low,390935.86,2019-09-04,True,True,Partial
+S0849,Cobalt Services,China,Asia,High,25,Packaging,Tier 3,Medium,52011.67,2019-01-20,True,False,Partial
+S0850,Aurora Services,Taiwan,Asia,Low,5,Consulting,Tier 3,Medium,74551.87,2024-10-04,True,True,Limited
+S0851,Zenith Group,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,High,2280789.18,2024-11-08,True,True,Full
+S0852,Orion Supply,Germany,Europe,Low,5,Metals & Minerals,Tier 1,Low,260081.0,2021-12-04,True,True,Limited
+S0853,Lumen Supply,Brazil,Americas,Medium,15,Packaging,Tier 1,Medium,52329.07,2022-12-14,True,True,Full
+S0854,Helios Group,Saudi Arabia,Middle East,Medium,15,Components,Tier 1,Low,87536.43,2016-01-12,True,True,Partial
+S0855,Lumen Components,United Arab Emirates,Middle East,Medium,15,Components,Tier 1,Medium,105654.78,2023-12-08,True,True,Limited
+S0856,Nimbus Supply,Malaysia,Asia,Medium,15,IT Services,Tier 1,Low,446889.79,2016-12-05,True,True,Full
+S0857,Aurora Holdings,United Arab Emirates,Middle East,Medium,15,Packaging,Tier 1,Low,104664.31,2022-06-02,True,True,Partial
+S0858,Argent Holdings,France,Europe,Low,5,Logistics,Tier 3,Low,818948.53,2016-08-24,True,True,Partial
+S0859,Orion Materials,Saudi Arabia,Middle East,Medium,15,Components,Tier 1,Low,1229533.42,2021-08-08,True,True,Partial
+S0860,Lumen Manufacturing,Saudi Arabia,Middle East,Medium,15,Components,Tier 1,High,2851441.75,2022-01-11,True,True,Partial
+S0861,Vega Logistics,Philippines,Asia,Medium,15,Chemicals,Tier 1,High,590812.3,2018-09-11,True,True,Full
+S0862,Cobalt Group,Australia,Oceania,Low,5,IT Services,Tier 1,Low,261456.07,2024-03-30,True,True,Partial
+S0863,Argent Systems,Australia,Oceania,Low,5,IT Services,Tier 2,Medium,71892.12,2016-08-01,True,True,Partial
+S0864,Argent Components,South Korea,Asia,Low,5,IT Services,Tier 2,Low,137968.61,2019-05-04,True,True,Limited
+S0865,Eclipse Components,Australia,Oceania,Low,5,Metals & Minerals,Tier 1,Low,625037.74,2023-11-18,True,True,Limited
+S0866,Argent Manufacturing,Germany,Europe,Low,5,Components,Tier 1,Low,768888.72,2021-03-03,True,True,Full
+S0867,Alpine Services,China,Asia,High,25,Packaging,Tier 2,Medium,55499.53,2019-04-12,True,True,Limited
+S0868,Argent Partners,Switzerland,Europe,Low,5,Metals & Minerals,Tier 2,Low,260670.09,2020-05-03,True,True,Partial
+S0869,Cascade Manufacturing,Brazil,Americas,Medium,15,Metals & Minerals,Tier 1,Low,335143.08,2021-12-23,True,False,Limited
+S0870,Nimbus Manufacturing,Canada,Americas,Low,5,Facility,Tier 1,Low,147650.31,2023-05-09,True,True,Limited
+S0871,Novatek Manufacturing,Italy,Europe,Low,5,Packaging,Tier 3,Low,46623.86,2022-05-11,True,True,Full
+S0872,Argent Systems,Morocco,Africa,Medium,15,Packaging,Tier 1,Medium,717317.65,2023-11-07,True,False,Limited
+S0873,Argent Services,India,Asia,High,25,Metals & Minerals,Tier 1,Medium,298722.43,2024-05-23,False,True,Partial
+S0874,Cobalt Materials,United Arab Emirates,Middle East,Medium,15,Packaging,Tier 3,Low,49102.52,2019-11-01,True,True,Full
+S0875,Novatek Partners,United Kingdom,Europe,Low,5,Components,Tier 2,Low,1374509.47,2017-11-04,True,False,Full
+S0876,Eclipse Industries,France,Europe,Low,5,Consulting,Tier 1,Low,559385.88,2019-08-15,True,True,Limited
+S0877,Atlas Services,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Medium,400779.37,2018-12-26,True,True,Full
+S0878,Lumen Supply,Singapore,Asia,Low,5,Metals & Minerals,Tier 2,Low,73953.14,2025-05-26,True,True,Partial
+S0879,Zenith Holdings,South Korea,Asia,Low,5,Metals & Minerals,Tier 3,Medium,160306.88,2024-09-20,False,True,Limited
+S0880,Cascade Components,Philippines,Asia,Medium,15,Chemicals,Tier 3,Medium,29538.64,2024-05-31,True,True,Partial
+S0881,Lumen Services,Morocco,Africa,Medium,15,Metals & Minerals,Tier 1,Low,540007.03,2020-07-30,True,True,Full
+S0882,Cascade Manufacturing,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 1,Low,106280.74,2020-10-28,False,True,Full
+S0883,Novatek Materials,Turkey,Europe/Asia,Medium,15,Components,Tier 1,Low,350265.05,2020-05-13,True,True,Partial
+S0884,Cobalt Partners,Singapore,Asia,Low,5,Facility,Tier 1,Low,671857.32,2023-04-16,True,True,Partial
+S0885,Helios Supply,United Arab Emirates,Middle East,Medium,15,IT Services,Tier 3,Low,65345.73,2022-02-05,True,True,Partial
+S0886,Lumen Materials,Turkey,Europe/Asia,Medium,15,Components,Tier 3,Low,338640.33,2017-05-09,True,True,Partial
+S0887,Nimbus Group,New Zealand,Oceania,Low,5,Logistics,Tier 3,High,312414.13,2025-07-23,True,True,Limited
+S0888,Aurora Partners,New Zealand,Oceania,Low,5,IT Services,Tier 1,Low,434324.22,2016-09-08,True,False,Full
+S0889,Lumen Manufacturing,Philippines,Asia,Medium,15,Tools & Machinery,Tier 2,Low,280917.18,2018-08-13,True,True,Partial
+S0890,Eclipse Services,South Korea,Asia,Low,5,Components,Tier 2,Medium,258590.09,2018-06-20,True,False,Full
+S0891,Eclipse Logistics,Tunisia,Africa,Medium,15,Facility,Tier 2,Low,115415.96,2018-09-19,False,True,Full
+S0892,Cascade Logistics,Vietnam,Asia,High,25,Components,Tier 2,Low,408329.95,2023-08-03,True,True,Full
+S0893,Helios Industries,Taiwan,Asia,Low,5,Packaging,Tier 1,Medium,537213.49,2016-08-26,True,True,Partial
+S0894,Zenith Holdings,Singapore,Asia,Low,5,IT Services,Tier 1,Low,131019.46,2020-11-14,True,True,Limited
+S0895,Lumen Holdings,Indonesia,Asia,High,25,Facility,Tier 3,Medium,15211.77,2019-06-21,True,True,Full
+S0896,Zenith Services,Japan,Asia,Low,5,Metals & Minerals,Tier 1,Medium,726282.02,2024-12-28,True,True,Full
+S0897,Cobalt Components,India,Asia,High,25,Metals & Minerals,Tier 2,Medium,321107.43,2025-05-12,True,True,Limited
+S0898,Vega Manufacturing,India,Asia,High,25,Metals & Minerals,Tier 2,Low,459865.72,2016-07-09,True,True,Limited
+S0899,Orion Partners,Malaysia,Asia,Medium,15,Packaging,Tier 1,High,74605.31,2023-04-21,True,False,Limited
+S0900,Cobalt Manufacturing,Spain,Europe,Low,5,Packaging,Tier 1,High,170546.2,2025-10-21,True,True,Partial
+S0901,Helios Services,France,Europe,Low,5,Facility,Tier 3,Low,199711.44,2017-12-24,False,True,Partial
+S0902,Alpine Materials,Indonesia,Asia,High,25,Components,Tier 1,Low,131271.87,2021-08-25,True,True,Full
+S0903,Argent Manufacturing,Spain,Europe,Low,5,Chemicals,Tier 1,High,378188.34,2022-01-30,True,True,Full
+S0904,Meridian Services,Switzerland,Europe,Low,5,Metals & Minerals,Tier 1,High,556792.44,2019-06-29,True,True,Partial
+S0905,Zenith Manufacturing,United Arab Emirates,Middle East,Medium,15,Components,Tier 2,Medium,169103.32,2024-07-01,True,True,Partial
+S0906,Novatek Group,Japan,Asia,Low,5,Packaging,Tier 2,Low,72350.61,2021-08-10,True,True,Partial
+S0907,Argent Industries,Turkey,Europe/Asia,Medium,15,Logistics,Tier 3,High,75099.06,2024-08-05,True,True,Limited
+S0908,Vega Partners,Indonesia,Asia,High,25,IT Services,Tier 2,Low,145339.11,2023-03-23,True,True,Full
+S0909,Lumen Partners,Indonesia,Asia,High,25,Facility,Tier 3,Low,121828.59,2021-06-06,True,True,Full
+S0910,Helios Partners,United Kingdom,Europe,Low,5,Consulting,Tier 1,Low,121343.15,2016-10-25,True,True,Partial
+S0911,Alpine Partners,Philippines,Asia,Medium,15,Components,Tier 1,Low,151864.83,2017-08-28,False,True,Full
+S0912,Zenith Supply,Turkey,Europe/Asia,Medium,15,Components,Tier 1,High,55347.16,2025-06-13,True,True,Full
+S0913,Alpine Logistics,Spain,Europe,Low,5,Components,Tier 1,Low,507730.06,2020-08-14,True,True,Full
+S0914,Alpine Components,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,High,1180689.16,2020-02-11,True,False,Limited
+S0915,Alpine Services,Canada,Americas,Low,5,Facility,Tier 1,Low,267085.31,2016-08-15,True,True,Full
+S0916,Eclipse Holdings,India,Asia,High,25,Logistics,Tier 1,Low,844074.78,2021-02-13,True,False,Full
+S0917,Cascade Systems,Japan,Asia,Low,5,Metals & Minerals,Tier 2,Medium,262924.26,2016-07-08,True,True,Partial
+S0918,Nimbus Partners,Vietnam,Asia,High,25,Components,Tier 3,Low,699118.53,2023-11-09,False,True,Partial
+S0919,Alpine Manufacturing,India,Asia,High,25,Metals & Minerals,Tier 2,High,290445.35,2017-08-24,True,True,Full
+S0920,Eclipse Logistics,Mexico,Americas,Medium,15,Logistics,Tier 2,Low,72993.63,2019-04-20,True,True,Partial
+S0921,Argent Partners,France,Europe,Low,5,Metals & Minerals,Tier 1,Low,394981.27,2018-01-17,True,True,Limited
+S0922,Lumen Logistics,Mexico,Americas,Medium,15,Tools & Machinery,Tier 1,Low,1313492.43,2024-10-09,True,False,Limited
+S0923,Atlas Industries,Singapore,Asia,Low,5,Facility,Tier 1,Medium,128868.91,2025-11-04,True,True,Limited
+S0924,Eclipse Manufacturing,South Korea,Asia,Low,5,Metals & Minerals,Tier 3,Medium,66644.1,2023-09-18,True,True,Full
+S0925,Cascade Systems,Singapore,Asia,Low,5,Components,Tier 1,High,1161181.77,2021-05-20,True,True,Limited
+S0926,Zenith Industries,India,Asia,High,25,IT Services,Tier 1,Medium,152929.18,2020-12-22,True,True,Full
+S0927,Meridian Services,Italy,Europe,Low,5,Packaging,Tier 3,Low,134352.12,2024-03-19,True,True,Full
+S0928,Atlas Industries,United States,Americas,Low,5,Metals & Minerals,Tier 2,Low,166792.46,2019-10-20,True,True,Partial
+S0929,Helios Logistics,Mexico,Americas,Medium,15,Packaging,Tier 2,Medium,151463.11,2018-11-14,True,False,Partial
+S0930,Orion Supply,Indonesia,Asia,High,25,Logistics,Tier 1,Low,51502.09,2023-12-03,True,True,Partial
+S0931,Zenith Logistics,Indonesia,Asia,High,25,Metals & Minerals,Tier 1,Low,1602532.23,2023-12-22,True,True,Partial
+S0932,Meridian Manufacturing,United States,Americas,Low,5,Chemicals,Tier 1,High,617875.39,2019-12-16,True,True,Partial
+S0933,Nimbus Logistics,Switzerland,Europe,Low,5,Tools & Machinery,Tier 2,High,514127.45,2017-07-30,True,False,Partial
+S0934,Aurora Group,Italy,Europe,Low,5,IT Services,Tier 1,Low,321971.7,2022-12-15,True,False,Full
+S0935,Argent Components,Thailand,Asia,Medium,15,Packaging,Tier 1,Low,97261.66,2024-07-25,True,True,Full
+S0936,Helios Industries,South Korea,Asia,Low,5,Packaging,Tier 1,Low,371004.2,2025-01-20,True,True,Partial
+S0937,Cobalt Components,China,Asia,High,25,Packaging,Tier 1,Medium,124514.78,2017-11-03,False,True,Full
+S0938,Cobalt Supply,Turkey,Europe/Asia,Medium,15,Chemicals,Tier 2,Low,100163.82,2024-12-07,True,True,Partial
+S0939,Argent Supply,Malaysia,Asia,Medium,15,Packaging,Tier 1,High,121285.87,2020-05-26,True,True,Limited
+S0940,Lumen Industries,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 3,Low,326620.33,2022-02-23,True,True,Full
+S0941,Zenith Systems,Thailand,Asia,Medium,15,Metals & Minerals,Tier 2,Low,310305.94,2025-08-31,True,True,Limited
+S0942,Lumen Industries,Philippines,Asia,Medium,15,Metals & Minerals,Tier 1,Medium,1108184.67,2020-03-04,True,True,Full
+S0943,Cascade Components,India,Asia,High,25,Logistics,Tier 1,Low,69569.75,2024-10-24,True,True,Partial
+S0944,Novatek Materials,New Zealand,Oceania,Low,5,Logistics,Tier 2,Low,194877.56,2020-04-09,True,True,Partial
+S0945,Vega Partners,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Medium,925756.21,2023-03-10,True,True,Partial
+S0946,Lumen Systems,Singapore,Asia,Low,5,Metals & Minerals,Tier 1,Medium,2842254.9,2024-11-23,True,False,Partial
+S0947,Novatek Systems,Spain,Europe,Low,5,Metals & Minerals,Tier 1,Medium,418304.45,2017-11-15,True,True,Full
+S0948,Atlas Holdings,United States,Americas,Low,5,Chemicals,Tier 1,Medium,122696.24,2024-07-29,True,False,Partial
+S0949,Alpine Manufacturing,Indonesia,Asia,High,25,Consulting,Tier 2,Low,158300.41,2023-02-05,True,True,Partial
+S0950,Zenith Services,Canada,Americas,Low,5,Tools & Machinery,Tier 2,Medium,873284.32,2019-02-21,True,True,Partial
+S0951,Alpine Partners,United Arab Emirates,Middle East,Medium,15,Facility,Tier 1,Low,466816.75,2020-08-03,False,True,Full
+S0952,Novatek Components,Italy,Europe,Low,5,Metals & Minerals,Tier 1,Medium,325788.13,2019-07-29,True,True,Limited
+S0953,Alpine Materials,Brazil,Americas,Medium,15,Metals & Minerals,Tier 2,Medium,859008.48,2019-05-08,True,True,Full
+S0954,Atlas Components,Saudi Arabia,Middle East,Medium,15,Components,Tier 1,Medium,351569.58,2017-09-26,True,True,Limited
+S0955,Vega Group,Brazil,Americas,Medium,15,Packaging,Tier 1,Low,318856.37,2017-01-02,True,True,Partial
+S0956,Argent Services,New Zealand,Oceania,Low,5,Facility,Tier 1,High,403281.65,2018-05-25,True,True,Partial
+S0957,Eclipse Logistics,Turkey,Europe/Asia,Medium,15,Logistics,Tier 3,Low,77327.94,2020-07-01,True,True,Full
+S0958,Vega Manufacturing,United Arab Emirates,Middle East,Medium,15,Metals & Minerals,Tier 1,Medium,171189.98,2023-06-26,True,True,Partial
+S0959,Meridian Systems,United States,Americas,Low,5,Facility,Tier 2,Medium,366299.98,2019-07-10,True,True,Partial
+S0960,Argent Manufacturing,Singapore,Asia,Low,5,Logistics,Tier 1,Low,549658.71,2024-05-29,True,True,Partial
+S0961,Novatek Manufacturing,China,Asia,High,25,Components,Tier 1,High,791309.99,2022-05-03,True,True,Full
+S0962,Aurora Partners,Australia,Oceania,Low,5,Components,Tier 1,Low,351196.39,2017-04-05,True,True,Limited
+S0963,Vega Services,Germany,Europe,Low,5,Metals & Minerals,Tier 1,Low,139417.11,2022-11-10,True,True,Partial
+S0964,Cobalt Components,South Africa,Africa,Medium,15,Packaging,Tier 1,Low,420897.04,2016-09-11,True,True,Full
+S0965,Zenith Logistics,Mexico,Americas,Medium,15,IT Services,Tier 1,Low,204154.08,2018-04-09,True,True,Partial
+S0966,Aurora Systems,Canada,Americas,Low,5,Metals & Minerals,Tier 1,Low,291074.17,2024-05-13,True,True,Full
+S0967,Meridian Logistics,Australia,Oceania,Low,5,Components,Tier 2,High,977721.26,2022-12-08,False,True,Partial
+S0968,Zenith Systems,Switzerland,Europe,Low,5,Facility,Tier 1,Low,55448.85,2021-02-14,False,False,Limited
+S0969,Argent Components,Switzerland,Europe,Low,5,Packaging,Tier 1,Medium,73111.06,2016-05-01,True,True,Full
+S0970,Helios Services,China,Asia,High,25,Components,Tier 1,Medium,208201.45,2019-01-14,True,True,Full
+S0971,Atlas Materials,Australia,Oceania,Low,5,Components,Tier 2,Medium,459119.0,2024-09-14,True,True,Partial
+S0972,Novatek Group,Indonesia,Asia,High,25,Tools & Machinery,Tier 1,Medium,413380.1,2023-08-28,True,True,Partial
+S0973,Zenith Industries,South Africa,Africa,Medium,15,IT Services,Tier 1,Medium,270432.33,2018-08-08,True,True,Full
+S0974,Cascade Group,Spain,Europe,Low,5,Metals & Minerals,Tier 3,Low,565482.32,2025-01-24,True,True,Partial
+S0975,Cobalt Systems,Tunisia,Africa,Medium,15,Components,Tier 1,Low,613242.86,2017-02-09,True,True,Partial
+S0976,Alpine Materials,New Zealand,Oceania,Low,5,Components,Tier 1,Medium,1636978.8,2020-06-19,True,True,Partial
+S0977,Alpine Services,United States,Americas,Low,5,Metals & Minerals,Tier 3,Low,564298.69,2021-06-18,True,True,Full
+S0978,Nimbus Manufacturing,Vietnam,Asia,High,25,Metals & Minerals,Tier 1,High,520297.51,2019-10-20,True,False,Full
+S0979,Argent Systems,Taiwan,Asia,Low,5,Metals & Minerals,Tier 3,High,242659.75,2023-05-24,True,True,Partial
+S0980,Novatek Industries,China,Asia,High,25,Metals & Minerals,Tier 1,Low,333044.28,2025-03-04,True,True,Partial
+S0981,Cobalt Manufacturing,Spain,Europe,Low,5,Packaging,Tier 2,Medium,244029.04,2018-12-02,True,True,Partial
+S0982,Argent Logistics,India,Asia,High,25,Logistics,Tier 2,Low,97644.83,2025-02-06,True,True,Partial
+S0983,Cobalt Group,Tunisia,Africa,Medium,15,IT Services,Tier 2,Low,249828.37,2016-03-06,True,False,Partial
+S0984,Aurora Systems,Japan,Asia,Low,5,Components,Tier 1,Low,585810.33,2025-08-15,False,True,Limited
+S0985,Zenith Partners,Thailand,Asia,Medium,15,Components,Tier 3,Medium,110119.73,2024-04-15,True,True,Partial
+S0986,Aurora Components,Italy,Europe,Low,5,Consulting,Tier 1,Low,388009.73,2018-10-24,True,True,Partial
+S0987,Nimbus Components,Vietnam,Asia,High,25,Metals & Minerals,Tier 1,Medium,480358.13,2016-12-18,True,True,Full
+S0988,Cobalt Supply,Tunisia,Africa,Medium,15,Metals & Minerals,Tier 1,Medium,1558141.47,2018-06-01,True,True,Partial
+S0989,Orion Industries,Germany,Europe,Low,5,Logistics,Tier 1,High,256393.32,2019-01-04,True,True,Limited
+S0990,Lumen Logistics,Philippines,Asia,Medium,15,Metals & Minerals,Tier 1,Low,280944.81,2021-12-24,True,True,Partial
+S0991,Alpine Systems,Spain,Europe,Low,5,Packaging,Tier 1,Medium,70056.27,2023-06-05,True,True,Partial
+S0992,Vega Industries,United Arab Emirates,Middle East,Medium,15,Logistics,Tier 2,Medium,58878.94,2016-06-24,True,True,Partial
+S0993,Nimbus Industries,France,Europe,Low,5,Facility,Tier 2,High,473416.47,2024-11-30,True,True,Full
+S0994,Cascade Systems,Switzerland,Europe,Low,5,Components,Tier 1,Medium,1406968.66,2017-11-07,True,False,Partial
+S0995,Vega Components,United Kingdom,Europe,Low,5,Facility,Tier 1,Low,149707.79,2023-12-10,True,True,Partial
+S0996,Lumen Services,Thailand,Asia,Medium,15,Components,Tier 1,Low,312825.24,2016-05-06,True,True,Full
+S0997,Helios Components,Switzerland,Europe,Low,5,Components,Tier 1,Low,378699.8,2016-08-20,True,True,Partial
+S0998,Cascade Holdings,South Africa,Africa,Medium,15,Components,Tier 1,High,1451290.37,2024-04-22,True,True,Limited
+S0999,Zenith Materials,United Kingdom,Europe,Low,5,Components,Tier 1,Low,170514.37,2016-12-08,True,True,Limited
+S1000,Alpine Holdings,Turkey,Europe/Asia,Medium,15,Metals & Minerals,Tier 2,Medium,368292.82,2025-02-02,False,True,Full

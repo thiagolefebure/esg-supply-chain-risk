@@ -1,0 +1,277 @@
+supplier_id,incident_type,pillar,severity,date
+S0007,Child labor risk,Social,Low,2024-04-27
+S0007,Forced labor risk,Social,Medium,2025-10-23
+S0010,Corruption / ethics concern,Governance,High,2025-06-01
+S0010,Corruption / ethics concern,Governance,Medium,2024-05-26
+S0015,Child labor risk,Social,Low,2025-08-01
+S0015,Forced labor risk,Social,Low,2025-09-04
+S0024,Forced labor risk,Social,Medium,2025-06-09
+S0027,Forced labor risk,Social,High,2024-09-22
+S0028,Health & safety incident,Social,Medium,2025-05-21
+S0030,Health & safety incident,Social,Low,2025-04-09
+S0033,Environmental spill/pollution,Environmental,Low,2025-03-26
+S0035,Child labor risk,Social,Medium,2025-09-06
+S0040,Forced labor risk,Social,Medium,2025-01-17
+S0041,Child labor risk,Social,Low,2025-04-13
+S0047,Environmental spill/pollution,Environmental,Low,2025-12-11
+S0048,Health & safety incident,Social,Low,2024-01-30
+S0049,Environmental spill/pollution,Environmental,Medium,2024-03-14
+S0050,Environmental spill/pollution,Environmental,Medium,2025-09-27
+S0054,Conflict minerals traceability gap,Governance,Low,2025-08-08
+S0062,Corruption / ethics concern,Governance,Low,2025-12-05
+S0070,Conflict minerals traceability gap,Governance,High,2025-08-31
+S0082,Health & safety incident,Social,Medium,2024-02-07
+S0083,Corruption / ethics concern,Governance,Medium,2024-11-19
+S0085,Conflict minerals traceability gap,Governance,Low,2025-10-22
+S0090,Health & safety incident,Social,Medium,2024-02-04
+S0090,Environmental spill/pollution,Environmental,Low,2025-08-07
+S0094,Environmental spill/pollution,Environmental,Low,2024-12-30
+S0096,Child labor risk,Social,Low,2024-10-25
+S0098,Corruption / ethics concern,Governance,High,2024-05-05
+S0107,Health & safety incident,Social,Low,2025-07-22
+S0107,Environmental spill/pollution,Environmental,Low,2025-03-20
+S0108,Health & safety incident,Social,Low,2025-05-12
+S0111,Health & safety incident,Social,Medium,2024-07-29
+S0116,Child labor risk,Social,Low,2024-08-09
+S0117,Conflict minerals traceability gap,Governance,Medium,2024-07-03
+S0119,Environmental spill/pollution,Environmental,High,2025-11-19
+S0120,Conflict minerals traceability gap,Governance,Low,2025-06-03
+S0123,Health & safety incident,Social,Low,2024-11-03
+S0123,Forced labor risk,Social,Low,2024-12-17
+S0130,Forced labor risk,Social,High,2024-12-21
+S0135,Health & safety incident,Social,Medium,2024-03-10
+S0139,Environmental spill/pollution,Environmental,Medium,2024-04-18
+S0141,Health & safety incident,Social,High,2024-09-23
+S0142,Environmental spill/pollution,Environmental,Low,2024-09-01
+S0152,Child labor risk,Social,Low,2025-04-29
+S0159,Forced labor risk,Social,High,2025-02-11
+S0165,Child labor risk,Social,Low,2024-05-20
+S0167,Child labor risk,Social,Low,2025-02-06
+S0174,Environmental spill/pollution,Environmental,High,2024-03-11
+S0180,Environmental spill/pollution,Environmental,Low,2024-01-18
+S0186,Health & safety incident,Social,Low,2025-03-30
+S0186,Corruption / ethics concern,Governance,Medium,2024-10-28
+S0186,Child labor risk,Social,High,2025-09-19
+S0188,Environmental spill/pollution,Environmental,Low,2025-08-02
+S0191,Health & safety incident,Social,Low,2025-08-19
+S0208,Corruption / ethics concern,Governance,Low,2025-03-05
+S0208,Child labor risk,Social,Low,2025-09-10
+S0213,Conflict minerals traceability gap,Governance,Medium,2024-02-21
+S0215,Child labor risk,Social,Low,2025-03-26
+S0218,Forced labor risk,Social,Medium,2025-06-01
+S0218,Health & safety incident,Social,Low,2024-06-05
+S0231,Environmental spill/pollution,Environmental,Low,2025-09-18
+S0238,Corruption / ethics concern,Governance,Medium,2025-10-21
+S0239,Corruption / ethics concern,Governance,Low,2025-06-27
+S0245,Health & safety incident,Social,Low,2024-12-03
+S0246,Corruption / ethics concern,Governance,Medium,2025-02-08
+S0249,Environmental spill/pollution,Environmental,Medium,2025-08-15
+S0253,Environmental spill/pollution,Environmental,Medium,2025-09-14
+S0261,Child labor risk,Social,Medium,2024-06-19
+S0282,Corruption / ethics concern,Governance,Medium,2024-12-24
+S0283,Corruption / ethics concern,Governance,Medium,2025-03-10
+S0287,Forced labor risk,Social,High,2025-07-29
+S0288,Environmental spill/pollution,Environmental,Low,2024-11-24
+S0289,Conflict minerals traceability gap,Governance,Low,2025-11-11
+S0289,Conflict minerals traceability gap,Governance,Medium,2025-03-01
+S0298,Forced labor risk,Social,Low,2024-11-26
+S0312,Forced labor risk,Social,Low,2024-04-05
+S0316,Environmental spill/pollution,Environmental,Low,2024-11-24
+S0316,Forced labor risk,Social,Low,2024-01-17
+S0326,Health & safety incident,Social,Low,2025-07-27
+S0331,Forced labor risk,Social,Low,2025-04-14
+S0333,Corruption / ethics concern,Governance,Low,2025-12-03
+S0334,Forced labor risk,Social,Low,2025-08-09
+S0335,Corruption / ethics concern,Governance,Low,2024-11-14
+S0343,Forced labor risk,Social,Low,2024-03-03
+S0346,Child labor risk,Social,Low,2024-06-29
+S0347,Child labor risk,Social,Low,2025-07-13
+S0347,Environmental spill/pollution,Environmental,Medium,2024-03-07
+S0351,Forced labor risk,Social,Medium,2024-12-08
+S0352,Forced labor risk,Social,High,2025-12-14
+S0353,Environmental spill/pollution,Environmental,Low,2024-05-04
+S0358,Conflict minerals traceability gap,Governance,Low,2025-06-19
+S0360,Health & safety incident,Social,Medium,2024-07-29
+S0367,Health & safety incident,Social,High,2025-09-09
+S0367,Health & safety incident,Social,Medium,2024-11-26
+S0374,Corruption / ethics concern,Governance,High,2025-04-08
+S0375,Conflict minerals traceability gap,Governance,Low,2025-02-10
+S0376,Conflict minerals traceability gap,Governance,Low,2024-08-24
+S0378,Forced labor risk,Social,Medium,2025-10-03
+S0381,Conflict minerals traceability gap,Governance,Medium,2024-10-17
+S0383,Conflict minerals traceability gap,Governance,Low,2024-10-10
+S0385,Corruption / ethics concern,Governance,Medium,2025-04-18
+S0388,Forced labor risk,Social,Low,2025-03-09
+S0389,Child labor risk,Social,Medium,2025-10-17
+S0389,Health & safety incident,Social,Low,2025-04-23
+S0390,Corruption / ethics concern,Governance,Low,2025-01-30
+S0391,Conflict minerals traceability gap,Governance,High,2024-11-23
+S0397,Child labor risk,Social,High,2025-05-09
+S0403,Health & safety incident,Social,Medium,2024-12-04
+S0405,Health & safety incident,Social,Low,2025-01-09
+S0407,Forced labor risk,Social,Medium,2024-10-21
+S0408,Forced labor risk,Social,High,2025-01-31
+S0414,Forced labor risk,Social,Medium,2024-04-22
+S0420,Forced labor risk,Social,High,2025-10-27
+S0421,Conflict minerals traceability gap,Governance,Medium,2024-06-19
+S0422,Health & safety incident,Social,Low,2024-01-11
+S0422,Environmental spill/pollution,Environmental,Low,2024-04-27
+S0423,Health & safety incident,Social,Low,2025-01-01
+S0424,Forced labor risk,Social,Low,2025-03-17
+S0426,Environmental spill/pollution,Environmental,High,2025-05-16
+S0432,Conflict minerals traceability gap,Governance,Low,2024-11-29
+S0435,Health & safety incident,Social,High,2024-07-20
+S0452,Child labor risk,Social,Low,2024-10-27
+S0457,Environmental spill/pollution,Environmental,Low,2024-07-03
+S0458,Environmental spill/pollution,Environmental,High,2024-04-09
+S0483,Health & safety incident,Social,High,2024-12-09
+S0485,Child labor risk,Social,Low,2024-06-22
+S0485,Environmental spill/pollution,Environmental,High,2024-07-10
+S0491,Environmental spill/pollution,Environmental,High,2025-04-29
+S0493,Environmental spill/pollution,Environmental,Medium,2025-01-18
+S0495,Environmental spill/pollution,Environmental,Low,2024-08-16
+S0499,Forced labor risk,Social,Low,2024-06-05
+S0499,Corruption / ethics concern,Governance,High,2024-09-16
+S0506,Health & safety incident,Social,Low,2024-02-28
+S0523,Health & safety incident,Social,Medium,2024-08-27
+S0523,Child labor risk,Social,Low,2024-06-02
+S0528,Child labor risk,Social,Medium,2025-08-09
+S0529,Child labor risk,Social,Low,2024-10-17
+S0535,Environmental spill/pollution,Environmental,Low,2025-12-11
+S0537,Child labor risk,Social,High,2024-04-14
+S0538,Conflict minerals traceability gap,Governance,Medium,2025-04-25
+S0542,Child labor risk,Social,Low,2025-05-02
+S0543,Forced labor risk,Social,Low,2024-04-12
+S0554,Health & safety incident,Social,High,2025-09-06
+S0556,Health & safety incident,Social,Medium,2024-03-30
+S0559,Conflict minerals traceability gap,Governance,Low,2025-04-22
+S0566,Corruption / ethics concern,Governance,Low,2024-02-22
+S0567,Forced labor risk,Social,High,2025-04-19
+S0575,Health & safety incident,Social,Low,2025-01-02
+S0577,Corruption / ethics concern,Governance,Low,2025-02-22
+S0578,Child labor risk,Social,Medium,2025-10-01
+S0580,Forced labor risk,Social,High,2024-11-16
+S0580,Environmental spill/pollution,Environmental,High,2024-02-02
+S0581,Environmental spill/pollution,Environmental,Low,2024-01-22
+S0591,Corruption / ethics concern,Governance,Low,2024-01-10
+S0595,Corruption / ethics concern,Governance,Low,2025-10-31
+S0597,Corruption / ethics concern,Governance,Low,2025-11-05
+S0607,Child labor risk,Social,Low,2025-06-13
+S0608,Health & safety incident,Social,Low,2024-03-13
+S0611,Conflict minerals traceability gap,Governance,Low,2024-01-08
+S0616,Environmental spill/pollution,Environmental,Medium,2025-10-28
+S0620,Conflict minerals traceability gap,Governance,Low,2025-04-03
+S0622,Environmental spill/pollution,Environmental,High,2025-09-28
+S0622,Conflict minerals traceability gap,Governance,Low,2024-06-06
+S0626,Environmental spill/pollution,Environmental,High,2025-02-20
+S0629,Health & safety incident,Social,High,2024-04-24
+S0634,Health & safety incident,Social,Low,2024-06-15
+S0637,Conflict minerals traceability gap,Governance,High,2024-03-05
+S0638,Environmental spill/pollution,Environmental,Medium,2024-08-16
+S0641,Forced labor risk,Social,Medium,2025-09-22
+S0641,Health & safety incident,Social,Medium,2025-07-24
+S0642,Forced labor risk,Social,Low,2025-02-25
+S0644,Forced labor risk,Social,Medium,2025-02-16
+S0648,Child labor risk,Social,Low,2025-09-14
+S0656,Corruption / ethics concern,Governance,High,2024-02-18
+S0667,Forced labor risk,Social,Low,2025-04-10
+S0672,Environmental spill/pollution,Environmental,Low,2025-03-05
+S0680,Conflict minerals traceability gap,Governance,Low,2025-11-11
+S0681,Health & safety incident,Social,Medium,2025-06-13
+S0700,Corruption / ethics concern,Governance,Low,2024-08-11
+S0705,Environmental spill/pollution,Environmental,Low,2024-09-11
+S0706,Child labor risk,Social,High,2025-08-31
+S0710,Conflict minerals traceability gap,Governance,High,2024-06-03
+S0713,Corruption / ethics concern,Governance,Medium,2024-11-28
+S0717,Health & safety incident,Social,High,2025-08-20
+S0722,Forced labor risk,Social,High,2024-06-09
+S0722,Conflict minerals traceability gap,Governance,Low,2024-05-26
+S0723,Forced labor risk,Social,Low,2024-10-13
+S0723,Health & safety incident,Social,Low,2025-01-03
+S0729,Child labor risk,Social,Medium,2024-11-04
+S0733,Health & safety incident,Social,Low,2024-05-29
+S0733,Environmental spill/pollution,Environmental,Medium,2024-09-03
+S0736,Environmental spill/pollution,Environmental,Medium,2024-04-10
+S0738,Health & safety incident,Social,Low,2025-03-22
+S0742,Health & safety incident,Social,Medium,2025-09-28
+S0745,Conflict minerals traceability gap,Governance,Low,2025-02-24
+S0748,Health & safety incident,Social,High,2024-07-31
+S0750,Corruption / ethics concern,Governance,High,2025-06-07
+S0751,Forced labor risk,Social,Low,2025-01-29
+S0756,Forced labor risk,Social,High,2024-12-07
+S0756,Environmental spill/pollution,Environmental,Low,2025-04-24
+S0756,Health & safety incident,Social,Low,2025-10-15
+S0758,Forced labor risk,Social,Low,2025-03-14
+S0760,Corruption / ethics concern,Governance,Low,2025-06-28
+S0763,Health & safety incident,Social,High,2025-04-27
+S0766,Conflict minerals traceability gap,Governance,Low,2024-05-24
+S0767,Child labor risk,Social,Medium,2025-06-19
+S0779,Conflict minerals traceability gap,Governance,Low,2025-04-26
+S0781,Health & safety incident,Social,Medium,2025-07-15
+S0783,Health & safety incident,Social,Low,2025-09-15
+S0788,Child labor risk,Social,Low,2024-02-25
+S0792,Corruption / ethics concern,Governance,Low,2024-01-05
+S0801,Forced labor risk,Social,Low,2025-11-12
+S0801,Conflict minerals traceability gap,Governance,High,2025-08-14
+S0801,Conflict minerals traceability gap,Governance,Medium,2025-09-03
+S0803,Corruption / ethics concern,Governance,Low,2025-02-20
+S0803,Corruption / ethics concern,Governance,High,2025-11-21
+S0807,Corruption / ethics concern,Governance,High,2024-12-31
+S0809,Forced labor risk,Social,Medium,2025-10-25
+S0810,Conflict minerals traceability gap,Governance,Medium,2024-10-20
+S0814,Environmental spill/pollution,Environmental,High,2024-03-08
+S0814,Corruption / ethics concern,Governance,Medium,2025-03-06
+S0817,Corruption / ethics concern,Governance,High,2025-10-11
+S0817,Environmental spill/pollution,Environmental,Low,2024-10-07
+S0818,Health & safety incident,Social,Low,2024-03-30
+S0819,Corruption / ethics concern,Governance,Medium,2025-06-20
+S0830,Child labor risk,Social,Medium,2024-11-24
+S0837,Environmental spill/pollution,Environmental,High,2024-06-25
+S0839,Corruption / ethics concern,Governance,Medium,2024-11-27
+S0843,Health & safety incident,Social,High,2024-08-04
+S0849,Forced labor risk,Social,Medium,2025-06-09
+S0856,Health & safety incident,Social,High,2024-03-05
+S0857,Child labor risk,Social,High,2025-03-21
+S0858,Conflict minerals traceability gap,Governance,High,2024-06-10
+S0863,Health & safety incident,Social,Low,2025-08-08
+S0863,Child labor risk,Social,Low,2025-11-19
+S0867,Child labor risk,Social,Low,2025-06-30
+S0879,Environmental spill/pollution,Environmental,Low,2025-04-18
+S0880,Child labor risk,Social,Low,2025-10-07
+S0884,Child labor risk,Social,Medium,2024-05-31
+S0886,Health & safety incident,Social,Medium,2025-07-13
+S0892,Corruption / ethics concern,Governance,High,2024-12-02
+S0895,Child labor risk,Social,Medium,2025-12-29
+S0895,Conflict minerals traceability gap,Governance,High,2025-07-03
+S0896,Conflict minerals traceability gap,Governance,Medium,2025-09-17
+S0899,Corruption / ethics concern,Governance,Medium,2024-02-27
+S0901,Environmental spill/pollution,Environmental,High,2025-09-15
+S0902,Forced labor risk,Social,Medium,2025-08-29
+S0908,Corruption / ethics concern,Governance,Low,2025-07-23
+S0908,Child labor risk,Social,High,2024-05-19
+S0910,Environmental spill/pollution,Environmental,Medium,2024-06-29
+S0913,Health & safety incident,Social,Low,2024-01-09
+S0918,Conflict minerals traceability gap,Governance,Low,2024-12-03
+S0918,Conflict minerals traceability gap,Governance,Medium,2025-02-04
+S0919,Health & safety incident,Social,Medium,2025-06-14
+S0919,Environmental spill/pollution,Environmental,Low,2024-10-02
+S0937,Forced labor risk,Social,High,2024-12-07
+S0943,Conflict minerals traceability gap,Governance,Low,2025-03-01
+S0945,Conflict minerals traceability gap,Governance,Low,2025-09-08
+S0945,Health & safety incident,Social,Low,2024-11-11
+S0949,Environmental spill/pollution,Environmental,Low,2024-08-05
+S0961,Forced labor risk,Social,Low,2024-08-20
+S0961,Health & safety incident,Social,Low,2024-11-23
+S0965,Corruption / ethics concern,Governance,Medium,2024-10-04
+S0966,Conflict minerals traceability gap,Governance,Low,2024-09-06
+S0971,Forced labor risk,Social,High,2025-11-06
+S0972,Child labor risk,Social,High,2024-09-19
+S0975,Child labor risk,Social,Medium,2025-11-01
+S0977,Health & safety incident,Social,High,2024-03-18
+S0977,Child labor risk,Social,Medium,2024-03-22
+S0980,Health & safety incident,Social,Low,2024-01-05
+S0980,Corruption / ethics concern,Governance,Medium,2024-05-16
+S0987,Child labor risk,Social,Medium,2024-12-27
+S0989,Corruption / ethics concern,Governance,Low,2025-01-12
+S0990,Child labor risk,Social,Low,2025-11-09
+S1000,Child labor risk,Social,Low,2024-05-17

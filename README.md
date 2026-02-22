@@ -1,8 +1,4 @@
 ## Risk Prioritization Matrix
-<<<<<<< HEAD
-
-=======
->>>>>>> 9741b37 (Update README + restructure portfolio)
 ![Risk Matrix](assets/risk_spend_matrix.png)
 
 ## Context

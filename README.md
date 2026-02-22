@@ -1,3 +1,5 @@
+![Risk Matrix](assets/risk_spend_matrix.png)
+
 ## Context
 
 This project simulates how ESG due diligence can be embedded into a Supplier Lifecycle Management (SLM) framework, supporting onboarding, monitoring, and compliance processes.

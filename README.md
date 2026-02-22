@@ -1,6 +1,6 @@
 ## Risk Prioritization Matrix
 
-![Risk Matrix](https://github.com/.../assets/risk_spend_matrix.png))
+![Risk Matrix](https://github.com/.../assets/risk_spend_matrix.png)
 
 ## Context
 

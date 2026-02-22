@@ -1,85 +1,93 @@
-# ESG Supply Chain Risk Intelligence Platform (Simulated Case Study)
+## Context
 
-**Goal:** Demonstrate an end-to-end responsible procurement analytics workflow:
-- Consolidate supplier, ESG, audit and incident data
-- Ensure **data quality** and traceability (portfolio-friendly governance)
-- Build an explainable **risk scoring** model
-- Prioritize actions via a **Risk × Spend** matrix
-- Provide Tableau-ready outputs and a presentation deck
+This project simulates how ESG due diligence can be embedded into a Supplier Lifecycle Management (SLM) framework, supporting onboarding, monitoring, and compliance processes.
 
-> **Disclaimer:** All data is simulated and does not represent any real company, supplier, or country risk profile.
+# ESG Supply Chain Due Diligence Platform (Simulated Case Study)
 
----
+**Goal:** Demonstrate an end-to-end **responsible sourcing and supply chain due diligence workflow**, aligned with OECD principles and upcoming EU regulations (CSRD / CSDDD).
 
-## Repository structure
+- Consolidate supplier, ESG, audit, and incident data  
+- Ensure **data quality, traceability, and audit readiness**  
+- Build an explainable **ESG risk scoring model**  
+- Support **supplier onboarding and monitoring decisions**  
+- Prioritize actions via a **Risk × Spend matrix**  
+- Enable **corrective action and mitigation tracking**  
 
-- `data/` – raw simulated datasets (CSV)
-- `notebooks/` – Python analysis (Jupyter)
-- `outputs/` – curated datasets for Tableau + scoring results
-- `docs/` – dashboard spec + calculated fields
-- `presentation.pptx` – 6-slide pitch deck
+> **Disclaimer:** All data is simulated and does not represent real companies.
 
 ---
 
-## Datasets (CSV)
+## Key Features
 
-1) `data/suppliers.csv`
-- Supplier master data (category, tier, spend, traceability, etc.)
-
-2) `data/esg_scores.csv`
-- ESG pillar scores (E/S/G) + last update + source
-
-3) `data/audits.csv`
-- Audit status, scores, non-compliance severity, deadlines
-
-4) `data/incidents.csv`
-- ESG incidents (type, pillar, severity, date)
+- ESG risk scoring aligned with **due diligence principles**
+- Supplier segmentation for **responsible sourcing decisions**
+- Integration of **audit results and incident tracking**
+- Support for **corrective action plans and mitigation strategies**
+- Designed for **cross-functional use (Procurement, Sustainability, Compliance)**
 
 ---
 
-## Method (high level)
+## Repository Structure
 
-### 1) Data quality
-- Missingness profiling and completeness KPI (`esg_completeness`)
-- Light imputation *for scoring only* (median by category → overall median)
-
-### 2) Explainable risk score
-A composite score combining:
-- Pillar ESG gaps (100 - E/S/G scores)
-- Inherent risk (simulated `country_risk_weight`)
-- Operational risk drivers (tier, dependency, traceability)
-- Compliance signals (audits + incidents)
-
-### 3) Decisions
-- `risk_class` thresholds (Low / Medium / High)
-- `recommended_action` rules for mitigation, audits, monitoring
+- `data/` – simulated supplier & ESG datasets  
+- `notebooks/` – Python analysis  
+- `outputs/` – datasets for dashboards & reporting  
+- `docs/` – dashboard specifications  
+- `presentation.pptx` – executive summary  
 
 ---
 
-## Run the analysis
+## Methodology (OECD-aligned logic)
 
-From the `notebooks/` folder:
-1. Open `esg_risk_analysis.ipynb`
-2. Run all cells
-3. Outputs are written to `outputs/`
+### 1. Risk Identification & Assessment
+- ESG pillar gaps (E/S/G)  
+- Country risk exposure  
+- Supplier characteristics (tier, dependency, traceability)  
+
+### 2. Risk Analysis
+- Composite ESG risk score (0–100)  
+- Integration of audit findings and ESG incidents  
+
+### 3. Risk Prioritization
+- Risk classification (Low / Medium / High)  
+- Risk × Spend matrix for decision-making  
+
+### 4. Mitigation & Action
+- Recommended actions:
+  - Enhanced monitoring  
+  - Supplier engagement  
+  - Corrective action plans  
+
+### 5. Monitoring & Reporting
+- KPI tracking  
+- Dashboard outputs (Tableau / Power BI ready)  
 
 ---
 
-## Tableau dashboard (build guide)
+## Outputs
 
-See:
-- `docs/tableau_dashboard_spec.md`
-- `docs/tableau_calculated_fields.txt`
-
-Use `outputs/cleaned_master_dataset.csv` as your primary Tableau data source.
-
----
-
-## Suggested slide pitch (what to say in interview)
-
-> “I built a simulated responsible procurement system: data consolidation, quality controls, an explainable ESG risk score, and a dashboard for prioritizing suppliers by risk and spend. The goal is to turn ESG reporting into a decision tool.”
+- Supplier ESG risk score  
+- Risk classification and prioritization  
+- Clean dataset for dashboarding  
+- Decision-support visualization  
 
 ---
 
-## License
-MIT (optional – add if you plan to publish publicly).
+## Tools
+
+Python (Pandas), Excel, Tableau / Power BI  
+
+---
+
+## Business Impact
+
+- Improves **supplier risk visibility and prioritization**  
+- Supports **responsible sourcing and ESG integration**  
+- Enhances **compliance readiness (CSRD / CSDDD)**  
+- Bridges ESG reporting with **operational decision-making**  
+
+---
+
+## Suggested Interview Pitch
+
+> “I designed a supply chain due diligence system aligned with OECD principles. It combines ESG data, audits, and incidents into an explainable risk model, helping procurement teams prioritize suppliers and implement mitigation actions.”

@@ -1,5 +1,5 @@
 ## Risk Prioritization Matrix
-![Risk Matrix](assets/risk_spend_matrix.png)
+![Risk Matrix](assets/risk_matrix.png)
 
 ## Context
 
